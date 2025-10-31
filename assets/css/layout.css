@@ -210,6 +210,10 @@ section.alternate, section.clients-section, section.blog-section {
 	font-weight: 600 !important;
 }
 
+.case-studies-section .box-image-title h2 {
+	font-size: 20px;
+}
+
 .technology-section h1, .highlight-section h1, .footer-section h1 {
 	font-family: 'Graphik', sans-serif !important;
 	font-size: 60px;

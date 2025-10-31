@@ -720,13 +720,8 @@
           <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
           <h1 class="weight-400"><span class="font-red">1BT</span> HIGHLIGHTS</h1>
         </header>
-
-
         <div class="col-md-12">
           <div class="owl-carousel owl-padding-10 buttons-autohide controlls-over" data-plugin-options='{"singleItem": false, "items":"2", "autoPlay": false, "navigation": false, "pagination": false}'>
-
-
-
             <div class="img-hover mr-10">
               <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/zoe-highlights-thumb.jpg" alt="">
@@ -740,8 +735,6 @@
 
               </a>
             </div>
-
-
             <div class="img-hover ml-10">
               <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
