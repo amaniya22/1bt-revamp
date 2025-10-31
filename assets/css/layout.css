@@ -129,10 +129,10 @@ body.bg-grey #wrapper {
 }
 
 section {
-	background-color: #050505;
 	display: block;
 	position: relative;
-	padding: 0 0 40px;
+	padding: 40px 0;
+	background-color: #fff;
 
 	-webkit-transition: all .400s;
 	-moz-transition: all .400s;
@@ -355,9 +355,8 @@ body.bg-grey #wrapper {
 	background-color: #f1f2f7;
 }
 
-#slider-container .container {
+.container {
 	position: relative;
-	width: 100%;
 }
 
 a:active,
@@ -5973,7 +5972,6 @@ p.lead .word-rotator {
 /** Sliders
  **************************************************************** **/
 section#slider {
-	background-color: #050505;
 	display: block;
 	padding: 0;
 	margin: 0;
@@ -6012,32 +6010,6 @@ section#slider {
 
 .slide .slide-img.slide-img-2 {		
 	max-width: 40% !important;
-}
-
-.slide .video-background {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	z-index: 1;
-}
-
-.video-background video {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
-
-.slide .slide-text-overlay {
-	position: relative;
-	z-index: 2;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 100%;
-	height: 100%;
-	margin: 20px 85px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -6091,40 +6063,19 @@ section#slider {
 }
 
 .slide .slider-title {
-	color: #FFFFFF !important;
+	color: #232A2B !important;
 	font-family: 'Poppins', sans-serif;
-	font-size: 100px;
+	font-size: 40px;
 	font-weight: 600;
-	line-height: 100%;
-	margin-right: 64px;
-	text-transform: capitalize;
-}
-
-.slide .slider-title-div .slider-subtitle {
-	color: #FFFFFF !important;
-	font-family: 'Poppins', sans-serif;
-	font-size: 35px;
-	font-style: italic;
-	font-weight: 600;
+	line-height: 50px;
 	text-transform: capitalize;
 }
 
 .slide .slider-content {
-	color: #FFFFFF !important;
+	color: #606060 !important;
 	font-family: 'Poppins', sans-serif;
-	font-size: 20px;
-	font-weight: 400;
-	margin-bottom: 50px;
-	margin-top: -65px;
-}
-
-.slide .slider-content-btn {
-	background-color: #FF0000;
-	border-radius: 5px;
-	color: #FFFFFF;
 	font-size: 18px;
-	font-weight: 600;
-	padding: 10px 20px;
+	font-weight: 400;
 }
 
 .slider-dot-menu {
@@ -6140,8 +6091,14 @@ section#slider {
 	width: 100%;
 }
 
-.slider-title-div .slider-title .slider-title-red {
-	color: #E50914;
+.slider-title {
+	color: #232A2B;
+	font-family: 'Poppins', sans-serif;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 50px;
+	text-transform: capitalize;
 }
 
 .hidden-md.hidden-lg.hidden-sm .slider-dot-menu {
@@ -6232,7 +6189,6 @@ section#slider a:hover {
 .slide-main {
 	width: 100%;
 	display: none;
-	padding: 62px 20px;
 }
 
 .slide.active {
