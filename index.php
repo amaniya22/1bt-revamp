@@ -659,7 +659,9 @@
               </a>
 
               <a href="case_study_symbox.php" class="box-image-title">
-                <h2 class="weight-400">End to end testing service</h2>
+                <h2 class="weight-600">End to end testing service</h2>
+                <h5 class="weight-400">A UK-based consultancy working with financial services institutions and business leaders.</h5>
+                <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 
             </div>
@@ -674,7 +676,9 @@
               </a>
 
               <a href="case_study_assetminder.php" class="box-image-title">
-                <h2 class="weight-400">Cross-platform fleet management</h2>
+                <h2 class="weight-600">Cross-platform fleet management</h2>
+                <h5 class="weight-400">A UK-based consultancy working with financial services institutions and business leaders.</h5>
+                <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 
             </div>
@@ -689,7 +693,9 @@
               </a>
 
               <a href="case_study_millionspaces.php" class="box-image-title">
-                <h2 class="weight-400">Product incubation</h2>
+                <h2 class="weight-600">Product incubation</h2>
+                <h5 class="weight-400">A UK-based consultancy working with financial services institutions and business leaders.</h5>
+                <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 
             </div>

@@ -16052,7 +16052,7 @@ section.dark .btn-default {
 }
 
 a.btn {
-	line-height: 26px;
+	/* line-height: 26px; */
 }
 
 a.btn.btn-xs {
