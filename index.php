@@ -80,19 +80,28 @@
     </div>
 
 
-    <section id="slider-container" class="slide-mobile" style="background:url('assets/images/main-home.webp'); background-repeat: no-repeat; background-position-y: -100px;">
+    <section id="slider-container" class="slide-mobile">
       <div class="container">
-               <div class="slide-main">
+        <div class="slide-container">
           <div class="slide slide-row">
-            <div class="slide-text-div">
-              <p class="slider-title">
-                AI Meets Engineering Excellence, Delivering </br>
-Innovation At Speed</p>
-              <p class="slider-content">With AI-driven automation and Agentic Development, we transform ideas into intelligent, scalable products, built for agility and precision.
-</p>
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
             </div>
 
-            <img src="assets/images/slide2-img 1.png" class="slide-img slide-img-2 margin-left-150" />
+            <div class="slide-main slide-text-overlay">
+              <div class="slide-text-div slide-sec-1">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">AI Meets</span> Engineering Excellence,
+                  <p>
+                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2">
+                <p class="slider-content">With AI-driven automation and Agentic Development, we transform ideas into intelligent, scalable products, built for agility and precision.</p>
+                <button class="slider-content-btn">Book a consultation call</button>
+              </div>
+            </div>
           </div>
         </div>
         <div class="slide-main">
@@ -104,11 +113,8 @@ Innovation At Speed</p>
                 Dynamics GYDE365, ensuring our clients receive
                 expert support for their business needs.</p>
             </div>
-
-            <img src="assets/images/slide1-img.webp" class="slide-img slide-img-1 margin-left-150" />
           </div>
         </div>
-   
 
         <div class="slide-main">
           <div class="slide slide-row">
@@ -120,8 +126,6 @@ Innovation At Speed</p>
                 services on AWS and Azure, leveraging our expertise
                 to help clients scale and succeed in the cloud.</p>
             </div>
-
-            <img src="assets/images/slide3-img.webp" class="slide-img slide-img-3 margin-left-150" />
           </div>
         </div>
 
@@ -135,8 +139,6 @@ Innovation At Speed</p>
                 how we've helped them achieve their goals
                 and exceed their expectations.</p>
             </div>
-
-            <img src="assets/images/slide4-img.webp" class="slide-img slide-img-4 margin-left-150" />
           </div>
         </div>
 
@@ -150,8 +152,6 @@ Innovation At Speed</p>
                 Our inclusive culture, cutting-edge tech, and career
                 development opportunities make it unique.</p>
             </div>
-
-            <img src="assets/images/slide5-img.webp" class="slide-img slide-img-5 margin-left-155" />
           </div>
         </div>
       </div>
