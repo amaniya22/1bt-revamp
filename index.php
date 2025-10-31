@@ -106,51 +106,94 @@
         </div>
         <div class="slide-main">
           <div class="slide slide-row">
-            <div class="slide-text-div">
-              <p class="slider-title">
-                Microsoft Dynamics</br> GYDE365</p>
-              <p class="slider-content">Our team boasts ample experience in Microsoft
-                Dynamics GYDE365, ensuring our clients receive
-                expert support for their business needs.</p>
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">Microsoft Dynamics</span> GYDE365,
+                  <p>
+                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2">
+                <p class="slider-content">Our team boasts ample experience in Microsoft Dynamics GYDE365, ensuring our clients receive expert support for their business needs.</p>
+                <button class="slider-content-btn">Book a consultation call</button>
+              </div>
             </div>
           </div>
         </div>
 
         <div class="slide-main">
           <div class="slide slide-row">
-            <div class="slide-text-div">
-              <p class="slider-title">
-                Product development</br>
-                AWS, Azure</p>
-              <p class="slider-content">We offer end-to-end product development
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">Product development</span> AWS, Azure,
+                  <p>
+                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2">
+                <p class="slider-content">We offer end-to-end product development
                 services on AWS and Azure, leveraging our expertise
                 to help clients scale and succeed in the cloud.</p>
+                <button class="slider-content-btn">Book a consultation call</button>
+              </div>
             </div>
           </div>
         </div>
 
         <div class="slide-main">
           <div class="slide slide-row">
-            <div class="slide-text-div">
-              <p class="slider-title">
-                What our</br>
-                Clients Say</p>
-              <p class="slider-content">Check out our client testimonials to see
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">What our</span> Clients Say
+                  <p>
+                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2">
+                <p class="slider-content">Check out our client testimonials to see
                 how we've helped them achieve their goals
                 and exceed their expectations.</p>
+                <button class="slider-content-btn">Book a consultation call</button>
+              </div>
             </div>
           </div>
         </div>
 
         <div class="slide-main">
           <div class="slide slide-row">
-            <div class="slide-text-div">
-              <p class="slider-title">
-                Life at</br>
-                1BillionTech</p>
-              <p class="slider-content">Life at 1 BillionTech is vibrant and fulfilling.
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">Life at</span> 1BillionTech
+                  <p>
+                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2">
+                <p class="slider-content">Life at 1 BillionTech is vibrant and fulfilling.
                 Our inclusive culture, cutting-edge tech, and career
                 development opportunities make it unique.</p>
+                <button class="slider-content-btn">Book a consultation call</button>
+              </div>
             </div>
           </div>
         </div>
