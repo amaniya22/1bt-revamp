@@ -355,7 +355,7 @@ body.bg-grey #wrapper {
 	background-color: #f1f2f7;
 }
 
-.container {
+#slider-container .container {
 	position: relative;
 	width: 100%;
 }
