@@ -6117,7 +6117,7 @@ section#slider {
 	font-size: 95px;
 	font-weight: 600;
 	line-height: 100%;
-	text-transform: capitalize;
+	text-transform: uppercase;
 }
 
 #slider-container .slide .slider-title-red {
@@ -6135,7 +6135,7 @@ section#slider {
 }
 
 #slider-container .slide .slide-sec-2 {
-	margin-left: 150px;
+	margin-left: 80px;
 }
 
 #slider-container .slide .slider-content {
@@ -6145,6 +6145,7 @@ section#slider {
 	font-weight: 400;
 	margin-bottom: 50px;
 	margin-top: -65px;
+	width: 75%;
 }
 
 #slider-container .slide .slider-content-btn {
@@ -7007,7 +7008,7 @@ div.ls-thumbnail-slide-container {
 #slider-container .video-background video {
 	width: 100%;
 	height: 100%;
-	object-fit: none;
+	object-fit: cover;
 }
 
 #slider-container .slide-row {
@@ -7020,7 +7021,7 @@ div.ls-thumbnail-slide-container {
 	position: relative;
 	z-index: 2;
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 	align-items: center;
 	width: 100%;
 	height: 100%;
