@@ -190,7 +190,9 @@ section.alternate, section.clients-section, section.blog-section {
 	font-family: 'Graphik', sans-serif !important;
 	display: inline-block;
 	padding: 0 10px;
+	margin-bottom: 0 !important;
 }
+
 
 .technology-section .sub-heading, .highlight-section .sub-heading, .footer-section .sub-heading {
 	border: 1px solid #000;
@@ -198,6 +200,7 @@ section.alternate, section.clients-section, section.blog-section {
 	font-family: 'Graphik', sans-serif !important;
 	display: inline-block;
 	padding: 0 10px;
+	margin-bottom: 0 !important;
 }
 
 .clients-section h1, .case-studies-section h1, .blog-section h1, #footer.black-footer h1{
@@ -211,6 +214,30 @@ section.alternate, section.clients-section, section.blog-section {
 	font-family: 'Graphik', sans-serif !important;
 	font-size: 60px;
 	font-weight: 600 !important;
+}
+
+.case-studies-section .case-study-title {
+	color: #fff !important;
+	font-family: 'Graphik', sans-serif !important;
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: 400 !important;
+	text-align: justify;
+}
+
+.case-studies-section .box-image {
+	display: flex;
+	justify-content: space-between;
+	gap: 30px;
+}
+
+.case-studies-section .box-image a {
+	flex-basis: 50%;
+}
+
+.case-studies-section .box-image-title h2 {
+	font-family: 'Graphik', sans-serif !important;
+	color: #fff !important;
 }
 
 .highlight-section h5 {

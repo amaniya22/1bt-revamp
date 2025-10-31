@@ -637,14 +637,20 @@
 
     <section class="alternate case-studies-section">
       <div class="container">
-        <header class="text-center margin-bottom-60 section-title">
+        
+        <div class="col-lg-12">
+        <div class="col-md-6">
+        <header class="text-left margin-bottom-60 section-title">
           <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
           <h1><span class="font-red">CASE</span> STUDIES</h1>
         </header>
-
+        </div>
+        <div class="col-md-6 ">
+          <p class="case-study-title">At 1BillionTech, we don't just build solutions—we deliver measurable business impact. Our case studies demonstrate how our expertise in AI-driven automation, cloud modernization, and enterprise solutions transforms complex challenges into competitive advantages for our clients. See the strategies, technologies, and results that define our partnerships.</p>
+        </div>
         <div class="col-lg-12">
 
-          <div class="col-md-4">
+          <div class="col-md-6">
 
             <div class="box-image text-left">
 
@@ -659,7 +665,7 @@
             </div>
 
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
 
             <div class="box-image text-left">
 
@@ -674,7 +680,7 @@
             </div>
 
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
 
             <div class="box-image text-left">
 
@@ -715,7 +721,7 @@
 
 
 
-            <div class="img-hover">
+            <div class="img-hover mr-10">
               <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/zoe-highlights-thumb.jpg" alt="">
               </a> -->
@@ -730,7 +736,7 @@
             </div>
 
 
-            <div class="img-hover">
+            <div class="img-hover ml-10">
               <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
               </a> -->
