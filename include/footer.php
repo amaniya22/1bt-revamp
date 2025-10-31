@@ -3,29 +3,17 @@
 
 ?>
 
-<section class="">
+<section class="footer-section">
   <div class="container">
     <div class="row">
-
-      <div class="col-md-5 col-sm-12">
-
-        <header class="text-center section-title">
+    <header class="text-center section-title">
           <p class="sub-heading"> LET'S GET IN TOUCH </p>
-
-          <h1 class="weight-400"> CONTACT US </h1>
-
-        </header>
-
-        <br>
-
-        <div class="col-md-12 text-center">
-
-          <img src="assets/images/ico-phone.png" alt="" style="max-width: 32px;">
-
-          <h5 class="margin-0">PHONE</h5>
-
-
-
+          <h1>Connect <span class="font-red"> With Us </span> </h1>
+    </header>
+    <div class="col-md-5 col-sm-12  padding-top-40">
+        <div class="col-md-12 text-left">
+          <!-- <img src="assets/images/ico-phone.png" alt="" style="max-width: 32px;"> -->
+          <h5 class="margin-0 font-red">PHONE</h5>
           <div style="padding-bottom: 10px">
             <p class="footer-contact-text">+1 408-607-0461 (USA)</br>
               +94 117 112 191 (SL)</p>
@@ -33,11 +21,11 @@
 
         </div>
 
-        <div class="col-md-12 text-center">
+        <div class="col-md-12 text-left">
 
-          <img src="assets/images/ico-address.png" alt="" style="max-width: 32px;">
+          <!-- <img src="assets/images/ico-address.png" alt="" style="max-width: 32px;"> -->
 
-          <h5 class="margin-0">ADDRESS</h5>
+          <h5 class="margin-0 font-red">ADDRESS</h5>
 
           <div style="padding-bottom: 10px">
             <p class="footer-contact-text">22 Sunnyhill Rd., Emerald Hills, CA 94062-3948(USA)
@@ -48,11 +36,11 @@
 
         </div>
 
-        <div class="col-md-12 text-center">
+        <div class="col-md-12 text-left">
 
-          <img src="assets/images/ico-email.png" alt="" style="max-width: 32px;">
+          <!-- <img src="assets/images/ico-email.png" alt="" style="max-width: 32px;"> -->
 
-          <h5 class="margin-0">EMAIL</h5>
+          <h5 class="margin-0 font-red">EMAIL</h5>
 
           <div class="paddingp-top-20">
 
@@ -70,18 +58,17 @@
 
       </div>
 
-      <div class="col-md-7 col-sm-12">
+      <div class="col-md-7 col-sm-12  padding-top-40">
 
-        <header class="text-center section-title">
+        <!-- <header class="text-center section-title">
           <p class="sub-heading"> LOCATIONS </p>
 
           <h1 class="weight-400"> OUR GLOBAL CLIENTS </h1>
 
-        </header>
+        </header> -->
 
-        <div class="text-center padding-top-40">
-
-          <img src="assets/images/Map.svg" style="max-width: 650px" class="img-responsive">
+        <div class="text-center">
+          <img src="assets/images/Map.png" style="max-width: 650px" class="img-responsive">
         </div>
 
       </div>
@@ -93,7 +80,7 @@
 <div class="container">
   <div class="row">
 
-    <div class="col-md-4 padding-20">
+    <div class="col-md-6 padding-20">
       <h3>WRITE TO US</h3>
 
       <!-- CONTACT MESSAGES -->
@@ -136,7 +123,7 @@
     <div class="col-md-3 padding-20">
       <h3>CONNECT</h3>
       <!-- Small Description -->
-      <div style="color: #1E1E1E; font-family: 'Poppins', sans-serif; font-size: 15px; font-weight: 400; line-height: 150%; letter-spacing: -0.165px; text-transform: capitalize;"> We at 1 Billion Tech would love to talk to you about transforming your business. </div>
+      <div style="color: #fff; font-family: 'Graphik', sans-serif; font-size: 15px; font-weight: 400; line-height: 150%; letter-spacing: -0.165px; text-transform: capitalize;"> We at 1 Billion Tech would love to talk to you about transforming your business. </div>
 
       <!-- Social Icons -->
       <div class="clearfix margin-top-25">
@@ -158,13 +145,13 @@
       </div>
       <!-- /Social Icons -->
     </div>
-    <div class="col-md-2 padding-20">
-      <p class="padding-top-50"></p>
+    <!-- <div class="col-md-2 padding-20">
+      <p class="padding-top-50"></p> -->
 
       <!-- Footer Logo -->
-      <img class="footer-logo" src="assets/images/logo.png" alt="" />
+      <!-- <img class="footer-logo" src="assets/images/logo.png" alt="" />
 
-    </div>
+    </div> -->
   </div>
 </div>
 <div class="copyright">

@@ -69,7 +69,7 @@
 
         Example Usage:  class="clearfix sticky header-sm transparent noborder"
       -->
-    <div id="header" class="sticky clearfix">
+    <div id="header" class="sticky clearfix black-header">
 
       <!-- TOP NAV -->
       <!-- TOP NAV -->
@@ -194,67 +194,71 @@ Innovation At Speed</p>
 
 
 
-    <section class="alternate">
+    <section class="alternate service-section">
       <div class="container">
-
-
         <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 ">
+            <div class="border-bottom">
+              <a href="product_incubation.php">
+                <figure class="margin-bottom-30">
+                  <img class="img-responsive" src="assets/images/ai-main.png" alt="service">
+                </figure>
 
-          <div class="col-lg-4 col-md-4 col-sm-4">
-            <a href="product_incubation.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/ai-main.jpg" alt="service">
-              </figure>
+                <h4 class="nomargin-bottom">AI Driven Product Incubation</h4>
+                <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
+                </span>
 
-              <h4 class="nomargin-bottom">AI Driven Product Incubation</h4> <i class="fa fa-chevron-right text-red margin-left-10"></i></span>
+                <p class="nomargin-bottom-p">Leverage our AI based MVP offering to realise your concept to reality.</p>
+              </a>
+            </div>
+          </div>
 
-              <p class="nomargin-bottom-p">Leverage our AI based MVP offering to realise your concept to reality.</p>
-            </a>
+          <div class="col-lg-4 col-md-4 col-sm-4 ">
+            <div class="border-bottom">
+              <a href="CRM_services.php">
+                <figure class="margin-bottom-30">
+                  <img class="img-responsive" src="assets/images/crm.png" alt="service">
+                </figure>
 
+                <h4 class="nomargin-bottom">Microsoft D365</h4> 
+                <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
+              </span>
+
+                <p class="nomargin-bottom-p">Engage your customers better leveraging the newest trends in Microsoft D365.</p>
+              </a>
+            </div>
           </div>
 
           <div class="col-lg-4 col-md-4 col-sm-4">
-            <a href="CRM_services.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/crm.webp" alt="service">
-              </figure>
+            <div class="border-bottom">
+              <a href="cloud_services.php">
+                <figure class="margin-bottom-30">
+                  <img class="img-responsive" src="assets/images/cloud_services.png" alt="service">
+                </figure>
 
-              <h4 class="nomargin-bottom">Microsoft D365</h4> <i class="fa fa-chevron-right text-red margin-left-10"></i></span>
+                <h4 class="nomargin-bottom">Cloud Services</h4> 
+                <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
+              </span>
 
-              <p class="nomargin-bottom-p">Engage your customers better leveraging the newest trends in Microsoft D365.</p>
-            </a>
+                <p class="nomargin-bottom-p">Accelerate your cloud initiatives utilizing best-in-class technologies.</p>
 
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-sm-4">
-            <a href="cloud_services.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/cloud_services.webp" alt="service">
-              </figure>
-
-              <h4 class="nomargin-bottom">Cloud Services</h4> <i class="fa fa-chevron-right text-red margin-left-10"></i></span>
-
-              <p class="nomargin-bottom-p">Accelerate your cloud initiatives utilizing best-in-class technologies.</p>
-
-            </a>
+              </a>
+            </div>
           </div>
           <div class="clearfix"></div>
-          <div class="text-center"><a href="services.php" class="view-btn btn btn-red">VIEW MORE</a></div>
+          <!-- <div class="text-center"><a href="services.php" class="view-btn btn btn-red">VIEW MORE</a></div> -->
 
         </div>
 
       </div>
     </section>
 
-
-
-
-    <section class="no-margin">
+    <section class="no-margin clients-section">
       <div class="container-fluid">
 
         <header class="text-center margin-bottom-60 section-title">
-          <p class="sub-heading"> THE COMPANY WE KEEP </p>
-          <h1 class="weight-400"> OUR CLIENTS</h1>
+          <p class="sub-heading"> The Company We Keep </p>
+          <h1 class="weight-400"> <span class="font-red">OUR</span> CLIENTS</h1>
         </header>
         <div class="col-md-12">
           <div class="text-center">
@@ -386,7 +390,7 @@ Innovation At Speed</p>
 
 
     <!-- -->
-    <section>
+    <section class="blog-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
           <p class="sub-heading"> OUR BEST WORK YET </p>
@@ -401,12 +405,12 @@ Innovation At Speed</p>
             <!-- IMAGE -->
             <a href="blog_How_testers_should_deal_with_GDPR.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/gdpr-thumb.webp" alt="">
+                <img class="img-responsive" src="assets/images/face-rec-main.png" alt="img">
               </figure>
             </a>
 
-            <h2><a href="blog_How_testers_should_deal_with_GDPR.php" class="weight-400">How testers should deal with GDPR
-              </a></h2>
+            <!-- <h2><a href="blog_How_testers_should_deal_with_GDPR.php" class="weight-400">How testers should deal with GDPR
+              </a></h2> -->
 
 
 
@@ -421,12 +425,12 @@ Innovation At Speed</p>
             <!-- IMAGE -->
             <a href="blog_Lambda_layers_with_NodeJS.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/Lambdalayers_main.webp" alt="">
+                <img class="img-responsive" src="assets/images/Amazon_aurora_main.png" alt="img">
               </figure>
             </a>
 
-            <h2><a href="blog_Lambda_layers_with_NodeJS.php" class="weight-400">Lambda layers with NodeJS
-              </a></h2>
+            <!-- <h2><a href="blog_Lambda_layers_with_NodeJS.php" class="weight-400">Lambda layers with NodeJS
+              </a></h2> -->
 
 
 
@@ -439,13 +443,13 @@ Innovation At Speed</p>
             <!-- IMAGE -->
             <a href="blog_GitHub_Workflows_For_Test_Automation.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/automation-main.webp" alt="">
+                <img class="img-responsive" src="assets/images/artifical-main.png" alt="img">
               </figure>
             </a>
-
+<!-- 
             <h2><a href="blog_GitHub_Workflows_For_Test_Automation.php" class="weight-400">Amazon Aurora Serverless
 
-              </a></h2>
+              </a></h2> -->
 
 
 
@@ -458,13 +462,13 @@ Innovation At Speed</p>
             <!-- IMAGE -->
             <a href="blog_Developing_an_authentication_service_using_face_recognition.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/face_rec_main.webp" alt="">
+                <img class="img-responsive" src="assets/images/Amazon_aurora_main.png" alt="img">
               </figure>
             </a>
 
-            <h2><a href="blog_Developing_an_authentication_service_using_face_recognition.php" class="weight-400">Developing an authentication service using face recognition
+            <!-- <h2><a href="blog_Developing_an_authentication_service_using_face_recognition.php" class="weight-400">Developing an authentication service using face recognition
 
-              </a></h2>
+              </a></h2> -->
 
 
 
@@ -483,79 +487,11 @@ Innovation At Speed</p>
     </section>
 
 
-
-
-
-    <section class="alternate">
-      <div class="container">
-        <header class="text-center margin-bottom-60 section-title">
-          <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
-          <h1 class="weight-400">CASE STUDIES</h1>
-        </header>
-
-        <div class="col-lg-12">
-
-          <div class="col-md-4">
-
-            <div class="box-image text-left">
-
-              <a href="case_study_symbox.php">
-                <img class="img-responsive" src="assets/images/symbox-casestudy.webp" alt="">
-              </a>
-
-              <a href="case_study_symbox.php" class="box-image-title">
-                <h2 class="weight-400">End to end testing service</h2>
-              </a>
-
-            </div>
-
-          </div>
-          <div class="col-md-4">
-
-            <div class="box-image text-left">
-
-              <a href="case_study_assetminder.php">
-                <img class="img-responsive" src="assets/images/assetminder-casestudy.webp" alt="">
-              </a>
-
-              <a href="case_study_assetminder.php" class="box-image-title">
-                <h2 class="weight-400">Cross-platform fleet management</h2>
-              </a>
-
-            </div>
-
-          </div>
-          <div class="col-md-4">
-
-            <div class="box-image text-left">
-
-              <a href="case_study_millionspaces.php">
-                <img class="img-responsive" src="assets/images/ms-casestudy.webp" alt="">
-              </a>
-
-              <a href="case_study_millionspaces.php" class="box-image-title">
-                <h2 class="weight-400">Product incubation</h2>
-              </a>
-
-            </div>
-
-          </div>
-          <div class="clearfix"></div>
-
-          <div class="text-center"><a href="case_studies.php" class="view-btn btn btn-red">VIEW MORE</a></div>
-
-
-        </div>
-
-      </div>
-    </section>
-
-
-    <section>
+    <section class="technology-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
           <p class="sub-heading"> OUR TECH ARSENAL </p>
-          <h1 class="weight-400">TECHNOLOGY STACK</h1>
+          <h1><span class="font-red">TECHNOLOGY</span> STACK</h1>
         </header>
 
         <ul class="row clients-dotted list-inline">
@@ -698,11 +634,79 @@ Innovation At Speed</p>
       </div>
     </section>
 
-    <section class="bg-grey">
+
+    <section class="alternate case-studies-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
-          <p class="sub-heading"> 1 BILLION TECH </p>
-          <h1 class="weight-400"> HIGHLIGHTS</h1>
+          <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
+          <h1><span class="font-red">CASE</span> STUDIES</h1>
+        </header>
+
+        <div class="col-lg-12">
+
+          <div class="col-md-4">
+
+            <div class="box-image text-left">
+
+              <a href="case_study_symbox.php">
+                <img class="img-responsive" src="assets/images/symbox-casestudy.webp" alt="">
+              </a>
+
+              <a href="case_study_symbox.php" class="box-image-title">
+                <h2 class="weight-400">End to end testing service</h2>
+              </a>
+
+            </div>
+
+          </div>
+          <div class="col-md-4">
+
+            <div class="box-image text-left">
+
+              <a href="case_study_assetminder.php">
+                <img class="img-responsive" src="assets/images/assetminder-casestudy.webp" alt="">
+              </a>
+
+              <a href="case_study_assetminder.php" class="box-image-title">
+                <h2 class="weight-400">Cross-platform fleet management</h2>
+              </a>
+
+            </div>
+
+          </div>
+          <div class="col-md-4">
+
+            <div class="box-image text-left">
+
+              <a href="case_study_millionspaces.php">
+                <img class="img-responsive" src="assets/images/ms-casestudy.webp" alt="">
+              </a>
+
+              <a href="case_study_millionspaces.php" class="box-image-title">
+                <h2 class="weight-400">Product incubation</h2>
+              </a>
+
+            </div>
+
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="text-center"><a href="case_studies.php" class="view-btn btn btn-red">VIEW MORE</a></div>
+
+
+        </div>
+
+      </div>
+    </section>
+
+
+   
+
+    <section class="bg-light highlight-section">
+      <div class="container">
+        <header class="text-center margin-bottom-60 section-title">
+          <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
+          <h1 class="weight-400"><span class="font-red">1BT</span> HIGHLIGHTS</h1>
         </header>
 
 
@@ -712,14 +716,14 @@ Innovation At Speed</p>
 
 
             <div class="img-hover">
-              <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
+              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/zoe-highlights-thumb.jpg" alt="">
-              </a>
+              </a> -->
 
               <h5 class="text-left margin-top-20 highlights">
-                <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php" class="weight-400">1 Billion Tech and ZoeInsights team up to revolutionize how patients track their health data</a>
-                <span> <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php">
-                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span>
+                <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php">1 Billion Tech and ZoeInsights team up to revolutionize how patients track their health data</a>
+                <!-- <span> <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php">
+                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
               </h5>
 
               </a>
@@ -727,14 +731,14 @@ Innovation At Speed</p>
 
 
             <div class="img-hover">
-              <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
+              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
-              </a>
+              </a> -->
 
               <h5 class="text-left margin-top-20 highlights">
-                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php" class="weight-400">1 Billion Tech welcomes new President Erik Sebesta</a>
-                <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span>
+                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta</a>
+                <!-- <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
+                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
               </h5>
 
               </a>
@@ -748,7 +752,7 @@ Innovation At Speed</p>
 
     <a name="contact"></a>
     <!-- FOOTER -->
-    <footer id="footer">
+    <footer id="footer" class="black-footer">
       <?php include 'include/footer.php'; ?>
     </footer>
     <!-- /FOOTER -->

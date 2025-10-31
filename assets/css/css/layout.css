@@ -7192,7 +7192,7 @@ ul.search-history {
 /** Footer
  **************************************************************** **/
 #footer {
-	color: rgba(255,255,255,0.6);
+	/* color: rgba(255,255,255,0.6); */
 
 	background: #313131;
 	background: -moz-linear-gradient(top, #555555 0%, #313131 100%);

@@ -2176,6 +2176,18 @@ section.dark.page-header ul.page-options a {
 		border-top:0;
 	}
 
+	/* black Header */
+	#header.black-header {
+		background-color:#000;
+	}
+	#header.dark #topMain.nav-pills>li>a {
+		color:#ccc;
+	}
+	#header.dark #topMain.nav-pills>li.active>a,
+	#header.dark #topMain.nav-pills>li>a:hover {
+		color:#fff;
+	}
+
 
 	/* Dark & Color Header */
 	#header.dark {
