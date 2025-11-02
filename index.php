@@ -763,9 +763,9 @@
           <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
           <h1 class="weight-400"><span class="font-red">1BT</span> HIGHLIGHTS</h1>
         </header>
-        <div class="col-md-12">
-          <div class="owl-carousel owl-padding-10 buttons-autohide controlls-over" data-plugin-options='{"singleItem": false, "items":"2", "autoPlay": false, "navigation": false, "pagination": false}'>
-            <div class="img-hover mr-10">
+        <div class="col-md-12 slider-wrapper">
+          <div id="highlightSlidesContainer" class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container" data-plugin-options='{"singleItem": false, "items":"2", "autoPlay": false, "navigation": false, "pagination": false}'>
+            <div class="img-hover mr-10 slide-item">
               <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/zoe-highlights-thumb.jpg" alt="">
               </a> -->
@@ -778,7 +778,21 @@
 
               </a>
             </div>
-            <div class="img-hover ml-10">
+            <div class="img-hover ml-10 slide-item">
+              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
+                <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
+              </a> -->
+
+              <h5 class="text-left margin-top-20 highlights">
+                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta</a>
+                <!-- <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
+                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
+              </h5>
+
+              </a>
+            </div>
+
+            <div class="img-hover ml-10 slide-item">
               <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
               </a> -->
@@ -793,6 +807,15 @@
             </div>
 
           </div>
+        </div>
+
+        <div class="slider-controls">
+          <button id="prevBtn" class="slider-btn left-arrow">
+            <img src="./assets/images/slider-left-btn.svg" />
+          </button>
+          <button id="nextBtn" class="slider-btn right-arrow">
+            <img src="./assets/images/slider-right-btn.svg" />
+          </button>
         </div>
       </div>
 
@@ -920,6 +943,53 @@
         currentSlide = $(this).index();
         showSlide(currentSlide);
       });
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+      // 1. Get DOM elements
+      const slidesContainer = document.getElementById('slidesContainer');
+      const prevBtn = document.getElementById('prevBtn');
+      const nextBtn = document.getElementById('nextBtn');
+      
+      // 2. Configuration variables
+      const slides = slidesContainer.querySelectorAll('.slide-item');
+      const itemsPerView = 2; // How many items are visible at once
+      let currentSlide = 0; // Tracks the index of the first visible slide
+
+      // 3. Calculate movement step
+      // Each step moves by the width of one slide item. 
+      // We use the computed style of the first item to get its full width.
+      const slideWidth = slides[0].offsetWidth + (parseFloat(getComputedStyle(slides[0]).marginLeft) * 2);
+
+      // 4. Update Slider Position Function
+      const updateSlider = () => {
+          // Calculate the translation value: (currentSlide * single item width)
+          const offset = -currentSlide * slideWidth;
+          slidesContainer.style.transform = `translateX(${offset}px)`;
+
+          // Update button visibility (optional but good practice)
+          prevBtn.disabled = currentSlide === 0;
+          nextBtn.disabled = currentSlide >= slides.length - itemsPerView;
+      };
+
+      // 5. Navigation Logic
+      prevBtn.addEventListener('click', () => {
+          if (currentSlide > 0) {
+              currentSlide--;
+              updateSlider();
+          }
+      });
+
+      nextBtn.addEventListener('click', () => {
+          // Stop before the last visible item reaches the end
+          if (currentSlide < slides.length - itemsPerView) {
+              currentSlide++;
+              updateSlider();
+          }
+      });
+
+      // Initialize the slider position and button states
+      updateSlider(); 
     });
   </script>
 

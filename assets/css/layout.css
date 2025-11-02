@@ -269,6 +269,21 @@ section.alternate, section.clients-section, section.blog-section {
 	text-decoration: underline;
 }
 
+.highlight-section .slider-controls{
+	text-align: end;
+}
+
+.highlight-section .slider-btn.left-arrow {
+	margin-right: 90px;
+}
+
+.highlight-section .slider-wrapper {
+	background-color: transparent;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+}
+
 .blog-section .blog-post-item {
 	position: relative;
 }
