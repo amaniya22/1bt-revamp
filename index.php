@@ -774,20 +774,6 @@
               </a>
             </div>
 
-            <div class="img-hover ml-10 slide-item">
-              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
-              </a> -->
-
-              <h5 class="text-left margin-top-20 highlights">
-                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta</a>
-                <!-- <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
-              </h5>
-
-              </a>
-            </div>
-
           </div>
         </div>
 
@@ -929,7 +915,7 @@
 
     document.addEventListener('DOMContentLoaded', () => {
       // 1. Get DOM elements
-      const slidesContainer = document.getElementById('slidesContainer');
+      const slidesContainer = document.getElementById('highlightSlidesContainer');
       const prevBtn = document.getElementById('prevBtn');
       const nextBtn = document.getElementById('nextBtn');
       
@@ -972,6 +958,59 @@
 
       // Initialize the slider position and button states
       updateSlider(); 
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const slidesContainer = document.getElementById('highlightSlidesContainer');
+      const slides = slidesContainer.querySelectorAll('.slide-item');
+      const prevBtn = document.getElementById('prevBtn');
+      const nextBtn = document.getElementById('nextBtn');
+      
+      const itemsPerView = 2; // Show 2 slides at a time
+      let currentIndex = 0;
+
+      // Apply smooth transition
+      slidesContainer.style.transition = 'transform 0.5s ease-in-out';
+      slidesContainer.style.display = 'flex';
+      slidesContainer.style.overflow = 'hidden';
+
+      // Function to calculate slide width dynamically
+      function getSlideWidth() {
+        const slide = slides[0];
+        const style = getComputedStyle(slide);
+        const margin = parseFloat(style.marginLeft) + parseFloat(style.marginRight);
+        return slide.offsetWidth + margin;
+      }
+
+      // Function to update the slider position
+      function updateSlider() {
+        const slideWidth = getSlideWidth();
+        const maxIndex = slides.length - itemsPerView;
+
+        // Clamp currentIndex between 0 and maxIndex
+        currentIndex = Math.max(0, Math.min(currentIndex, maxIndex));
+
+        const offset = -(slideWidth * currentIndex);
+        slidesContainer.style.transform = `translateX(${offset}px)`;
+
+        // Disable buttons at edges
+        prevBtn.disabled = currentIndex === 0;
+        nextBtn.disabled = currentIndex >= maxIndex;
+      }
+
+      // Button click handlers
+      prevBtn.addEventListener('click', () => {
+        currentIndex--;
+        updateSlider();
+      });
+
+      nextBtn.addEventListener('click', () => {
+        currentIndex++;
+        updateSlider();
+      });
+
+      // Initialize
+      updateSlider();
     });
   </script>
 

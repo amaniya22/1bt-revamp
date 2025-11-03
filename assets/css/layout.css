@@ -7083,6 +7083,28 @@ div.ls-thumbnail-slide-container {
 		line-height: 27px;
 		text-align: center;
 	}
+
+	#slider-container {
+		height: 100%;
+	}
+
+	#slider-container .slide-text-overlay {
+		flex-wrap: wrap;
+		gap: 70px;
+		padding: 80px 35px 120px;
+	}
+
+	#slider-container .slide .slide-sec-2 {
+		margin-left: 0;
+	}
+
+	#slider-container .slide .slider-title {
+		font-size: 50px;
+	}
+
+	#slider-container .slide .slider-title-div .slider-subtitle {
+		font-size: 28px
+	}
 }
 
 
