@@ -1,7 +1,7 @@
 <?php
 ?>
 
-      <header id="topNav">
+      <header id="topNav" class="black-header">
         <div class="container">
 
           <!-- Mobile Menu Button -->
@@ -11,7 +11,7 @@
 
           <!-- Logo -->
           <a class="logo pull-left" href="index.php">
-            <img src="assets\images\logo.png" height="62%" alt="" />
+            <img src="assets\images\white-logo.png" height="62%" alt="" />
           </a>
 
           <!--

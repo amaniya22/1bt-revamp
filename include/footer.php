@@ -3,7 +3,7 @@
 
 ?>
 
-<section class="footer-section">
+<section class="footer-section black-footer">
   <div class="container">
     <div class="row">
     <header class="text-center section-title">
@@ -77,7 +77,7 @@
   </div>
 
 </section>
-<div class="container">
+<div class="container black-footer">
   <div class="row">
 
     <div class="col-md-6 padding-20">

@@ -681,7 +681,7 @@
     <section class="alternate case-studies-section">
       <div class="container">
         
-        <div class="col-lg-12">
+        <div class="row">
         <div class="col-md-6">
         <header class="text-left margin-bottom-60 section-title">
           <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
@@ -692,35 +692,17 @@
           <p class="case-study-title">At 1BillionTech, we don't just build solutions—we deliver measurable business impact. Our case studies demonstrate how our expertise in AI-driven automation, cloud modernization, and enterprise solutions transforms complex challenges into competitive advantages for our clients. See the strategies, technologies, and results that define our partnerships.</p>
         </div>
         <div class="col-lg-12">
-
-          <div class="col-md-6">
-
-            <div class="box-image text-left">
-
-              <a href="case_study_symbox.php">
-                <img class="img-responsive" src="assets/images/symbox-casestudy.webp" alt="">
-              </a>
-
-              <a href="case_study_symbox.php" class="box-image-title">
-                <h2 class="weight-600">End to end testing service</h2>
-                <h5 class="weight-400">A UK-based consultancy working with financial services institutions and business leaders.</h5>
-                <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
-              </a>
-
-            </div>
-
-          </div>
           <div class="col-md-6">
 
             <div class="box-image text-left">
 
               <a href="case_study_assetminder.php">
-                <img class="img-responsive" src="assets/images/assetminder-casestudy.webp" alt="">
+                <img class="img-responsive" src="assets/images/assetminder-casestudy.webp" alt="img">
               </a>
 
               <a href="case_study_assetminder.php" class="box-image-title">
-                <h2 class="weight-600">Cross-platform fleet management</h2>
-                <h5 class="weight-400">A UK-based consultancy working with financial services institutions and business leaders.</h5>
+                <h2 class="weight-600">IdeaPoint</h2>
+                <h5 class="weight-400">Accelerating Enterprise Software Development with AI</h5>
                 <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 
@@ -746,7 +728,7 @@
           </div>
           <div class="clearfix"></div>
 
-          <div class="text-center"><a href="case_studies.php" class="view-btn btn btn-red">VIEW MORE</a></div>
+          <div class="text-center mt-40"><a href="case_studies.php" class="view-btn btn btn-red">VIEW MORE</a></div>
 
 
         </div>

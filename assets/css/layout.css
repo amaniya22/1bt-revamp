@@ -171,20 +171,21 @@ section header.section-header {
 	margin-bottom: 80px;
 }
 
+.mt-40 {
+	margin-top: 40px;
+}
+
 div.alternate,
 section.alternate, section.clients-section, section.blog-section {
 	background-color: #000;
 }
 
-.technology-section img {
-	filter: grayscale(1);
-}
 
 .clients-section .owl-controls {
 	display: none !important;
 }
 
-.clients-section .sub-heading, .case-studies-section .sub-heading, .blog-section .sub-heading, #footer.black-footer .sub-heading {
+.clients-section .sub-heading, .case-studies-section .sub-heading, .blog-section .sub-heading, #footer .black-footer .sub-heading {
 	border: 1px solid #fff;
 	color: #fff !important;
 	font-family: 'Graphik', sans-serif !important;
@@ -203,7 +204,7 @@ section.alternate, section.clients-section, section.blog-section {
 	margin-bottom: 0 !important;
 }
 
-.clients-section h1, .case-studies-section h1, .blog-section h1, #footer.black-footer h1{
+.clients-section h1, .case-studies-section h1, .blog-section h1, #footer .black-footer h1{
 	color: #fff !important;
 	font-family: 'Graphik', sans-serif !important;
 	font-size: 60px;
@@ -301,12 +302,12 @@ section.alternate, section.clients-section, section.blog-section {
 	background: #000 !important;
 }
 
-#footer.black-footer .footer-contact-text, #footer.black-footer h3, #footer.black-footer a {
+#footer .black-footer .footer-contact-text, #footer .black-footer h3, #footer .black-footer a {
 	color: #fff !important;
 	font-family: 'Graphik', sans-serif !important;
 }
 
-.font-red, #footer.black-footer .font-red {
+.font-red, #footer .black-footer .font-red {
 	color: #E50914 !important;
 }
 
@@ -683,6 +684,20 @@ body.boxed #wrapper {
 		-webkit-border-radius: 0;
 		-moz-border-radius: 0;
 		border-radius: 0;
+	}
+
+	.blog-section .blog-post-item {
+		margin-bottom: 10px;
+	}
+
+	.case-studies-section .section-title {
+		text-align: center !important;
+	}
+
+	.case-studies-section .box-image {
+		gap: 10px;
+		flex-direction: column;
+		margin-bottom: 30px;
 	}
 }
 
@@ -8665,7 +8680,7 @@ ul.search-history {
 #footer {
 	color: rgba(255, 255, 255, 0.6);
 
-	background: #F3F3F3 !important;
+	background: #000 !important;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#555555', endColorstr='#313131', GradientType=0);
 }
 
@@ -9494,18 +9509,19 @@ footer.sticky {
 
 
 	/* black Header */
-	#header.black-header {
+	#header .black-header, #header.black-header {
 		background-color:#000;
 		font-family: 'Graphik', sans-serif !important;
  		font-weight: 400; 
+		border-bottom: none;
 	}
-	#header.black-header #topMain.nav-pills>li>a {
+	#header .black-header #topMain.nav-pills>li>a {
 		color:#fff;
 		font-family: 'Graphik', sans-serif !important;
  		font-weight: 500; 
 		text-transform: capitalize;
 	}
-	#header.black-header#topMain.nav-pills>li.active>a,
-	#header.black-header#topMain.nav-pills>li>a:hover {
+	#header .black-header#topMain.nav-pills>li.active>a,
+	#header .black-header#topMain.nav-pills>li>a:hover {
 		color:#fff;
 	}
