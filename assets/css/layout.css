@@ -6148,6 +6148,7 @@ section#slider {
 	font-weight: 600;
 	line-height: 100%;
 	text-transform: uppercase;
+	text-wrap: wrap;
 }
 
 #slider-container .slide .slider-title-red {
@@ -6161,7 +6162,7 @@ section#slider {
 	font-style: italic;
 	font-weight: 600;
 	text-transform: capitalize;
-	text-wrap: nowrap;
+	text-wrap: wrap;
 }
 
 #slider-container .slide .slide-sec-2 {
@@ -7099,13 +7100,57 @@ div.ls-thumbnail-slide-container {
 	}
 
 	#slider-container .slide .slider-title {
-		font-size: 50px;
+		font-size: 42px;
 	}
 
 	#slider-container .slide .slider-title-div .slider-subtitle {
 		font-size: 28px
 	}
+
+	#slider-container .slide .slider-content {
+		font-size: 14px;
+		line-height: normal;
+	}
+
+	#slider-container .slide .slider-content-btn {
+		font-size: 14px;
+	}
+
+	.highlight-section h1, .footer-section h1 {
+		font-size: 52px;
+	}
+
+	.highlight-section .slider-controls {
+		text-align: center;
+	}
 }
+
+@media only screen and (max-width: 992px) {
+	#slider-container .slide-text-overlay {
+		flex-wrap: wrap;
+		gap: 70px;
+	}
+
+	#slider-container .slide .slide-sec-2 {
+		margin-left: 0;
+	}
+
+	.highlight-section .slider-controls {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	#slider-container .slide-text-overlay {
+		flex-wrap: wrap;
+		gap: 70px;
+	}
+
+	#slider-container .slide .slide-sec-2 {
+		margin-left: 0;
+	}
+}
+
 
 
 /** **/

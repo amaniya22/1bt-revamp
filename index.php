@@ -774,6 +774,20 @@
               </a>
             </div>
 
+            <div class="img-hover ml-10 slide-item">
+              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
+                <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
+              </a> -->
+
+              <h5 class="text-left margin-top-20 highlights">
+                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta</a>
+                <!-- <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
+                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
+              </h5>
+
+              </a>
+            </div>
+
           </div>
         </div>
 
@@ -914,65 +928,25 @@
     });
 
     document.addEventListener('DOMContentLoaded', () => {
-      // 1. Get DOM elements
-      const slidesContainer = document.getElementById('highlightSlidesContainer');
-      const prevBtn = document.getElementById('prevBtn');
-      const nextBtn = document.getElementById('nextBtn');
-      
-      // 2. Configuration variables
-      const slides = slidesContainer.querySelectorAll('.slide-item');
-      const itemsPerView = 2; // How many items are visible at once
-      let currentSlide = 0; // Tracks the index of the first visible slide
-
-      // 3. Calculate movement step
-      // Each step moves by the width of one slide item. 
-      // We use the computed style of the first item to get its full width.
-      const slideWidth = slides[0].offsetWidth + (parseFloat(getComputedStyle(slides[0]).marginLeft) * 2);
-
-      // 4. Update Slider Position Function
-      const updateSlider = () => {
-          // Calculate the translation value: (currentSlide * single item width)
-          const offset = -currentSlide * slideWidth;
-          slidesContainer.style.transform = `translateX(${offset}px)`;
-
-          // Update button visibility (optional but good practice)
-          prevBtn.disabled = currentSlide === 0;
-          nextBtn.disabled = currentSlide >= slides.length - itemsPerView;
-      };
-
-      // 5. Navigation Logic
-      prevBtn.addEventListener('click', () => {
-          if (currentSlide > 0) {
-              currentSlide--;
-              updateSlider();
-          }
-      });
-
-      nextBtn.addEventListener('click', () => {
-          // Stop before the last visible item reaches the end
-          if (currentSlide < slides.length - itemsPerView) {
-              currentSlide++;
-              updateSlider();
-          }
-      });
-
-      // Initialize the slider position and button states
-      updateSlider(); 
-    });
-
-    document.addEventListener('DOMContentLoaded', () => {
       const slidesContainer = document.getElementById('highlightSlidesContainer');
       const slides = slidesContainer.querySelectorAll('.slide-item');
       const prevBtn = document.getElementById('prevBtn');
       const nextBtn = document.getElementById('nextBtn');
-      
+
       const itemsPerView = 2; // Show 2 slides at a time
       let currentIndex = 0;
 
-      // Apply smooth transition
       slidesContainer.style.transition = 'transform 0.5s ease-in-out';
       slidesContainer.style.display = 'flex';
       slidesContainer.style.overflow = 'hidden';
+      slidesContainer.style.flexWrap = 'nowrap'; 
+
+      // Helper function to handle button state (disable + opacity)
+      function setButtonState(button, disabled) {
+        button.disabled = disabled;
+        button.style.opacity = disabled ? '0.5' : '1';
+        button.style.cursor = disabled ? 'not-allowed' : 'pointer';
+      }
 
       // Function to calculate slide width dynamically
       function getSlideWidth() {
@@ -987,15 +961,14 @@
         const slideWidth = getSlideWidth();
         const maxIndex = slides.length - itemsPerView;
 
-        // Clamp currentIndex between 0 and maxIndex
         currentIndex = Math.max(0, Math.min(currentIndex, maxIndex));
 
         const offset = -(slideWidth * currentIndex);
         slidesContainer.style.transform = `translateX(${offset}px)`;
 
-        // Disable buttons at edges
-        prevBtn.disabled = currentIndex === 0;
-        nextBtn.disabled = currentIndex >= maxIndex;
+        // Update button states
+        setButtonState(prevBtn, currentIndex === 0 || slides.length <= itemsPerView);
+        setButtonState(nextBtn, currentIndex >= maxIndex || slides.length <= itemsPerView);
       }
 
       // Button click handlers
@@ -1009,9 +982,10 @@
         updateSlider();
       });
 
-      // Initialize
+      // Initialize slider and button states
       updateSlider();
     });
+
   </script>
 
 
