@@ -514,7 +514,7 @@ ul.clients-dotted>li {
 #footer form input,
 #footer form textarea {
     border: none;
-    border-radius: 8px;
+    border-radius: 5px;
     background: #FFF;
     color: #1E1E1E;
 }
@@ -531,7 +531,7 @@ ul.clients-dotted>li {
 }
 
 #footer>.copyright {
-    background: #171717;
+    background: #000000;
 }
 
 #footer>.copyright .container,

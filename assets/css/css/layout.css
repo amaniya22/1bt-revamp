@@ -7472,10 +7472,19 @@ ul.search-history {
 		}
 	}
 
-#footer .btn,
-#footer .form-control {
-	height:36px;
-}
+
+	#footer .btn {
+		height: 36px;
+		max-width: 70%;
+		font-size: 14px;
+	}
+	
+	#footer .form-control {
+		height: 36px;
+		max-width: 70%;
+		background-color: #1e1e1e !important;
+		color: #fff !important;
+	}
 #footer .btn-sm,
 #footer .btn-xs,
 #footer .btn-lg,
