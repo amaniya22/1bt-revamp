@@ -443,7 +443,7 @@
         <div class="row">
 
           <!-- POST ITEM -->
-          <div class="blog-post-item col-md-3 col-sm-6">
+          <div class="blog-post-item col-md-4 col-sm-6">
 
             <!-- IMAGE -->
             <a href="blog_How_testers_should_deal_with_GDPR.php">
@@ -463,7 +463,7 @@
 
 
           <!-- POST ITEM -->
-          <div class="blog-post-item col-md-3 col-sm-6">
+          <div class="blog-post-item col-md-4 col-sm-6">
 
             <!-- IMAGE -->
             <a href="blog_Lambda_layers_with_NodeJS.php">
@@ -481,7 +481,7 @@
           <!-- /POST ITEM -->
 
           <!-- POST ITEM -->
-          <div class="blog-post-item col-md-3 col-sm-6">
+          <div class="blog-post-item col-md-4 col-sm-6">
 
             <!-- IMAGE -->
             <a href="blog_GitHub_Workflows_For_Test_Automation.php">
@@ -498,26 +498,6 @@
 
           </div>
           <!-- /POST ITEM -->
-
-          <!-- POST ITEM -->
-          <div class="blog-post-item col-md-3 col-sm-6">
-
-            <!-- IMAGE -->
-            <a href="blog_Developing_an_authentication_service_using_face_recognition.php">
-              <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/Amazon_aurora_main.png" alt="img">
-              </figure>
-            </a>
-
-            <!-- <h2><a href="blog_Developing_an_authentication_service_using_face_recognition.php" class="weight-400">Developing an authentication service using face recognition
-
-              </a></h2> -->
-
-
-
-          </div>
-          <!-- /POST ITEM -->
-
 
           <div class="clearfix"></div>
 
@@ -696,13 +676,13 @@
 
             <div class="box-image text-left">
 
-              <a href="case_study_assetminder.php">
-                <img class="img-responsive" src="assets/images/assetminder-casestudy.webp" alt="img">
+              <a href="case_study_ideapoint.php">
+                <img class="img-responsive" src="assets/images/ideapoint-casestudy.png" alt="img">
               </a>
 
-              <a href="case_study_assetminder.php" class="box-image-title">
-                <h2 class="weight-600">IdeaPoint</h2>
-                <h5 class="weight-400">Accelerating Enterprise Software Development with AI</h5>
+              <a href="case_study_ideapoint.php" class="box-image-title">
+                <h2 class="weight-600">Accelerating Enterprise Software Development with AI</h2>
+                <h5 class="weight-400">Through a strategic multi-year partnership, 1BT provided end-to-end development support to IdeaPoint,</h5>
                 <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 
@@ -714,12 +694,13 @@
             <div class="box-image text-left">
 
               <a href="case_study_millionspaces.php">
-                <img class="img-responsive" src="assets/images/ms-casestudy.webp" alt="">
+                <img class="img-responsive" src="assets/images/ms-casestudy.png" alt="">
               </a>
 
               <a href="case_study_millionspaces.php" class="box-image-title">
-                <h2 class="weight-600">Product incubation</h2>
-                <h5 class="weight-400">A UK-based consultancy working with financial services institutions and business leaders.</h5>
+                <h2 class="weight-600">MillionSpMillionSpaces – Redefining Workspace Booking with AI
+                </h2>
+                <h5 class="weight-400">Find and book the perfect workspace with MillionSpaces</h5>
                 <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 

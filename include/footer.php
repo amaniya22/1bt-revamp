@@ -68,7 +68,7 @@
         </header> -->
 
         <div class="text-center">
-          <img src="assets/images/Map.png" style="max-width: 650px" class="img-responsive">
+          <img src="assets/images/Map.jpg" style="max-width: 650px" class="img-responsive">
         </div>
 
       </div>
@@ -176,6 +176,6 @@
         <a href="Privacy_and_Confidentiality.php">Privacy Policy</a>
       </li>
     </ul>
-    &copy; 2024 All Rights Reserved, 1 Billion Technology Inc
+    &copy; 2025 All Rights Reserved, 1 Billion Technology Inc
   </div>
 </div>
