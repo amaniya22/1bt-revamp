@@ -2,7 +2,7 @@
 ?>
 
       <header id="topNav" class="black-header">
-        <div class="container">
+        <div class="container-fluid custom-container">
 
           <!-- Mobile Menu Button -->
           <button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse">
@@ -34,10 +34,12 @@
                      </li>
                    -->
               <ul id="topMain" class="nav nav-pills nav-main">
-                <li><a href="case_studies.php">Clients</a></li>
                 <li><a href="services.php">Services</a></li>
+                <li><a href="services.php">Insight</a></li>
+                <li><a href="case_studies.php">Clients</a></li>
+               
                                <li class="dropdown">
-                  <a class="dropdown-toggle" href="#">Thought leadership</a>
+                  <a class="dropdown-toggle" href="#">About</a>
                   <ul class="dropdown-menu">
                     <li>
                       <a href="blog.php">BLOG</a>
@@ -68,9 +70,7 @@
                 </li>-->
           
                       
-                <li>
-                  <a href="careers.php">Careers</a>
-                </li>
+               
                 <li>
                   <a href="index.php#contact">Contact</a>
                 </li>

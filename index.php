@@ -278,109 +278,109 @@
           <div class="text-center">
             <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
               <div>
-                <img class="img-responsive margin-top-25" src="assets/images/clients/cnew-01.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/cnew-01.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive margin-top-25" src="assets/images/clients/cnew-02.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/cnew-02.png" alt="" >
               </div>
                            <div>
-                <img class="img-responsive margin-top-30" src="assets/images/clients/cnew-04.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/cnew-04.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive margin-top-20" src="assets/images/clients/cnew-05.png" alt="" width="40%" style="border-radius: 0px;">
+                <img class="img-responsive" src="assets/images/clients/cnew-05.png" alt="">
               </div>
               <div>
-                <img class="img-responsive margin-top-35" src="assets/images/clients/cnew-06.png" alt="" width="60%">
+                <img class="img-responsive" src="assets/images/clients/cnew-06.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive margin-top-35" src="assets/images/clients/cnew-07.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/cnew-07.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C1.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C1.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C2.png" alt="" width="70%%">
+                <img class="img-responsive" src="assets/images/clients/C2.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C3.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C3.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C4.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C4.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C5.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C5.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C6.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C6.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C7.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C7.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C8.jpg" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C8.jpg" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C8.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C8.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C9.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C9.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C9.jpg" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C9.jpg" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C10.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C10.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C11.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C11.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C12.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C12.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C13.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C13.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C14.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C14.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C15.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C15.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C16.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C16.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C17.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C17.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C18.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C18.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C19.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C19.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C21.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C21.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C22.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C22.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C23.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C23.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C24.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C24.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C25.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C25.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C26.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C26.png" alt="" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C27.png" alt="" width="70%">
+                <img class="img-responsive" src="assets/images/clients/C27.png" alt="" >
               </div>
             </div>
           </div>
@@ -415,12 +415,12 @@
                   "singleItem": false, 
                   "items": 2, 
                   "autoPlay": true, 
-                  "navigation": false, 
-                  "pagination": false,
-                  
+                  "navigation": true, 
+                  "pagination": true,
+                   "dots": true,
                   "responsive": {
-                      "0": {"items": 1, "margin": 20},
-                      "768": {"items": 2, "margin": 30}
+                      "0": {"items": 1, "margin": 30},
+                      "768": {"items": 2, "margin": 10}
                   }
               }'>                 
                <div class="slide-item">
@@ -465,10 +465,12 @@
 
                     </div>
                 </div>
-                
+               
                 </div>
-        </div>
-    </div>
+        
+              </div>
+   
+            </div>
 </section>
 
 
@@ -482,63 +484,29 @@
         </header>
 
         <div class="row">
-
-          <!-- POST ITEM -->
-          <div class="blog-post-item col-md-4 col-sm-6">
-
-            <!-- IMAGE -->
-            <a href="blog_How_testers_should_deal_with_GDPR.php">
-              <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast1.png" alt="img">
-              </figure>
-            </a>
-
-            <!-- <h2><a href="blog_How_testers_should_deal_with_GDPR.php" class="weight-400">How testers should deal with GDPR
-              </a></h2> -->
-
-
-
-          </div>
-          <!-- /POST ITEM -->
-
-
-
-          <!-- POST ITEM -->
-          <div class="blog-post-item col-md-4 col-sm-6">
-
-            <!-- IMAGE -->
-            <a href="blog_Lambda_layers_with_NodeJS.php">
-              <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast2.png" alt="img">
-              </figure>
-            </a>
-
-            <!-- <h2><a href="blog_Lambda_layers_with_NodeJS.php" class="weight-400">Lambda layers with NodeJS
-              </a></h2> -->
-
-
-
+                    <!-- POST ITEM -->
+                    <div class="blog-post-item col-md-4 col-sm-6">
+            <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
+                    style="border-radius: 15px; overflow: hidden;"> 
+                    <iframe src="https://www.youtube.com/embed/-ijBw5Mz5nE?si=HKfaAV2QV7qE95Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            </figure>
           </div>
           <!-- /POST ITEM -->
 
           <!-- POST ITEM -->
           <div class="blog-post-item col-md-4 col-sm-6">
-
-            <!-- IMAGE -->
-            <a href="blog_GitHub_Workflows_For_Test_Automation.php">
-              <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast3.png" alt="img">
-              </figure>
-            </a>
-<!-- 
-            <h2><a href="blog_GitHub_Workflows_For_Test_Automation.php" class="weight-400">Amazon Aurora Serverless
-
-              </a></h2> -->
-
-
-
+            <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
+                    style="border-radius: 15px; overflow: hidden;"> 
+                    <iframe src="https://www.youtube.com/embed/vIUIj80at4E?si=_ZA0m84HSrb78C7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </figure>
           </div>
           <!-- /POST ITEM -->
+          <!-- POST ITEM -->
+          <div class="blog-post-item col-md-4 col-sm-6">
+            <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
+                    style="border-radius: 15px; overflow: hidden;"> 
+                    <iframe src="https://www.youtube.com/embed/Wf7vDVz9Tvo?si=YEVjaxfh2lOu65Ph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          </div>
+          <!-- /POST ITEM -->
+
 
           <div class="clearfix"></div>
 
@@ -562,106 +530,106 @@
           <div class="text-center">
             <div class="owl-carousel tech-carousel-div" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T01.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T01.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T02.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T02.png" alt="tech" >
               </div>
               <div>
                 <img class="img-responsive" src="assets/images/tech/T03.png" alt="tech" width="100%" height="45px">
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T04.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T04.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T05.png" alt="tech" width="70%" height="40px">
+                <img class="img-responsive" src="assets/images/tech/T05.png" alt="tech"  height="40px">
               </div>
               <div>
                 <img class="img-responsive" src="assets/images/tech/T06.png" alt="tech" width="85%" height="50px">
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T07.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T07.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T08.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T08.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T09.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T09.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T10.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T10.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T11.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T11.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T12.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T12.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T13.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T13.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T14.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T14.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T15.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T15.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T16.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T16.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T17.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T17.png" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T18.png" alt="tech" width="70%">
+                <img class="img-responsive" src="assets/images/tech/T18.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T19.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T19.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T20.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T20.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T21.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T21.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T22.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T22.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T23.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T23.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T24.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T24.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T25.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T25.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T26.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T26.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T27.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T27.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T28.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T28.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T29.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T29.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T30.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T30.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T31.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T31.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T32.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T32.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T33.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T33.png" alt="tech" >
               </div>
               <div>
-               <img class="img-responsive" src="assets/images/tech/T34.png" alt="tech" width="70%">
+               <img class="img-responsive" src="assets/images/tech/T34.png" alt="tech" >
               </div>
             </div>
           </div>
@@ -757,7 +725,7 @@
                   <h2 class="weight-600 text-underline">The VelocentAI Framework</h2>
                   <h5 class="weight-400">Meet VelocentAI — an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</h5>
                 </div>
-                <a href="https://1billiontech.com/The_VelocentAI_Framework.php" class="font-red font-italic weight-600 text-underline">Read Full Article</a>
+                <a href="/The_VelocentAI_Framework.php" class="font-red font-italic weight-600 text-underline">Read Full Article</a>
               </div>
 
               </a>

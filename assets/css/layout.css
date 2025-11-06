@@ -202,6 +202,11 @@ section.blog-section {
 	width: 100%;
 }
 
+.clients-section, .technology-section {
+	padding-top: 40px;
+    padding-bottom: 20px;
+}
+
 .clients-section .owl-controls,
 .technology-section .owl-controls {
   display: none !important;
@@ -209,6 +214,13 @@ section.blog-section {
 
 .clients-section .owl-carousel .owl-item div {
 	text-align: center;
+}
+
+.clients-section .img-responsive, .technology-section .img-responsive {
+	display: inline-block;
+    height: 65px;
+    max-width: 180px;
+    width: auto;
 }
 
 .case-studies-section .sub-heading,
@@ -795,7 +807,7 @@ body.boxed #wrapper {
   }
 
   .blog-section .blog-post-item {
-    margin-bottom: 10px;
+    margin-bottom: 40px;
   }
 
   .case-studies-section .section-title {
@@ -825,8 +837,19 @@ body.boxed #wrapper {
   .technology-section h1,
   .highlight-section h1,
   .footer-section h1,
-  .clients-section h1 {
+  .clients-section h1, .testimonial-section h1, .blog-section h1 {
     font-size: 40px;
+	line-height: 52px;
+  }
+
+  .testimonial-section .sub-heading, .blog-section .sub-heading {
+	font-size: 25px !important;
+	line-height: 30px !important;
+	margin-top: 10px;
+  }
+
+  .clients-section {
+	padding-bottom: 20px;
   }
 
   #footer .form-control {
@@ -836,6 +859,7 @@ body.boxed #wrapper {
   #header .black-header #topMain.nav-pills > li > a {
     color: #000 !important;
   }
+  
 
   .case-studies-section .case-study-title {
     font-size: 16px;
@@ -846,6 +870,32 @@ body.boxed #wrapper {
   header.margin-bottom-60 {
     margin-bottom: 30px !important;
   }
+
+  .testimonial-section .image-overlap-area {
+	display: none;
+  }
+
+  .testimonial-highlights-section .card-content {
+	max-width: 100% !important;
+  }
+
+  .testimonial-section .owl-pagination {
+	display: block;
+  }
+
+  .service-section a::after {
+	display: none;
+  }
+  
+  section.service-section.alternate h4 {
+	height: auto !important;
+	margin-bottom: 10px !important;
+  }
+
+  .service-section figure {
+	margin-bottom: 15px !important;
+  }
+
 }
 
 /** Color Background
@@ -5229,50 +5279,6 @@ section.dark .event-item {
   }
 }
 
-/** TEAM ITEM
-	example usage:
-	index-thematics-wedding.html
-
-
-	<div class="team-item clearfix">
-		<img class="team-item-image rounded" src="assets/images/demo/thematics/wedding/him-min.jpg" alt="wedding" width="150" height="150" />
-		
-		<div class="team-item-desc">
-			<h4 class="nomargin">MIKE BAKER</h4>
-			<h5><span>Groom</span></h5>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, pariatur, magni! Omnis reiciendis architecto, cupiditate fuga dolores nam accusamus iste molestias quos mollitia totam eius porro culpa incidunt, sunt rerum molestiae aliquid non hic.</p>
-			<hr />
-
-			<!-- Social Icons -->
-			<div class="margin-top-20">
-				<a href="#" class="social-icon social-icon-sm social-icon-transparent  social-facebook pull-left" data-toggle="tooltip" data-placement="top" title="Facebook">
-
-					<i class="icon-facebook"></i>
-					<i class="icon-facebook"></i>
-				</a>
-
-				<a href="#" class="social-icon social-icon-sm social-icon-transparent  social-twitter pull-left" data-toggle="tooltip" data-placement="top" title="Twitter">
-					<i class="icon-twitter"></i>
-					<i class="icon-twitter"></i>
-				</a>
-
-				<a href="#" class="social-icon social-icon-sm social-icon-transparent  social-gplus pull-left" data-toggle="tooltip" data-placement="top" title="Google plus">
-					<i class="icon-gplus"></i>
-					<i class="icon-gplus"></i>
-				</a>
-
-				<a href="#" class="social-icon social-icon-sm social-icon-transparent  social-linkedin pull-left" data-toggle="tooltip" data-placement="top" title="Linkedin">
-					<i class="icon-linkedin"></i>
-					<i class="icon-linkedin"></i>
-				</a>
-
-			</div>
-			<!-- /Social Icons -->
-
-		</div>
-	</div>
-
- ********************** **/
 .team-item {
   position: relative;
 }
@@ -7320,7 +7326,14 @@ div.ls-thumbnail-slide-container {
 #slider-container {
   padding: 0;
   width: 100%;
+  transition: transform 0.8s ease-in-out;
+  background-color: #000000;
 }
+
+#slider-container .slide-container {
+	transition: transform 0.8s ease-in-out;
+	display: flex;
+  }
 
 #slider-container .container {
   padding: 0;
@@ -7431,7 +7444,11 @@ div.ls-thumbnail-slide-container {
 	#slider-container .slide-text-overlay {
 		flex-wrap: wrap;
 		gap: 70px;
-		height: calc(100vh - 20px);
+		height: calc(100vh - 100px);
+	}
+
+	section.service-section .border-bottom a {
+		margin-bottom: 30px;
 	}
 
   #slider-container .slide .slide-sec-2 {
@@ -9861,6 +9878,8 @@ footer.sticky {
   font-weight: 500;
   text-transform: capitalize;
   display: inline;
+  padding: 7px 23px;
+  margin: 0 3px;
 }
 
 #header .black-header #topMain.nav-pills > li > a:hover {
@@ -9868,6 +9887,10 @@ footer.sticky {
   background-color: #fff;
   color: #000 !important;
 }
+
+.black-header .container-fluid.custom-container {
+	width: 95%;
+  }
 
 #header .black-header#topMain.nav-pills > li.active > a,
 #header .black-header#topMain.nav-pills > li > a:hover {
@@ -9882,7 +9905,7 @@ footer.sticky {
 }
 
 .testimonial-highlights-section .slide-item {
-  padding: 15px;
+  padding: 15px 5px;
 }
 
 .testimonial-highlights-section .testimonial-card {
@@ -9917,7 +9940,7 @@ footer.sticky {
   flex-direction: column;
   justify-content: flex-start;
   padding: 20px;
-  max-width: calc(100% - 250px);
+  max-width: 65%;
   z-index: 1;
 }
 
@@ -9965,4 +9988,31 @@ footer.sticky {
   color: #1E1E1E;
   margin: 0;
   font-weight: 400 !important;
+}
+
+#testimonialSlidesContainer .owl-controls {
+    display: block !important;
+}
+
+#testimonialSlidesContainer .owl-controls .owl-buttons{
+    display: none !important;
+}
+
+#testimonialSlidesContainer.owl-carousel {
+	padding-bottom: 35px;
+}
+
+#testimonialSlidesContainer .owl-page {
+	background-color:transparent !important;
+}
+
+#testimonialSlidesContainer .owl-page span {
+	background-color: #B3B1B1 !important;
+	border-radius: 4px;
+	min-width: 30px;
+	height: 4px;
+}
+
+#testimonialSlidesContainer .owl-page.active span { 
+	background-color: #FF0000 !important;
 }
