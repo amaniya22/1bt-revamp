@@ -180,12 +180,26 @@ section.alternate, section.blog-section {
 	background-color: #000;
 }
 
+.case-studies-section {
+	padding: 75px 0;
+}
+
 .technology-section .list-inline {
 	margin-left: 0 !important;
 	margin-right: 0 !important;
 }
 
-.clients-section .owl-controls {
+.technology-section .tech-carousel-div .owl-wrapper {
+	display: flex !important;
+	gap: 60px;
+}
+
+.technology-section .owl-carousel .owl-item div {
+	text-align: center;
+}
+
+.clients-section .owl-controls, 
+.technology-section .owl-controls {
 	display: none !important;
 }
 
@@ -6206,14 +6220,29 @@ section#slider {
 	color: #E50914;
 }
 
+#slider-container .slide .slider-2-title-l-red {
+	color: #F3959A;
+}
+
+#slider-container .slide .slider-title-blue {
+	color: #1A6BBB;
+}
+
+#slider-container .slide .slider-2-title-l-blue {
+	background: linear-gradient(to bottom, #04C0C0, #1877F2);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
 #slider-container .slide .slider-title-div .slider-subtitle {
 	color: #FFFFFF !important;
 	font-family: 'Spectral', sans-serif;
 	font-size: 40px;
 	font-style: italic;
 	font-weight: 600;
-	text-transform: capitalize;
-	text-wrap: wrap;
+	line-height: 45px;
+	/* text-transform: capitalize; */
+	text-wrap: nowrap;
 }
 
 #slider-container .slide .slide-sec-2 {
@@ -6227,13 +6256,14 @@ section#slider {
 	font-weight: 400;
 	margin-bottom: 50px;
 	margin-top: -65px;
-	width: 75%;
+	width: 85%;
 }
 
 #slider-container .slide .slider-content-btn {
 	background-color: #FF0000;
-	border-radius: 5px;
+	border-radius: 45px;
 	color: #FFFFFF;
+	cursor: pointer;
 	font-family: 'Graphik', sans-serif;
 	font-size: 18px;
 	font-weight: 600;
@@ -7106,7 +7136,7 @@ div.ls-thumbnail-slide-container {
 	justify-content: space-between;
 	align-items: center;
 	width: 100%;
-	height: 100%;
+	height: calc(100vh - 125px);
 	padding: 120px 85px;
 }
 
@@ -7155,7 +7185,9 @@ div.ls-thumbnail-slide-container {
 	}
 
 	#slider-container .slide .slider-title-div .slider-subtitle {
-		font-size: 28px
+		font-size: 28px;
+		line-height: 28px;
+		text-wrap: wrap;
 	}
 
 	#slider-container .slide .slider-content {
@@ -7188,6 +7220,10 @@ div.ls-thumbnail-slide-container {
 
 	.highlight-section .slider-controls {
 		text-align: center;
+	}
+
+	#slider-container .slide .slider-title-div .slider-subtitle {
+		text-wrap: wrap;
 	}
 }
 

@@ -113,14 +113,14 @@
               <div class="slide-text-div slide-sec-1">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">Microsoft Dynamics</span> GYDE365,
+                    <span class="slider-title-red">AI-Driven</span> <span class="slider-2-title-l-red">Product</span> Incubation
                   <p>
-                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                  <p class="slider-subtitle">Achieve up to a 40%<br /> acceleration in time to market.<p>
                 </div>
               </div>
               <div class="slide-text-div slide-sec-2">
-                <p class="slider-content">Our team boasts ample experience in Microsoft Dynamics GYDE365, ensuring our clients receive expert support for their business needs.</p>
-                <button class="slider-content-btn">Book a consultation call</button>
+                <p class="slider-content">Leverage our AI-based 90-day MVP program to turn your concept into reality.<br /> <br /> If you’re looking to test new ideas quickly with minimal time and investment, our AI-driven MVP offering is designed for you.</p>
+                <button class="slider-content-btn">Read More</button>
               </div>
             </div>
           </div>
@@ -135,16 +135,14 @@
               <div class="slide-text-div slide-sec-1">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">Product development</span> AWS, Azure,
+                    <span class="slider-title-blue">Microsoft</span> <span class="slider-2-title-l-blue">Dynamics</span> GYDE365
                   <p>
-                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                  <p class="slider-subtitle">Empowering Digital Transformation<p>
                 </div>
               </div>
               <div class="slide-text-div slide-sec-2">
-                <p class="slider-content">We offer end-to-end product development
-                services on AWS and Azure, leveraging our expertise
-                to help clients scale and succeed in the cloud.</p>
-                <button class="slider-content-btn">Book a consultation call</button>
+                <p class="slider-content">Our team brings extensive experience in Microsoft Dynamics GYDE365, delivering expert support and tailored solutions to meet your unique business needs.</p>
+                <button class="slider-content-btn">Read More</button>
               </div>
             </div>
           </div>
@@ -159,40 +157,14 @@
               <div class="slide-text-div slide-sec-1">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">What our</span> Clients Say
+                    Product development <span class="slider-title-red">AWS, Azure</span>
                   <p>
-                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
+                  <p class="slider-subtitle">Your Partner in Cloud Excellence<p>
                 </div>
               </div>
               <div class="slide-text-div slide-sec-2">
-                <p class="slider-content">Check out our client testimonials to see
-                how we've helped them achieve their goals
-                and exceed their expectations.</p>
-                <button class="slider-content-btn">Book a consultation call</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="slide-main">
-          <div class="slide slide-row">
-            <div class="video-background">
-              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
-            </div>
-            <div class="slide-text-overlay">
-              <div class="slide-text-div slide-sec-1">
-                <div class="slider-title-div">
-                  <p class="slider-title">
-                    <span class="slider-title-red">Life at</span> 1BillionTech
-                  <p>
-                  <p class="slider-subtitle">Delivering Innovation At Speed<p>
-                </div>
-              </div>
-              <div class="slide-text-div slide-sec-2">
-                <p class="slider-content">Life at 1 BillionTech is vibrant and fulfilling.
-                Our inclusive culture, cutting-edge tech, and career
-                development opportunities make it unique.</p>
-                <button class="slider-content-btn">Book a consultation call</button>
+                <p class="slider-content">We offer end-to-end product development services on AWS and Azure, leveraging our expertise to help clients scale and succeed in the cloud.</p>
+                <button class="slider-content-btn">Read More</button>
               </div>
             </div>
           </div>
@@ -201,7 +173,6 @@
 
       <!-- Navigation dots -->
       <div class="dots-container">
-        <span class="dot"></span>
         <span class="dot"></span>
         <span class="dot"></span>
         <span class="dot"></span>
@@ -517,143 +488,114 @@
           <h1><span class="font-red">TECHNOLOGY</span> STACK</h1>
         </header>
 
-        <ul class="row clients-dotted list-inline">
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T01.png" alt="tech" width="130px">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T02.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T03.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T04.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T05.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T06.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T07.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T08.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T09.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T10.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T11.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T12.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T13.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T14.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T15.png" alt="tech" width="75">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T16.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T17.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T18.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T19.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T20.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T21.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T22.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T23.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T24.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T25.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T26.png" alt="tech" width="75">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T27.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T28.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T29.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T30.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T31.png" alt="tech" width="75">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6">
-            <img class="img-responsive" src="assets/images/tech/T32.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6 border-left-none-icon border-bottom-none-icon">
-            <img class="img-responsive" src="assets/images/tech/T33.png" alt="tech" width="130">
-          </li>
-
-          <li class="col-md-3 col-sm-3 col-xs-6 border-bottom-none-icon">
-            <img class="img-responsive" src="assets/images/tech/T34.png" alt="tech" width="130">
-          </li>
-        </ul>
+        <div class="col-md-12">
+          <div class="text-center">
+            <div class="owl-carousel tech-carousel-div" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T01.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T02.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T03.png" alt="tech" width="100%" height="45px">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T04.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T05.png" alt="tech" width="70%" height="40px">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T06.png" alt="tech" width="85%" height="50px">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T07.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T08.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T09.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T10.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T11.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T12.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T13.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T14.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T15.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T16.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T17.png" alt="tech" width="70%">
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/tech/T18.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T19.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T20.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T21.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T22.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T23.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T24.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T25.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T26.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T27.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T28.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T29.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T30.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T31.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T32.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T33.png" alt="tech" width="70%">
+              </div>
+              <div>
+               <img class="img-responsive" src="assets/images/tech/T34.png" alt="tech" width="70%">
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -708,8 +650,6 @@
 
           </div>
           <div class="clearfix"></div>
-
-          <div class="text-center mt-40"><a href="case_studies.php" class="view-btn btn btn-red">VIEW MORE</a></div>
 
 
         </div>
