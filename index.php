@@ -218,7 +218,7 @@
                   <img class="img-responsive" src="assets/images/ai-main.png" alt="service">
                 </figure>
 
-                <h4 class="nomargin-bottom">AI Driven Product Incubation</h4>
+                <h4 class="margin-bottom-20">AI Driven Product Incubation</h4>
                 <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
                 </span>
 
@@ -234,7 +234,7 @@
                   <img class="img-responsive" src="assets/images/crm.png" alt="service">
                 </figure>
 
-                <h4 class="nomargin-bottom">Microsoft D365</h4> 
+                <h4 class="margin-bottom-20">Microsoft D365</h4> 
                 <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
               </span>
 
@@ -250,7 +250,7 @@
                   <img class="img-responsive" src="assets/images/cloud_services.png" alt="service">
                 </figure>
 
-                <h4 class="nomargin-bottom">Cloud Services</h4> 
+                <h4 class="margin-bottom-20">Cloud Services</h4> 
                 <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
               </span>
 
@@ -675,7 +675,7 @@
         
         <div class="row">
         <div class="col-md-6">
-        <header class="text-left margin-bottom-60 section-title">
+        <header class="text-left margin-bottom-20 section-title">
           <!-- <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p> -->
           <h1><span class="font-red">CASE</span> STUDIES</h1>
         </header>
@@ -683,25 +683,27 @@
         <!-- <div class="col-md-6 ">
           <p class="case-study-title">At 1BillionTech, we don't just build solutions—we deliver measurable business impact. Our case studies demonstrate how our expertise in AI-driven automation, cloud modernization, and enterprise solutions transforms complex challenges into competitive advantages for our clients. See the strategies, technologies, and results that define our partnerships.</p>
         </div> -->
-        <div class="col-lg-12">
-          <div class="col-md-6">
+        <div class="col-lg-12 case-study-content">
+          <div class="col-md-6 case-section-item">
 
             <div class="box-image text-left">
 
               <a href="case_study_ideapoint.php">
-                <img class="img-responsive" src="assets/images/ideapoint-casestudy.png" alt="img">
+                <img class="img-responsive" src="assets/images/ideapoint-casestudy.jpg" alt="img">
               </a>
 
               <a href="case_study_ideapoint.php" class="box-image-title">
-                <h2 class="weight-600">Accelerating Enterprise Software Development with AI</h2>
-                <h5 class="weight-400">Through a strategic multi-year partnership, 1BT provided end-to-end development support to IdeaPoint,</h5>
+                <div>
+                  <h2 class="weight-600">Accelerating Enterprise Software Development with AI</h2>
+                  <h5 class="weight-400">Through a strategic multi-year partnership, 1BT provided end-to-end development support to IdeaPoint,</h5>
+                </div>
                 <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 
             </div>
 
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 case-section-item">
 
             <div class="box-image text-left">
 
@@ -710,9 +712,11 @@
               </a>
 
               <a href="case_study_millionspaces.php" class="box-image-title">
-                <h2 class="weight-600">MillionSpMillionSpaces – Redefining Workspace Booking with AI
-                </h2>
-                <h5 class="weight-400">Find and book the perfect workspace with MillionSpaces</h5>
+                <div>
+                  <h2 class="weight-600">MillionSpMillionSpaces – Redefining Workspace Booking with AI
+                  </h2>
+                  <h5 class="weight-400">Find and book the perfect workspace with MillionSpaces</h5>
+                </div>
                 <span class="font-red font-italic weight-600 text-underline">Read Full Study</span>
               </a>
 
@@ -732,53 +736,32 @@
 
     <section class="bg-light highlight-section">
       <div class="container">
-        <header class="text-center margin-bottom-60 section-title">
+        <header class="text-center margin-bottom-20 section-title">
           <!-- <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p> -->
           <h1 class="weight-400"><span class="font-red">1BT</span> HIGHLIGHTS</h1>
         </header>
         <div class="col-md-12 slider-wrapper">
           <div id="highlightSlidesContainer" class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container" data-plugin-options='{"singleItem": true, "items":"1", "autoPlay": true, "navigation": false, "pagination": false}'>
             <div class="img-hover mr-10 slide-item">
-              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                <img class="img-responsive" src="assets/images/zoe-highlights-thumb.jpg" alt="">
-              </a> -->
+              <div>
+                <img class="img-responsive" src="assets/images/highlights-img-1.png" alt="">
+              </div>
 
-              <h5 class="text-left margin-top-20 highlights">
-                <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php">1 Billion Tech and ZoeInsights team up to revolutionize how patients track their health data</a>
+              <div class="text-left margin-top-20 highlights">
+                <!-- <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php">The VelocentAI Framework</a> -->
                 <!-- <span> <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php">
                     <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
-              </h5>
+
+                <!-- <p>Meet VelocentAI — an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</p> -->
+                <div class="box-image-title">
+                  <h2 class="weight-600 text-underline">The VelocentAI Framework</h2>
+                  <h5 class="weight-400">Meet VelocentAI — an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</h5>
+                </div>
+                <a href="https://1billiontech.com/The_VelocentAI_Framework.php" class="font-red font-italic weight-600 text-underline">Read Full Article</a>
+              </div>
 
               </a>
             </div>
-            <div class="img-hover ml-10 slide-item">
-              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
-              </a> -->
-
-              <h5 class="text-left margin-top-20 highlights">
-                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta</a>
-                <!-- <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
-              </h5>
-
-              </a>
-            </div>
-
-            <div class="img-hover ml-10 slide-item">
-              <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                <img class="img-responsive" src="assets/images/eric-main.webp" alt="">
-              </a> -->
-
-              <h5 class="text-left margin-top-20 highlights">
-                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta2</a>
-                <!-- <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
-                    <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
-              </h5>
-
-              </a>
-            </div>
-
           </div>
         </div>
 

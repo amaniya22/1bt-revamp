@@ -15067,13 +15067,16 @@ a.social-icon>i[class^=icon-] {
 }
 
 /* small */
-a.social-icon.social-icon-sm,
-a.social-icon.social-icon-sm>img {
+a.social-icon.social-icon-sm {
 	width: 32px;
 	/*height: 55px;
 	/* margin-top: -10px; */
 	/*font-size: 17px;
 	/* line-height: 58px; */
+}
+
+a.social-icon.social-icon-sm>img {
+	width: 22px;
 }
 
 a.social-icon.social-icon-sm>i:last-child {}

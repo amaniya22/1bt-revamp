@@ -28,10 +28,15 @@
           <h5 class="margin-0 font-red">ADDRESS</h5>
 
           <div style="padding-bottom: 10px">
-            <p class="footer-contact-text">22 Sunnyhill Rd., Emerald Hills, CA 94062-3948(USA)
-              <br />
-              61, 3rd Level, Janadhipathi Mawatha, Colombo 01(SL)
-            </p>
+              <p class="footer-contact-text">
+                <span class="weight-700">United States (Headquarters)</span><br />
+                3600 136th PL SE, Suite 300, Bellevue,<br />
+                WA 98006, USA
+              </p>
+              <p class="footer-contact-text">
+                <span class="weight-700">Sri Lanka Office</span><br />
+                Level 3, No. 61, Janadhipathi Mawatha,<br /> Colombo 01, Sri Lanka
+              </p>
           </div>
 
         </div>
@@ -46,14 +51,17 @@
 
             <a href="mailto:contact@1billiontech.com">
 
-              <span class="footer-contact-text" style="text-transform: lowercase;">contact@1billiontech.com</span>
+              <span class="footer-contact-text email-txt" style="text-transform: lowercase;">contact@1billiontech.com</span>
 
             </a>
 
           </div>
+        </div>
 
-
-
+        <div class="col-md-12 text-left">
+          <div>
+            <button class="footer-btn-red">Book a consultation call</button>
+          </div>
         </div>
 
       </div>
@@ -80,68 +88,79 @@
 <div class="container black-footer">
   <div class="row">
 
-    <div class="col-md-6 padding-20">
-      <h3>WRITE TO US</h3>
+    <!-- <div class="col-md-6 padding-20"> -->
+      <!-- <h3>WRITE TO US</h3> -->
 
       <!-- CONTACT MESSAGES -->
-      <p id="alert_success" class="alert alert-success alert-mini">Message sent successfully.</p>
+      <!-- <p id="alert_success" class="alert alert-success alert-mini">Message sent successfully.</p>
       <p id="alert_failed" class="alert alert-danger alert-mini">Message failed.</p>
-      <p id="alert_mandatory" class="alert alert-danger alert-mini">Please complete all mandatory fields.</p>
+      <p id="alert_mandatory" class="alert alert-danger alert-mini">Please complete all mandatory fields.</p> -->
 
       <!-- CONTACT FORM -->
-      <form class="validate">
-        <input type="text" value="" placeholder="Name*" maxlength="100" class="form-control required" name="contact[name]" />
-        <input type="email" value="" placeholder="Email Address*" data-msg-email="Please enter a valid email address." class="form-control required" name="contact[email]" />
+      <!-- <form class="validate"> -->
+        <!-- <input type="text" value="" placeholder="Name*" maxlength="100" class="form-control required" name="contact[name]" />
+        <input type="email" value="" placeholder="Email Address*" data-msg-email="Please enter a valid email address." class="form-control required" name="contact[email]" /> -->
         <!-- <textarea maxlength="5000" placeholder="Message*" rows="3" class="form-control required" name="contact[message]"></textarea> -->
-        <a href="mailto:contact@1billiontech.com?subject=Feedback" class="view-btn btn btn-red margin-top-8">SUBMIT</a>
-      </form>
+        <!-- <a href="mailto:contact@1billiontech.com?subject=Feedback" class="view-btn btn btn-red margin-top-8">SUBMIT</a> -->
+      <!-- </form> -->
       <!-- /CONTACT FORM -->
 
-    </div>
-    <div class="col-md-3 padding-20">
+    <!-- </div> -->
+    <div class="col-lg-5 padding-20">
       <!-- Links -->
       <h3>ABOUT US</h3>
       <ul class="footer-links list-unstyled">
-        <li><a href="aboutus.php#why-auxenta">WHY 1 BILLION TECH</a>
-        </li>
-        <li>
-          <a href="aboutus.php#bod">BOARD OF DIRECTORS</a>
-        </li>
-        <li>
-          <a href="aboutus.php#leadership">LEADERSHIP TEAM</a>
-        </li>
-        <li>
-          <a href="aboutus.php#advisors">ADVISORS</a>
-        </li>
-        <li>
-          <a href="aboutus.php#offices">OUR OFFICES</a>
-        </li>
-        <li><a href="case_studies.php">CASE STUDIES</a></li>
+        <div>
+          <li><a href="aboutus.php#why-auxenta">why 1 billion tech</a>
+          </li>
+          <li>
+            <a href="aboutus.php#bod">Board of directors</a>
+          </li>
+          <li>
+            <a href="aboutus.php#leadership">Leadership team</a>
+          </li>
+          <li>
+            <a href="aboutus.php#advisors">Advisors</a>
+          </li>
+        </div>
+        <div>
+          <li>
+            <a href="aboutus.php#offices">our offices</a>
+          </li>
+          <li>
+            <a href="case_studies.php">case studies</a>
+          </li>
+          <li>
+            <a href="case_studies.php">People & Culture</a>
+          </li>
+        </div>
       </ul>
       <!-- /Links -->
     </div>
-    <div class="col-md-3 padding-20">
+    <div class="col-lg-7 padding-20">
       <h3>CONNECT</h3>
       <!-- Small Description -->
-      <div style="color: #fff; font-family: 'Graphik', sans-serif; font-size: 15px; font-weight: 400; line-height: 150%; letter-spacing: -0.165px; text-transform: capitalize;"> We at 1 Billion Tech would love to talk to you about transforming your business. </div>
+      <div class="footer-links list-unstyled">
+        <div class="footer-connect-txt"> We at 1 Billion Tech would love to talk to you about transforming your business. </div>
 
-      <!-- Social Icons -->
-      <div class="clearfix margin-top-25">
-        <a href="https://www.facebook.com/1billiontechnology/" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="Facebook">
-          <img src="assets/images/icon-facebook.svg" alt="facebook" />
-        </a>
-        <a href="https://www.instagram.com/1billiontech/" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="Instagram">
-          <img src="assets/images/icon-insta.svg" alt="twitter" />
-        </a>
-        <a href="https://www.linkedin.com/company/1-billion-tech/" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="Linkedin">
-          <img src="assets/images/icon-linkedin.svg" alt="linkedin" />
-        </a>
-        <a href="https://www.youtube.com/@1billiontech753" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="YouTube">
-          <img src="assets/images/icon-youtube.svg" alt="youtube" />
-        </a>
-        <a href="https://www.tiktok.com/@1billiontech" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="TikTok">
-          <img src="assets/images/icon-tiktok.svg" alt="tiktok" />
-        </a>
+        <!-- Social Icons -->
+        <div class="clearfix margin-top-25">
+          <a href="https://www.facebook.com/1billiontechnology/" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="Facebook">
+            <img src="assets/images/icon-facebook.svg" alt="facebook" />
+          </a>
+          <a href="https://www.instagram.com/1billiontech/" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="Instagram">
+            <img src="assets/images/icon-insta.svg" alt="twitter" />
+          </a>
+          <a href="https://www.linkedin.com/company/1-billion-tech/" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="Linkedin">
+            <img src="assets/images/icon-linkedin.svg" alt="linkedin" />
+          </a>
+          <a href="https://www.youtube.com/@1billiontech753" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="YouTube">
+            <img src="assets/images/icon-youtube.svg" alt="youtube" />
+          </a>
+          <a href="https://www.tiktok.com/@1billiontech" target="_blank" class="social-icon social-icon-sm social-icon-transparent pull-left margin-right-15" data-toggle="tooltip" data-placement="top" title="TikTok">
+            <img src="assets/images/icon-tiktok.svg" alt="tiktok" />
+          </a>
+        </div>
       </div>
       <!-- /Social Icons -->
     </div>
