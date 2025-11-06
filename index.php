@@ -299,10 +299,10 @@
     <section class="no-margin clients-section">
       <div class="container-fluid">
 
-        <header class="text-center margin-bottom-60 section-title">
+        <!-- <header class="text-center margin-bottom-60 section-title">
           <p class="sub-heading"> The Company We Keep </p>
           <h1 class="weight-400"> <span class="font-red">OUR</span> CLIENTS</h1>
-        </header>
+        </header> -->
         <div class="col-md-12">
           <div class="text-center">
             <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
@@ -513,7 +513,7 @@
     <section class="technology-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
-          <p class="sub-heading"> OUR TECH ARSENAL </p>
+          <!-- <p class="sub-heading"> OUR TECH ARSENAL </p> -->
           <h1><span class="font-red">TECHNOLOGY</span> STACK</h1>
         </header>
 
@@ -664,13 +664,13 @@
         <div class="row">
         <div class="col-md-6">
         <header class="text-left margin-bottom-60 section-title">
-          <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
+          <!-- <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p> -->
           <h1><span class="font-red">CASE</span> STUDIES</h1>
         </header>
         </div>
-        <div class="col-md-6 ">
+        <!-- <div class="col-md-6 ">
           <p class="case-study-title">At 1BillionTech, we don't just build solutions—we deliver measurable business impact. Our case studies demonstrate how our expertise in AI-driven automation, cloud modernization, and enterprise solutions transforms complex challenges into competitive advantages for our clients. See the strategies, technologies, and results that define our partnerships.</p>
-        </div>
+        </div> -->
         <div class="col-lg-12">
           <div class="col-md-6">
 
@@ -723,11 +723,11 @@
     <section class="bg-light highlight-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
-          <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p>
+          <!-- <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p> -->
           <h1 class="weight-400"><span class="font-red">1BT</span> HIGHLIGHTS</h1>
         </header>
         <div class="col-md-12 slider-wrapper">
-          <div id="highlightSlidesContainer" class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container" data-plugin-options='{"singleItem": false, "items":"2", "autoPlay": false, "navigation": false, "pagination": false}'>
+          <div id="highlightSlidesContainer" class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container" data-plugin-options='{"singleItem": true, "items":"1", "autoPlay": true, "navigation": false, "pagination": false}'>
             <div class="img-hover mr-10 slide-item">
               <!-- <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                 <img class="img-responsive" src="assets/images/zoe-highlights-thumb.jpg" alt="">
@@ -761,7 +761,7 @@
               </a> -->
 
               <h5 class="text-left margin-top-20 highlights">
-                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta</a>
+                <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">1 Billion Tech welcomes new President Erik Sebesta2</a>
                 <!-- <span> <a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php">
                     <i class="fa fa-chevron-right text-red margin-left-10"></i></span> -->
               </h5>
@@ -772,14 +772,14 @@
           </div>
         </div>
 
-        <div class="slider-controls">
+        <!-- <div class="slider-controls">
           <button id="prevBtn" class="slider-btn left-arrow">
             <img src="./assets/images/slider-left-btn.svg" />
           </button>
           <button id="nextBtn" class="slider-btn right-arrow">
             <img src="./assets/images/slider-right-btn.svg" />
           </button>
-        </div>
+        </div> -->
       </div>
 
     </section>
