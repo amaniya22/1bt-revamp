@@ -277,18 +277,17 @@
         <div class="col-md-12">
           <div class="text-center">
             <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/cnew-01.png" alt="" >
-              </div>
+          
               <div>
                 <img class="img-responsive" src="assets/images/clients/cnew-02.png" alt="" >
-              </div>
-                           <div>
-                <img class="img-responsive" src="assets/images/clients/cnew-04.png" alt="" >
               </div>
               <div>
                 <img class="img-responsive" src="assets/images/clients/cnew-05.png" alt="">
               </div>
+               <div>
+                <img class="img-responsive" src="assets/images/clients/cnew-04.png" alt="" >
+              </div>
+             
               <div>
                 <img class="img-responsive" src="assets/images/clients/cnew-06.png" alt="" >
               </div>
