@@ -399,16 +399,86 @@
 
       </div>
     </section>
+    <hr class="separator"/>
+    <section class="testimonial-highlights-section testimonial-section">
+    <div class="custom-container container">
+        <header class="section-header text-center margin-bottom-60 section-title">
+            <h1 class="heading-main weight-400"><span class="testimonial-color font-red">WHAT OUR</span> CLIENTS SAY</h1>
+            <p class="sub-heading">Discover how our clients have achieved their business goals and exceeded expectations
+            </p>
+        </header>
 
+        <div class="col-md-12">
+            <div id="testimonialSlidesContainer" 
+                 class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container"
+                            data-plugin-options='{
+                  "singleItem": false, 
+                  "items": 2, 
+                  "autoPlay": true, 
+                  "navigation": false, 
+                  "pagination": false,
+                  
+                  "responsive": {
+                      "0": {"items": 1, "margin": 20},
+                      "768": {"items": 2, "margin": 30}
+                  }
+              }'>                 
+               <div class="slide-item">
+                    <div class="testimonial-card">
+                       
+                        <div class="card-content">
+                            <div class="profile-header">
+                                <div class="profile-icon"> <img src="assets/images/client-icon.png" alt="icon" class="icon"></div> 
+                                <div class="profile-info">
+                                    <p class="name">Shaneel Pathak</p>
+                                    <p class="title">CEO and Cofounder, ZoeInsights</p>
+                                </div>
+                            </div>
+                            <p class="quote">
+                                Since 2019, our collaboration with 1 Billion Tech led to launching our SaaS health platform. Their dedicated team, managed efficiently, demonstrated commitment and critical thinking, fostering a trusted relationship.
+                            </p>
+                        </div>
+                        <div class="image-overlap-area">
+                            <img src="assets/images/Shaneel.png" alt="Shaneel Pathak" class="profile-image">
+                        </div>
 
+                    </div>
+                </div>
+
+                <div class="slide-item">
+                    <div class="testimonial-card">
+                        
+                        <div class="card-content">
+                            <div class="profile-header">
+                            <div class="profile-icon"> <img src="assets/images/client-icon2.png" alt="icon" class="icon"></div> 
+                            <div class="profile-info">
+                                    <p class="name">Deepa Sureka</p>
+                                    <p class="title">Founder, My Kora Life</p>
+                                </div>
+                            </div>
+                            <p class="quote">
+                            Since 2019, our collaboration with 1 Billion Tech led to launching our SaaS health platform. Their dedicated team, managed efficiently, demonstrated commitment and critical thinking, fostering a trusted relationship.                        </div>
+
+                        <div class="image-overlap-area">
+                            <img src="assets/images/Deepa.png" alt="Jane Doe" class="profile-image">
+                        </div>
+
+                    </div>
+                </div>
+                
+                </div>
+        </div>
+    </div>
+</section>
 
 
     <!-- -->
     <section class="blog-section">
       <div class="container">
-        <header class="text-center margin-bottom-60 section-title">
-          <p class="sub-heading"> OUR BEST WORK YET </p>
-          <h1 class="weight-400"> BLOG</h1>
+        <header class="section-header text-center margin-bottom-60 section-title">
+            <h1 class="heading-main weight-400"><span class="testimonial-color font-red">Podcast</span> hub</h1>
+            <p class="sub-heading">Featuring Conversations that Build the Future!
+            </p>
         </header>
 
         <div class="row">
@@ -419,7 +489,7 @@
             <!-- IMAGE -->
             <a href="blog_How_testers_should_deal_with_GDPR.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/face-rec-main.png" alt="img">
+                <img class="img-responsive" src="assets/images/podcast1.png" alt="img">
               </figure>
             </a>
 
@@ -439,7 +509,7 @@
             <!-- IMAGE -->
             <a href="blog_Lambda_layers_with_NodeJS.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/Amazon_aurora_main.png" alt="img">
+                <img class="img-responsive" src="assets/images/podcast2.png" alt="img">
               </figure>
             </a>
 
@@ -457,7 +527,7 @@
             <!-- IMAGE -->
             <a href="blog_GitHub_Workflows_For_Test_Automation.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/artifical-main.png" alt="img">
+                <img class="img-responsive" src="assets/images/podcast3.png" alt="img">
               </figure>
             </a>
 <!-- 

@@ -34,10 +34,10 @@
                      </li>
                    -->
               <ul id="topMain" class="nav nav-pills nav-main">
-                <li><a href="case_studies.php">CLIENTS</a></li>
-                <li><a href="services.php">SERVICES</a></li>
+                <li><a href="case_studies.php">Clients</a></li>
+                <li><a href="services.php">Services</a></li>
                                <li class="dropdown">
-                  <a class="dropdown-toggle" href="#">THOUGHT LEADERSHIP</a>
+                  <a class="dropdown-toggle" href="#">Thought leadership</a>
                   <ul class="dropdown-menu">
                     <li>
                       <a href="blog.php">BLOG</a>
@@ -69,10 +69,10 @@
           
                       
                 <li>
-                  <a href="careers.php">CAREERS</a>
+                  <a href="careers.php">Careers</a>
                 </li>
                 <li>
-                  <a href="index.php#contact">CONTACT</a>
+                  <a href="index.php#contact">Contact</a>
                 </li>
               </ul>
 
