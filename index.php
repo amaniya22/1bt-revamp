@@ -81,7 +81,7 @@
 
 
     <section id="slider-container" class="slide-mobile">
-      <div class="container custom-container">
+      <div class="container-fluid custom-container">
         <div class="slide-container">
           <div class="slide slide-row">
             <div class="video-background">
