@@ -397,14 +397,14 @@
     </section>
     <hr class="separator"/>
     <section class="testimonial-highlights-section testimonial-section">
-    <div class="custom-container container">
+    <div class="custom-container container-fluid">
         <header class="section-header text-center margin-bottom-60 section-title">
             <h1 class="heading-main weight-400"><span class="testimonial-color font-red">WHAT OUR</span> CLIENTS SAY</h1>
             <p class="sub-heading">Discover how our clients have achieved their business<br/> goals and exceeded expectations
             </p>
         </header>
 
-        <div class="col-md-12">
+        <div class="row">
             <div id="testimonialSlidesContainer" 
                  class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container"
                             data-plugin-options='{

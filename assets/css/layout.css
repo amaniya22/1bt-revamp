@@ -9965,6 +9965,7 @@ footer.sticky {
 
   .container-fluid.custom-container {
 	width: 85%;
+	background-color: blue;
   }
 
 #header .black-header#topMain.nav-pills > li.active > a,
