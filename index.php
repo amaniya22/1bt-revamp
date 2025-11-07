@@ -115,7 +115,7 @@
                   <p class="slider-title">
                     <span class="slider-title-red">AI-Driven</span> <span class="slider-2-title-l-red">Product</span> Incubation
                   <p>
-                  <p class="slider-subtitle">Achieve up to a 40%<br /> acceleration in time to market.<p>
+                  <p class="slider-subtitle text-wrap">Achieve up to a 40% acceleration in time to market.<p>
                 </div>
               </div>
               <div class="slide-text-div slide-sec-2">
