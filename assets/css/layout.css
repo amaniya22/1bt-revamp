@@ -4019,12 +4019,11 @@ body.boxed #topBar.dark ul.top-links > li {
   border-top: #eee 1px solid;
   list-style: none;
   background: #fff;
-  background-color: #fff;
+  background-color: #242424;
   box-shadow: rgba(0, 0, 0, 0.2) 0 6px 12px;
   min-width: 200px;
   padding: 0;
-
-  border-color: #1abc9c #fff #fff;
+  color: #9B9B9B;
 
   -webkit-transition: top 0.4s ease;
   -o-transition: top 0.4s ease;
@@ -4059,11 +4058,14 @@ body.boxed #topBar.dark ul.top-links > li {
   padding: 7px 15px;
   font-weight: 400;
   line-height: 23px;
-  color: #000;
+  color: #9b9b9b;
   font-size: 13px;
   display: block;
   text-decoration: none;
 }
+
+#topNav ul.dropdown-menu li a:hover {
+color: #BEBEBE;}
 
 #topNav ul.dropdown-menu > li a i {
   margin-right: 6px;
