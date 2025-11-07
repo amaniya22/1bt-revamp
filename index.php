@@ -81,14 +81,14 @@
 
 
     <section id="slider-container" class="slide-mobile">
-      <div class="container-fluid custom-container">
+      <div class="custom-container">
         <div class="slide-container">
           <div class="slide slide-row">
             <div class="video-background">
               <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
             </div>
 
-            <div class="slide-main slide-text-overlay">
+            <div class="container-fluid slide-main slide-text-overlay">
               <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
