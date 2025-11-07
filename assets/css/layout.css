@@ -7376,7 +7376,7 @@ div.ls-thumbnail-slide-container {
 	display: flex;
   }
 
-#slider-container .container {
+#slider-container .container-fluid {
   padding: 0;
   width: 100%;
 }
@@ -7410,7 +7410,7 @@ div.ls-thumbnail-slide-container {
   align-items: center;
   width: 100%;
   height: calc(100vh - 125px);
-  padding: 120px 45px;
+  padding: 120px 85px;
 }
 
 #slider-container .dots-container {
