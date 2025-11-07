@@ -867,6 +867,10 @@ body.boxed #wrapper {
 	line-height: 52px;
   }
 
+  .footer-section-container {
+    padding: 0 25px;
+  }
+
   .testimonial-section .sub-heading, .blog-section .sub-heading {
 	font-size: 25px !important;
 	line-height: 30px !important;

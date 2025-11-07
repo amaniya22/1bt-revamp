@@ -4,7 +4,7 @@
 ?>
 
 <section class="footer-section black-footer">
-  <div class="container-fluid custom-container">
+  <div class="container-fluid custom-container margin-bottom-50 footer-section-container">
     <div class="row">
     <header class="text-center section-title">
           <p class="sub-heading"> LET'S GET IN TOUCH </p>
@@ -85,7 +85,7 @@
   </div>
 
 </section>
-<div class="container-fluid custom-container black-footer">
+<div class="container-fluid custom-container black-footer margin-bottom-40 footer-section-container">
   <div class="row">
 
     <!-- <div class="col-md-6 padding-20"> -->
@@ -106,7 +106,7 @@
       <!-- /CONTACT FORM -->
 
     <!-- </div> -->
-    <div class="col-lg-5 padding-20">
+    <div class="col-lg-5 padding-0">
       <!-- Links -->
       <h3>ABOUT US</h3>
       <ul class="footer-links list-unstyled">
@@ -137,7 +137,7 @@
       </ul>
       <!-- /Links -->
     </div>
-    <div class="col-lg-7 padding-20">
+    <div class="col-lg-7 padding-0">
       <h3>CONNECT</h3>
       <!-- Small Description -->
       <div class="footer-links list-unstyled">
@@ -174,7 +174,7 @@
   </div>
 </div>
 <div class="copyright">
-  <div class="container-fluid custom-container">
+  <div class="container-fluid custom-container padding-0 footer-section-container">
     <ul class="list-inline inline-links mobile-block pull-right nomargin">
       <li>
         <a href="index.php">Home</a>
