@@ -364,7 +364,7 @@ hr.separator {
 }
 
 .case-studies-section .box-image img {
-  height: 100%;
+  aspect-ratio: 1/0.7;
   margin-bottom: 0;
 }
 
@@ -9952,7 +9952,7 @@ footer.sticky {
 }
 
   .container-fluid.custom-container {
-	width: 95%;
+	width: 85%;
   }
 
 #header .black-header#topMain.nav-pills > li.active > a,
