@@ -81,7 +81,7 @@
 
 
     <section id="slider-container" class="slide-mobile">
-      <div class="container">
+      <div class="container-fluid custom-container">
         <div class="slide-container">
           <div class="slide slide-row">
             <div class="video-background">
@@ -209,7 +209,7 @@
 
 
     <section class="alternate service-section">
-      <div class="container">
+      <div class="container-fluid custom-container">
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-4 ">
             <div class="border-bottom">
@@ -279,58 +279,105 @@
             <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
           
               <div>
-                <img class="img-responsive" src="assets/images/clients/C1.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c1.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C2.png" alt="icon">
+                <img class="img-responsive" src="assets/images/clients/c2.jpg" alt="icon">
               </div>
                <div>
-                <img class="img-responsive" src="assets/images/clients/C3.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c3.jpg" alt="icon" >
               </div>
              
               <div>
-                <img class="img-responsive" src="assets/images/clients/C4.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c4.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C5.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c5.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C6.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c6.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C7.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c7.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C8.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c8.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C9.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c9.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C10.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c10.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C11.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c11.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C12.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c12.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C13.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c13.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C14.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c14.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C15.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c15.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c16.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C17.png" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/c17.jpg" alt="icon" >
               </div>
-  
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c18.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c19.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c20.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c21.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c22.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c23.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c24.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c25.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c26.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c27.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c28.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c29.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c30.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c31.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c32.jpg" alt="icon" >
+              </div>
+              <div>
+                <img class="img-responsive" src="assets/images/clients/c33.jpg" alt="icon" >
+              </div>
             </div>
           </div>
         </div>
@@ -353,7 +400,7 @@
     <div class="custom-container container">
         <header class="section-header text-center margin-bottom-60 section-title">
             <h1 class="heading-main weight-400"><span class="testimonial-color font-red">WHAT OUR</span> CLIENTS SAY</h1>
-            <p class="sub-heading">Discover how our clients have achieved their business goals and exceeded expectations
+            <p class="sub-heading">Discover how our clients have achieved their business<br/> goals and exceeded expectations
             </p>
         </header>
 
@@ -425,14 +472,14 @@
 
     <!-- -->
     <section class="blog-section">
-      <div class="container">
+      <div class="container-fluid custom-container">
         <header class="section-header text-center margin-bottom-60 section-title">
             <h1 class="heading-main weight-400"><span class="testimonial-color font-red">Podcast</span> hub</h1>
             <p class="sub-heading">Featuring Conversations that Build the Future!
             </p>
         </header>
 
-        <div class="row">
+        <div class="row" gutter="40">
                     <!-- POST ITEM -->
                     <div class="blog-post-item col-md-4 col-sm-6">
             <!-- <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
@@ -440,7 +487,7 @@
                     </figure> -->
                     <a href="https://www.youtube.com/watch?v=vIUIj80at4E&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=2">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast1.png" alt="img">
+                <img class="img-responsive" src="assets/images/podcast1.png" alt="img" target="_blank">
               </figure>
             </a>
           </div>
@@ -448,7 +495,7 @@
 
           <!-- POST ITEM -->
           <div class="blog-post-item col-md-4 col-sm-6">
-          <a href="https://www.youtube.com/watch?v=Wf7vDVz9Tvo&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=1">
+          <a href="https://www.youtube.com/watch?v=Wf7vDVz9Tvo&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=1" target="_blank">
               <figure class="margin-bottom-20">
                 <img class="img-responsive" src="assets/images/podcast2.png" alt="img">
               </figure>
@@ -457,7 +504,7 @@
           <!-- /POST ITEM -->
           <!-- POST ITEM -->
           <div class="blog-post-item col-md-4 col-sm-6">
-          <a href="https://www.youtube.com/watch?v=-ijBw5Mz5nE&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=3">
+          <a href="https://www.youtube.com/watch?v=-ijBw5Mz5nE&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=3" target="_blank">
               <figure class="margin-bottom-20">
                 <img class="img-responsive" src="assets/images/podcast3.png" alt="img">
               </figure>
@@ -476,8 +523,8 @@
 
 
     <section class="technology-section">
-      <div class="container">
-        <header class="text-center margin-bottom-60 section-title">
+      <div class="container-fluid custom-container">
+        <header class="text-center margin-bottom-40 section-title">
           <!-- <p class="sub-heading"> OUR TECH ARSENAL </p> -->
           <h1><span class="font-red">TECHNOLOGY</span> STACK</h1>
         </header>
@@ -538,7 +585,7 @@
 
 
     <section class="alternate case-studies-section">
-      <div class="container">
+      <div class="container-fluid custom-container">
         
         <div class="row">
         <div>
@@ -602,7 +649,7 @@
    
 
     <section class="bg-light highlight-section">
-      <div class="container">
+      <div class="container-fluid custom-container">
         <header class="text-center margin-bottom-20 section-title">
           <!-- <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p> -->
           <h1 class="weight-400"><span class="font-red">1BT</span> HIGHLIGHTS</h1>
@@ -622,7 +669,7 @@
                 <!-- <p>Meet VelocentAI — an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</p> -->
                 <div class="box-image-title">
                   <h2 class="weight-600 text-underline">The VelocentAI Framework</h2>
-                  <h5 class="weight-400">Meet VelocentAI — an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</h5>
+                  <h5 class="weight-400">Meet VelocentAI, an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</h5>
                 </div>
                 <a href="/The_VelocentAI_Framework.php" class="font-red font-italic weight-600 text-underline">Read Full Article</a>
               </div>

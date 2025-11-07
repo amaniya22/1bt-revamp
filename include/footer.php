@@ -4,13 +4,13 @@
 ?>
 
 <section class="footer-section black-footer">
-  <div class="container">
+  <div class="container-fluid custom-container">
     <div class="row">
     <header class="text-center section-title">
           <p class="sub-heading"> LET'S GET IN TOUCH </p>
           <h1>Connect <span class="font-red"> With Us </span> </h1>
     </header>
-    <div class="col-md-5 col-sm-12  padding-top-40">
+    <div class="col-md-4 col-sm-12  padding-top-40">
         <div class="col-md-12 text-left">
           <!-- <img src="assets/images/ico-phone.png" alt="" style="max-width: 32px;"> -->
           <h5 class="margin-0 font-red">PHONE</h5>
@@ -66,7 +66,7 @@
 
       </div>
 
-      <div class="col-md-7 col-sm-12  padding-top-40">
+      <div class="col-md-8 col-sm-12  padding-top-40">
 
         <!-- <header class="text-center section-title">
           <p class="sub-heading"> LOCATIONS </p>
@@ -76,7 +76,7 @@
         </header> -->
 
         <div class="text-center">
-          <img src="assets/images/Map.jpg" style="max-width: 650px" class="img-responsive">
+          <img src="assets/images/Map.jpg" style="max-width: 90%" class="img-responsive">
         </div>
 
       </div>
@@ -85,7 +85,7 @@
   </div>
 
 </section>
-<div class="container black-footer">
+<div class="container-fluid custom-container black-footer">
   <div class="row">
 
     <!-- <div class="col-md-6 padding-20"> -->
@@ -174,7 +174,7 @@
   </div>
 </div>
 <div class="copyright">
-  <div class="container">
+  <div class="container-fluid custom-container">
     <ul class="list-inline inline-links mobile-block pull-right nomargin">
       <li>
         <a href="index.php">Home</a>

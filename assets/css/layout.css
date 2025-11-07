@@ -178,7 +178,7 @@ section.blog-section {
 }
 
 .case-studies-section {
-  padding: 75px 0;
+  padding: 45px 0;
 }
 
 .technology-section .list-inline {
@@ -206,6 +206,15 @@ section.blog-section {
     padding-bottom: 10px;
 }
 
+.clients-section .owl-item, .technology-section .owl-item{
+	width: auto !important;
+}
+
+.technology-section .tech-carousel-div .owl-wrapper, .clients-section .owl-carousel .owl-wrapper {
+	display: flex !important;
+	gap: 50px;
+  } 
+
 .clients-section .owl-controls,
 .technology-section .owl-controls {
   display: none !important;
@@ -223,7 +232,7 @@ section.blog-section {
 
 .technology-section .img-responsive {
 	display: inline-block;
-    height: 60px;
+    height: 90px;
     width: auto;
 }
 
@@ -379,9 +388,9 @@ hr.separator {
 
 .highlight-section h5 {
 	font-family: 'Graphik', sans-serif !important;
-	font-weight: 400;
-	font-size: 20px;
-	line-height: 25px;
+	font-weight: 400 !important;
+	font-size: 18px;
+    line-height: 22px;
 }
 
 .highlight-section .slider-controls {
@@ -408,7 +417,7 @@ hr.separator {
 }
 
 .blog-section .blog-post-item img {
-  aspect-ratio: 1/0.6;
+  /* aspect-ratio: 1/0.6; */
 }
 
 .blog-section .blog-post-item h2 {
@@ -4024,7 +4033,7 @@ body.boxed #topBar.dark ul.top-links > li {
   padding: 7px 15px;
   font-weight: 400;
   line-height: 23px;
-  color: #666;
+  color: #000;
   font-size: 13px;
   display: block;
   text-decoration: none;
@@ -9897,16 +9906,32 @@ footer.sticky {
   text-transform: capitalize;
   display: inline;
   padding: 7px 23px;
+  padding-top: 5px;
   margin: 0 3px;
 }
 
-#header .black-header #topMain.nav-pills > li > a:hover {
+#header .black-header #topMain.nav-pills > li > a.contact-link {
   border-radius: 50px;
   background-color: #fff;
   color: #000 !important;
 }
 
-.black-header .container-fluid.custom-container {
+#header .black-header .flex-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header .black-header #topMain.nav-pills > li > a.contact-link:hover{
+	background-color: #ff0000;
+	color: #fff !important;
+  }
+
+#header .black-header #topMain.nav-pills > li > a:hover {
+	color: #ff0000 !important;
+}
+
+  .container-fluid.custom-container {
 	width: 95%;
   }
 

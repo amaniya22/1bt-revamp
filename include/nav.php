@@ -61,7 +61,7 @@
                   <a href="aboutus.php">About</a>
                 </li>
                 <li>
-                  <a href="index.php#contact">Contact</a>
+                  <a href="index.php#contact" class="contact-link">Contact</a>
                 </li>
               </ul>
 
