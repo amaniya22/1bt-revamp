@@ -100,13 +100,8 @@
 
     <!-- /SLIDER -->
 
-<<<<<<< Updated upstream
     <a name="why-1billiontech"></a>
-    <section id="">
-=======
-    <a name="why-auxenta"></a>
     <section id="" class="black-section">
->>>>>>> Stashed changes
       <div class="container">
         <div class="row">
           <div class="col-sm-6 text-right">
