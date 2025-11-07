@@ -236,6 +236,10 @@ section.blog-section {
     width: auto;
 }
 
+.highlight-section .owl-carousel .owl-item div {
+	max-width: 83%;
+}
+
 .case-studies-section .sub-heading,
 #footer .black-footer .sub-heading {
   border: 1px solid #fff;
@@ -247,12 +251,12 @@ section.blog-section {
 }
 
 #footer .black-footer .sub-heading {
-	margin-bottom: 40px !important;
+	margin-bottom: 20px !important;
 }
 
 .case-studies-section .case-study-content {
 	display: flex;
-	gap: 20px;
+	gap: 50px;
 }
 
 .case-studies-section .case-section-item .case-study-descp {
@@ -389,7 +393,7 @@ hr.separator {
 .highlight-section h5 {
 	font-family: 'Graphik', sans-serif !important;
 	font-weight: 400 !important;
-	font-size: 18px;
+	font-size: 17px;
     line-height: 22px;
 }
 
@@ -481,7 +485,7 @@ section.service-section.alternate h4 {
   font-family: "Graphik", sans-serif !important;
   font-size: 30px;
   font-weight: 600;
-  height: 75px;
+  margin-bottom: 20px;
   line-height: normal;
 }
 
@@ -9246,6 +9250,14 @@ ul.search-history {
 #footer .list-unstyled {
 	display: flex;
 	gap: 50px;
+}
+
+#footer ul.footer-links > div > li > a:hover {
+	color: #fff !important;
+}
+
+#footer a:active, a:focus, a:hover {
+	color: #fff !important;
 }
 
 /* #footer ul.footer-links>li>a:before {

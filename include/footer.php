@@ -11,7 +11,7 @@
           <h1>Connect <span class="font-red"> With Us </span> </h1>
     </header>
     <div class="col-md-4 col-sm-12  padding-top-40">
-        <div class="col-md-12 text-left">
+        <div class="row text-left">
           <!-- <img src="assets/images/ico-phone.png" alt="" style="max-width: 32px;"> -->
           <h5 class="margin-0 font-red">PHONE</h5>
           <div style="padding-bottom: 10px">
@@ -21,7 +21,7 @@
 
         </div>
 
-        <div class="col-md-12 text-left">
+        <div class="row text-left">
 
           <!-- <img src="assets/images/ico-address.png" alt="" style="max-width: 32px;"> -->
 
@@ -41,7 +41,7 @@
 
         </div>
 
-        <div class="col-md-12 text-left">
+        <div class="row text-left">
 
           <!-- <img src="assets/images/ico-email.png" alt="" style="max-width: 32px;"> -->
 
@@ -58,7 +58,7 @@
           </div>
         </div>
 
-        <div class="col-md-12 text-left">
+        <div class="row text-left">
           <div>
             <button class="footer-btn-red">Book a consultation call</button>
           </div>

@@ -268,13 +268,13 @@
     </section>
 
     <section class="no-margin clients-section">
-      <div class="container-fluid">
+      <div class="container-fluid custom-container">
 
         <!-- <header class="text-center margin-bottom-60 section-title">
           <p class="sub-heading"> The Company We Keep </p>
           <h1 class="weight-400"> <span class="font-red">OUR</span> CLIENTS</h1>
         </header> -->
-        <div class="col-md-12">
+        <div class="row">
           <div class="text-center">
             <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
           
@@ -404,7 +404,7 @@
             </p>
         </header>
 
-        <div class="col-md-12">
+        <div class="row">
             <div id="testimonialSlidesContainer" 
                  class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container"
                             data-plugin-options='{
@@ -529,7 +529,7 @@
           <h1><span class="font-red">TECHNOLOGY</span> STACK</h1>
         </header>
 
-        <div class="col-md-12">
+        <div class="row">
           <div class="text-center">
             <div class="owl-carousel tech-carousel-div" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
               <div>
@@ -657,8 +657,8 @@
         <div class="col-md-12 slider-wrapper">
           <div id="highlightSlidesContainer" class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container" data-plugin-options='{"singleItem": true, "items":"1", "autoPlay": true, "navigation": false, "pagination": false}'>
             <div class="img-hover mr-10 slide-item">
-              <div>
-                <img class="img-responsive" src="assets/images/highlights-img-1.png" alt="icon">
+              <div class="text-right">
+                <img class="img-responsive" src="assets/images/highlights-img-1.png" alt="icon" width="60%">
               </div>
 
               <div class="text-left margin-top-20 highlights">
