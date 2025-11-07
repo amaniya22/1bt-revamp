@@ -365,6 +365,7 @@ hr.separator {
 
 .case-studies-section .box-image img {
   aspect-ratio: 1/0.7;
+  min-height: 215px;
   margin-bottom: 0;
 }
 
