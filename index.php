@@ -222,7 +222,7 @@
                 <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
                 </span>
 
-                <p class="nomargin-bottom-p">Leverage our AI based MVP offering to realise your concept to reality.</p>
+                <p class="nomargin-bottom-p">Leverage our AI based MVP offering to realise your concept into reality.</p>
               </a>
             </div>
           </div>
