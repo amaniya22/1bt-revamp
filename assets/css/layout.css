@@ -232,7 +232,7 @@ section.blog-section {
 
 .technology-section .img-responsive {
 	display: inline-block;
-    height: 90px;
+    height: 85px;
     width: auto;
 }
 
@@ -819,6 +819,23 @@ body.boxed #wrapper {
 }
 
 @media only screen and (max-width: 992px) {
+
+.container-fluid.custom-container {
+	width: 90% !important;
+	}
+
+	.highlight-section .owl-carousel .owl-item div {
+		max-width: 100%;
+	}
+
+	.highlight-section .owl-carousel img {
+		width: 100%;
+	}
+
+	#topNav button.btn-mobile {
+		margin-top: 0 !important;
+	}
+	  
   body.boxed #wrapper {
     margin-top: 0;
     margin-bottom: 0;
