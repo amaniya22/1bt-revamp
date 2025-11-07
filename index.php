@@ -274,7 +274,7 @@
           <p class="sub-heading"> The Company We Keep </p>
           <h1 class="weight-400"> <span class="font-red">OUR</span> CLIENTS</h1>
         </header> -->
-        <div class="row">
+        <div class="col-md-12">
           <div class="text-center">
             <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
           
@@ -404,7 +404,7 @@
             </p>
         </header>
 
-        <div class="row">
+        <div class="col-md-12">
             <div id="testimonialSlidesContainer" 
                  class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container"
                             data-plugin-options='{
@@ -529,7 +529,7 @@
           <h1><span class="font-red">TECHNOLOGY</span> STACK</h1>
         </header>
 
-        <div class="row">
+        <div class="col-md-12">
           <div class="text-center">
             <div class="owl-carousel tech-carousel-div" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
               <div>
