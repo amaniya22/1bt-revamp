@@ -403,6 +403,10 @@ hr.separator {
   position: relative;
 }
 
+.blog-section header{
+	margin-bottom: 50px;
+}
+
 .blog-section .blog-post-item img {
   aspect-ratio: 1/0.6;
 }
