@@ -238,7 +238,7 @@
                 <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
               </span>
 
-                <p class="nomargin-bottom-p">Engage your customers better leveraging the newest trends in Microsoft D365.</p>
+                <p class="nomargin-bottom-p">Drive deeper customer engagement with cutting-edge Microsoft D365 solutions spanning CE, BC, and F&O.</p>
               </a>
             </div>
           </div>
