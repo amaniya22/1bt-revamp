@@ -237,7 +237,7 @@ section.blog-section {
 }
 
 .highlight-section .owl-carousel .owl-item div {
-	max-width: 83%;
+	max-width: 85%;
 }
 
 .case-studies-section .sub-heading,
@@ -357,6 +357,7 @@ hr.separator {
 
 #highlightSlidesContainer .slide-item .highlights h2 {
 	margin-bottom: 15px;
+	font-size: 26px;
 }
 
 #highlightSlidesContainer .slide-item .highlights .h2 {
@@ -7621,7 +7622,7 @@ div.ls-thumbnail-slide-container {
 	display: flex;
 	gap: 20px;
     margin: auto;
-	width: 75%;
+	width: 78%;
 }
 
 #highlightSlidesContainer .slide-item .highlights {
