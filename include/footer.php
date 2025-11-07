@@ -85,7 +85,7 @@
   </div>
 
 </section>
-<div class="container-fluid custom-container black-footer margin-bottom-40 footer-section-container">
+<div class="container-fluid custom-container black-footer margin-bottom-40 footer-section-container footer-bottom-links">
   <div class="row">
 
     <!-- <div class="col-md-6 padding-20"> -->
@@ -106,7 +106,7 @@
       <!-- /CONTACT FORM -->
 
     <!-- </div> -->
-    <div class="col-lg-5 padding-0">
+    <div class="col-lg-5 padding-0 bottom-sec-1">
       <!-- Links -->
       <h3>ABOUT US</h3>
       <ul class="footer-links list-unstyled">

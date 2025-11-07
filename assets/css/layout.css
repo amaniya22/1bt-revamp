@@ -7450,7 +7450,13 @@ div.ls-thumbnail-slide-container {
 
 @media only screen and (max-width: 1024px) {
   #slider-container .slide-text-overlay {
+    align-items: flex-start;
+    flex-direction: column;
     flex-wrap: wrap;
+  }
+
+  #slider-container .slide .slider-content {
+    width: 100%;
   }
 
   #slider-container .slide .slide-sec-2 {
@@ -7459,6 +7465,15 @@ div.ls-thumbnail-slide-container {
 
   .case-studies-section .case-study-content {
 	flex-wrap: wrap;
+  }
+
+  .highlight-section .owl-carousel .owl-item div .img-responsive {
+    height: 100%;
+    width: 100%;
+  }
+
+  .footer-bottom-links .bottom-sec-1 {
+    margin-bottom: 50px;
   }
 }
 
