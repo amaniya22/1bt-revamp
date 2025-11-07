@@ -279,108 +279,58 @@
             <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
           
               <div>
-                <img class="img-responsive" src="assets/images/clients/cnew-02.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C1.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/cnew-05.png" alt="">
+                <img class="img-responsive" src="assets/images/clients/C2.png" alt="icon">
               </div>
                <div>
-                <img class="img-responsive" src="assets/images/clients/cnew-04.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C3.png" alt="icon" >
               </div>
              
               <div>
-                <img class="img-responsive" src="assets/images/clients/cnew-06.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C4.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/cnew-07.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C5.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C1.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C6.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C2.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C7.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C3.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C8.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C4.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C9.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C5.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C10.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C6.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C11.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C7.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C12.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C8.jpg" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C13.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C8.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C14.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C9.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C15.png" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C9.jpg" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/C10.png" alt="" >
+                <img class="img-responsive" src="assets/images/clients/C17.png" alt="icon" >
               </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C11.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C12.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C13.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C14.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C15.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C16.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C17.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C18.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C19.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C21.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C22.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C23.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C24.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C25.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C26.png" alt="" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C27.png" alt="" >
-              </div>
+  
             </div>
           </div>
         </div>
@@ -529,107 +479,50 @@
           <div class="text-center">
             <div class="owl-carousel tech-carousel-div" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T01.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech1.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T02.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech2.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T03.png" alt="tech" width="100%" height="45px">
+                <img class="img-responsive" src="assets/images/tech/tech3.jpg" alt="tech">
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T04.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech4.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T05.png" alt="tech"  height="40px">
+                <img class="img-responsive" src="assets/images/tech/tech5.jpg" alt="tech">
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T06.png" alt="tech" width="85%" height="50px">
+                <img class="img-responsive" src="assets/images/tech/tech6.jpg" alt="tech">
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T07.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech7.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T08.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech8.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T09.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech9.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T10.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech10.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T11.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech11.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T12.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech12.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T13.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech13.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T14.png" alt="tech" >
+                <img class="img-responsive" src="assets/images/tech/tech14.jpg" alt="tech" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/tech/T15.png" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/T16.png" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/T17.png" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/T18.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T19.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T20.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T21.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T22.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T23.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T24.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T25.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T26.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T27.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T28.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T29.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T30.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T31.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T32.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T33.png" alt="tech" >
-              </div>
-              <div>
-               <img class="img-responsive" src="assets/images/tech/T34.png" alt="tech" >
-              </div>
+                <img class="img-responsive" src="assets/images/tech/tech15.jpg" alt="tech" >
+              </div>              
             </div>
           </div>
         </div>
@@ -675,7 +568,7 @@
             <div class="box-image text-left">
 
               <a href="case_study_millionspaces.php">
-                <img class="img-responsive" src="assets/images/ms-casestudy.png" alt="">
+                <img class="img-responsive" src="assets/images/ms-casestudy.png" alt="icon">
               </a>
 
               <a href="case_study_millionspaces.php" class="box-image-title">
@@ -711,7 +604,7 @@
           <div id="highlightSlidesContainer" class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container" data-plugin-options='{"singleItem": true, "items":"1", "autoPlay": true, "navigation": false, "pagination": false}'>
             <div class="img-hover mr-10 slide-item">
               <div>
-                <img class="img-responsive" src="assets/images/highlights-img-1.png" alt="">
+                <img class="img-responsive" src="assets/images/highlights-img-1.png" alt="icon">
               </div>
 
               <div class="text-left margin-top-20 highlights">

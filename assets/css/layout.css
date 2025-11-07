@@ -203,8 +203,8 @@ section.blog-section {
 }
 
 .clients-section, .technology-section {
-	padding-top: 40px;
-    padding-bottom: 20px;
+	padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .clients-section .owl-controls,
@@ -216,10 +216,15 @@ section.blog-section {
 	text-align: center;
 }
 
-.clients-section .img-responsive, .technology-section .img-responsive {
+.clients-section .img-responsive {
 	display: inline-block;
-    height: 65px;
-    max-width: 180px;
+    height: 95px;
+    width: auto;
+}
+
+.technology-section .img-responsive {
+	display: inline-block;
+    height: 60px;
     width: auto;
 }
 
@@ -804,6 +809,10 @@ body.boxed #wrapper {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;
+  }
+
+  #topMain.nav-pills>li>a.dropdown-toggle:after {
+	top: 40% !important;
   }
 
   .blog-section .blog-post-item {
@@ -10015,4 +10024,8 @@ footer.sticky {
 
 #testimonialSlidesContainer .owl-page.active span { 
 	background-color: #FF0000 !important;
+}
+
+.highlight-section h2 {
+	color: #000;
 }
