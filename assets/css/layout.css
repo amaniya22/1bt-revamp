@@ -232,7 +232,7 @@ section.blog-section {
 
 .technology-section .img-responsive {
 	display: inline-block;
-    height: 85px;
+    height: 80px;
     width: auto;
 }
 
@@ -6489,6 +6489,17 @@ section#slider {
   text-transform: uppercase;
 }
 
+#slider-container .slide .slider-content-btn:hover, 
+.footer-btn-red:hover{
+  background-color: #e50914;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.font-red:hover, #footer .black-footer .font-red:hover{
+	color: #ff0000 !important;
+}
+
 .footer-btn-red {
 	margin-top: 30px !important;
 }
@@ -9965,7 +9976,6 @@ footer.sticky {
 
   .container-fluid.custom-container {
 	width: 85%;
-	background-color: blue;
   }
 
 #header .black-header#topMain.nav-pills > li.active > a,
