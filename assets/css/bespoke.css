@@ -530,6 +530,12 @@ ul.clients-dotted>li {
     text-transform: capitalize;
 }
 
+#header .black-header .flex-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 #footer>.copyright {
     background: #000000;
 }

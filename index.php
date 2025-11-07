@@ -435,31 +435,34 @@
         <div class="row">
                     <!-- POST ITEM -->
                     <div class="blog-post-item col-md-4 col-sm-6">
-            <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
+            <!-- <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
                     style="border-radius: 15px; overflow: hidden;"> 
-                    <!-- <iframe src="https://www.youtube.com/embed/-ijBw5Mz5nE?si=HKfaAV2QV7qE95Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>             -->
-                      <img src="assets/images/podcast1.png" alt="podcast-1-img" />
-                    </figure>
+                    </figure> -->
+                    <a href="https://www.youtube.com/watch?v=vIUIj80at4E&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=2">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/podcast1.png" alt="img">
+              </figure>
+            </a>
           </div>
           <!-- /POST ITEM -->
 
           <!-- POST ITEM -->
           <div class="blog-post-item col-md-4 col-sm-6">
-            <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
-                    style="border-radius: 15px; overflow: hidden;"> 
-                    <img src="assets/images/podcast2.png" alt="podcast-1-img" />
-                    <!-- <iframe src="https://www.youtube.com/embed/vIUIj80at4E?si=_ZA0m84HSrb78C7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-            </figure>
+          <a href="https://www.youtube.com/watch?v=Wf7vDVz9Tvo&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=1">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/podcast2.png" alt="img">
+              </figure>
+            </a>
           </div>
           <!-- /POST ITEM -->
           <!-- POST ITEM -->
           <div class="blog-post-item col-md-4 col-sm-6">
-            <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
-                    style="border-radius: 15px; overflow: hidden;"> 
-                    <img src="assets/images/podcast3.png" alt="podcast-1-img" />
-                    <!-- <iframe src="https://www.youtube.com/embed/Wf7vDVz9Tvo?si=YEVjaxfh2lOu65Ph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          </div> -->
-          <!-- /POST ITEM -->
-
+          <a href="https://www.youtube.com/watch?v=-ijBw5Mz5nE&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=3">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/podcast3.png" alt="img">
+              </figure>
+            </a>
+                    </div>
 
           <div class="clearfix"></div>
 

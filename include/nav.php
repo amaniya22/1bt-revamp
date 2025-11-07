@@ -3,16 +3,17 @@
 
       <header id="topNav" class="black-header">
         <div class="container-fluid custom-container">
-
+          <div class="flex-wrap">
+           <!-- Logo -->
+          <a class="logo pull-left" href="index.php">
+            <img src="assets\images\white-logo.png" height="62%" alt="" />
+          </a> 
           <!-- Mobile Menu Button -->
           <button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse">
             <i class="fa fa-bars"></i>
           </button>
 
-          <!-- Logo -->
-          <a class="logo pull-left" href="index.php">
-            <img src="assets\images\white-logo.png" height="62%" alt="" />
-          </a>
+          
 
           <!--
          							Top Nav
@@ -66,7 +67,6 @@
 
             </nav>
           </div>
-
-
+</div>
         </div>
       </header>
