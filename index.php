@@ -404,7 +404,7 @@
             </p>
         </header>
 
-        <div class="row">
+        <div class="col-md-12">
             <div id="testimonialSlidesContainer" 
                  class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container"
                             data-plugin-options='{
