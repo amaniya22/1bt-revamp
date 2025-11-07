@@ -81,7 +81,7 @@
 
 
     <section id="slider-container" class="slide-mobile">
-      <div class="container-fluid custom-container">
+      <div class="container custom-container">
         <div class="slide-container">
           <div class="slide slide-row">
             <div class="video-background">
@@ -89,7 +89,7 @@
             </div>
 
             <div class="slide-main slide-text-overlay">
-              <div class="slide-text-div slide-sec-1">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
                     <span class="slider-title-red">AI Meets</span> Engineering Excellence,
@@ -97,7 +97,7 @@
                   <p class="slider-subtitle">Delivering Innovation At Speed<p>
                 </div>
               </div>
-              <div class="slide-text-div slide-sec-2">
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">With AI-driven automation and Agentic Development, we transform ideas into intelligent, scalable products, built for agility and precision.</p>
                 <button class="slider-content-btn">Book a consultation call</button>
               </div>
@@ -110,7 +110,7 @@
               <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
             </div>
             <div class="slide-text-overlay">
-              <div class="slide-text-div slide-sec-1">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
                     <span class="slider-title-red">AI-Driven</span> <span class="slider-2-title-l-red">Product</span> Incubation
@@ -118,7 +118,7 @@
                   <p class="slider-subtitle text-wrap">Achieve up to a 40% acceleration in time to market.<p>
                 </div>
               </div>
-              <div class="slide-text-div slide-sec-2">
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">Leverage our AI-based 90-day MVP program to turn your concept into reality.<br /> <br /> If you’re looking to test new ideas quickly with minimal time and investment, our AI-driven MVP offering is designed for you.</p>
                 <button class="slider-content-btn">Read More</button>
               </div>
@@ -132,7 +132,7 @@
               <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
             </div>
             <div class="slide-text-overlay">
-              <div class="slide-text-div slide-sec-1">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
                     <span class="slider-title-blue">Microsoft</span> <span class="slider-2-title-l-blue">Dynamics</span> GYDE365
@@ -140,7 +140,7 @@
                   <p class="slider-subtitle">Empowering Digital Transformation<p>
                 </div>
               </div>
-              <div class="slide-text-div slide-sec-2">
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">Our team brings extensive experience in Microsoft Dynamics GYDE365, delivering expert support and tailored solutions to meet your unique business needs.</p>
                 <button class="slider-content-btn">Read More</button>
               </div>
@@ -154,7 +154,7 @@
               <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
             </div>
             <div class="slide-text-overlay">
-              <div class="slide-text-div slide-sec-1">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
                     Product development <span class="slider-title-red">AWS, Azure</span>
@@ -162,7 +162,7 @@
                   <p class="slider-subtitle">Your Partner in Cloud Excellence<p>
                 </div>
               </div>
-              <div class="slide-text-div slide-sec-2">
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">We offer end-to-end product development services on AWS and Azure, leveraging our expertise to help clients scale and succeed in the cloud.</p>
                 <button class="slider-content-btn">Read More</button>
               </div>

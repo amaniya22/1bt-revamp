@@ -6356,6 +6356,7 @@ section#slider {
   }
 
   .slide .slide-text-div {
+    padding: 0;
     text-align: left;
   }
 
@@ -6398,7 +6399,7 @@ section#slider {
 #slider-container .slide .slider-title {
   color: #ffffff !important;
   font-family: "Graphik", sans-serif;
-  font-size: 95px;
+  font-size: 75px;
   font-weight: 600;
   line-height: 100%;
   text-transform: uppercase;
@@ -6447,9 +6448,9 @@ section#slider {
   font-family: "Graphik", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-top: -65px;
-  min-height: calc(20vh - 80px);
+  min-height: calc(30vh - 65px);
   width: 85%;
 }
 
@@ -7405,7 +7406,7 @@ div.ls-thumbnail-slide-container {
   align-items: center;
   width: 100%;
   height: calc(100vh - 125px);
-  padding: 120px 85px;
+  padding: 120px 45px;
 }
 
 #slider-container .dots-container {
@@ -7495,10 +7496,6 @@ div.ls-thumbnail-slide-container {
 
   .highlight-section .slider-controls {
     text-align: center;
-  }
-
-  #slider-container .slide .slider-title-div .slider-subtitle {
-    text-wrap: wrap;
   }
 }
 
