@@ -151,7 +151,7 @@
 
 
 
-    <section id="portfolio" class="nopadding-bottom">
+    <section id="portfolio" class="nopadding-bottom black-section">
 
       <div class="container">
 

@@ -78,7 +78,7 @@
 
     </div>
     <!-- SLIDER -->
-    <section class="height-400" id="slider" style="background:url('assets/images/main-blog.jpg')">
+    <section class="height-400 black-section" id="slider" style="background:url('assets/images/main-blog.jpg')">
       <div class="overlay dark-6">
         <!-- dark overlay [0 to 9 opacity] -->
       </div>
@@ -100,8 +100,13 @@
 
     <!-- /SLIDER -->
 
+<<<<<<< Updated upstream
     <a name="why-1billiontech"></a>
     <section id="">
+=======
+    <a name="why-auxenta"></a>
+    <section id="" class="black-section">
+>>>>>>> Stashed changes
       <div class="container">
         <div class="row">
           <div class="col-sm-6 text-right">
@@ -119,7 +124,7 @@
       </div>
     </section>
     <a name="bod"></a>
-    <section id="">
+    <section id=""  class="black-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
           <h1>BOARD OF DIRECTORS</h1>
@@ -173,7 +178,7 @@
   </div>
   </section>
   <a name="leadership"></a>
-  <section id="">
+  <section id=""  class="black-section">
     <div class="container">
       <header class="text-center margin-bottom-60 section-title">
         <h1>LEADERSHIP TEAM</h1>
@@ -218,7 +223,7 @@ Seasoned software specialist with the ability to grasp complex business problems
       </div>
   </div></section>
   <a name="advisors"></a>
-  <section id="" style="background-color: #FFFFFF;">
+  <section id=""  class="black-section">
     <div class="container">
       <header class="text-center margin-bottom-60 section-title">
         <h1>ADVISORS</h1>
@@ -313,7 +318,7 @@ Seasoned software specialist with the ability to grasp complex business problems
       </div>
   </div></section>
   <a name="offices"></a>
-  <section>
+  <section class="black-section">
     <div class="container">
       <header class="text-center margin-bottom-60 section-title">
         <h1>OUR OFFICES</h1>

@@ -1750,7 +1750,7 @@ section.dark.page-header ul.page-options a {
   right: 0;
   z-index: 1000;
   background-color: #fff;
-  border-bottom: rgba(0, 0, 0, 0.05) 1px solid;
+  /* border-bottom: rgba(0, 0, 0, 0.05) 1px solid; */
 
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1) !important;
   -moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1) !important;
@@ -3626,7 +3626,7 @@ body.menu-vertical.menu-vertical-hide
 /* Sticky 60px */
 #header.fixed {
   position: fixed;
-  border-bottom: rgba(0, 0, 0, 0.08) 1px solid;
+  /* border-bottom: rgba(0, 0, 0, 0.08) 1px solid; */
 }
 
 #header.fixed #topNav a.logo {
@@ -10125,4 +10125,43 @@ footer.sticky {
 
 .highlight-section h2 {
 	color: #000;
+}
+
+/** services-section **/
+.black-section {
+	background-color: #000 !important;
+	font-family: "Graphik", sans-serif !important;
+	color: #fff !important;
+}
+
+.black-section h4, .black-section p, .black-section h2, .black-section h1, .black-section h3, .black-section h4, .black-section h5, .black-section a {
+	font-family: "Graphik", sans-serif !important;
+	color: #fff !important;
+}
+
+/*blogs*/
+
+.black-section .item-box-desc {
+	background-color: transparent !important;
+}
+
+.black-section .left .item-box-desc {
+	border: 1px solid #fff;
+    margin-bottom: 10px;
+}
+
+.black-section .item-box-desc .btn.btn-bordered {
+	border-color: #fff !important;
+}
+
+.black-section .box-static.box-border-top {
+	border-top: 1px solid #fff !important;
+	border-radius: 0 !important;
+}
+
+
+/*careers button*/
+
+.black-section .mix_all .btn-careers {
+	color: #000 !important;
 }

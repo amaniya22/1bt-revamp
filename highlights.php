@@ -154,7 +154,7 @@
 
 
 
-    <section id="portfolio" class="nopadding-bottom">
+    <section id="portfolio" class="nopadding-bottom black-section">
 
       <div class="container">
 
@@ -198,7 +198,7 @@
 
                 <p class="dropcap">1 Billion Tech, a software engineering services and technology product consulting company with offices in the USA and Sri Lanka, has teamed up with ZoeInsights to revolutionize the way patients track their health data.</p>
 
-                <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php" target="_blank" class="btn btn-reveal btn-default">
+                <a href="1-Billion-Tech-and-ZoeInsights-team-up-to-revolutionize-how-patients-track-their-health-data.php" target="_blank" class="btn btn-reveal btn-red">
 
                   <i class="fa fa-plus"></i>
 
@@ -240,7 +240,7 @@
 
 <p class="dropcap">he Board of Directors of Silicon Valley based 1 Billion Tech Inc. (formerly Auxenta Inc.) announced that Erik Sebesta will be joining the company as a board member effective 21st of September, 2020. Erik will also function as the President of the Board, driving the corporate strategy.</p>
 
-<a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php" target="_blank" class="btn btn-reveal btn-default">
+<a href="1-Billion-Tech-welcomes-new-President-Erik-Sebesta.php" target="_blank" class="btn btn-reveal btn-red">
 
   <i class="fa fa-plus"></i>
 

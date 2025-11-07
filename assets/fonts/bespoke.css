@@ -403,7 +403,7 @@ background:  #e50913;
 .clearfix {clear: both !important}
 
 .careers-left{
-    background-color: #fafafa;
+    /* background-color: #fafafa; */
     padding: 30px;
 }
 

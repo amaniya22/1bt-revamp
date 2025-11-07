@@ -146,7 +146,7 @@
 		</section>
 
 
-		<section class="alternate">
+		<section class="alternate black-section">
 
 			<header class="text-center margin-bottom-60 section-title">
 				<h1> OPEN POSITIONS</h1>
@@ -190,7 +190,7 @@
 
 
 
-		<section style="background-color:#edeaea">
+		<section class="black-section">
 			<div class="container">
 
 				<header class="text-center margin-bottom-60 section-title">
