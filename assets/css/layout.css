@@ -4015,8 +4015,7 @@ body.boxed #topBar.dark ul.top-links > li {
   text-align: left;
   margin-top: 0;
   box-shadow: none;
-  border: #eee 1px solid;
-  border-top: #eee 1px solid;
+  border: none;
   list-style: none;
   background: #fff;
   background-color: #242424;
@@ -7448,6 +7447,40 @@ div.ls-thumbnail-slide-container {
 	color: #FFFFFF !important;
 } */
 
+@media only screen and (max-width: 1024px) {
+  #slider-container .slide-text-overlay {
+    flex-wrap: wrap;
+  }
+
+  #slider-container .slide .slide-sec-2 {
+    margin-left: 0;
+  }
+
+  .case-studies-section .case-study-content {
+	flex-wrap: wrap;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+	#slider-container .slide-text-overlay {
+		flex-wrap: wrap;
+    min-height: calc(20vh - 50px);
+    padding: 120px 45px;
+	}
+
+	section.service-section .border-bottom a {
+		margin-bottom: 30px;
+	}
+
+  #slider-container .slide .slide-sec-2 {
+    margin-left: 0;
+  }
+
+  .highlight-section .slider-controls {
+    text-align: center;
+  }
+}
+
 @media only screen and (max-width: 768px) {
   #slider div.slider-featured-text {
     text-align: center !important;
@@ -7472,8 +7505,8 @@ div.ls-thumbnail-slide-container {
 
   #slider-container .slide-text-overlay {
     flex-wrap: wrap;
-    gap: 70px;
     padding: 80px 35px 120px;
+    height: 100%;
   }
 
   #slider-container .slide .slide-sec-2 {
@@ -7494,7 +7527,8 @@ div.ls-thumbnail-slide-container {
     font-size: 14px;
     line-height: normal;
     margin-bottom: 0px;
-    min-height: calc(40vh - 90px);
+    margin-top: 10px;
+    min-height: calc(25vh - 30px);
     width: 100%;
   }
 
@@ -7508,41 +7542,6 @@ div.ls-thumbnail-slide-container {
 
   .highlight-section h5 {
     font-size: 18px;
-  }
-}
-
-@media only screen and (max-width: 992px) {
-	#slider-container .slide-text-overlay {
-		flex-wrap: wrap;
-    min-height: calc(20vh - 50px);
-	}
-
-	section.service-section .border-bottom a {
-		margin-bottom: 30px;
-	}
-
-  #slider-container .slide .slide-sec-2 {
-    margin-left: 0;
-  }
-
-  .highlight-section .slider-controls {
-    text-align: center;
-  }
-}
-
-@media only screen and (max-width: 1024px) {
-  #slider-container .slide-text-overlay {
-    flex-wrap: wrap;
-    gap: 70px;
-    height: calc(100vh - 10px);
-  }
-
-  #slider-container .slide .slide-sec-2 {
-    margin-left: 0;
-  }
-
-  .case-studies-section .case-study-content {
-	flex-wrap: wrap;
   }
 }
 
