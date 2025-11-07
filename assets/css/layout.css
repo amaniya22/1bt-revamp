@@ -7486,8 +7486,7 @@ div.ls-thumbnail-slide-container {
 @media only screen and (max-width: 992px) {
 	#slider-container .slide-text-overlay {
 		flex-wrap: wrap;
-		gap: 70px;
-		height: calc(100vh - 20px);
+    min-height: calc(20vh - 50px);
 	}
 
 	section.service-section .border-bottom a {
