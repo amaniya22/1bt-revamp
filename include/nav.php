@@ -35,11 +35,8 @@
                    -->
               <ul id="topMain" class="nav nav-pills nav-main">
                 <li><a href="services.php">Services</a></li>
-                <li><a href="services.php">Insight</a></li>
-                <li><a href="case_studies.php">Clients</a></li>
-               
-                               <li class="dropdown">
-                  <a class="dropdown-toggle" href="#">About</a>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" href="#">Insight</a>
                   <ul class="dropdown-menu">
                     <li>
                       <a href="blog.php">BLOG</a>
@@ -48,29 +45,20 @@
                       <a href="Tech_talks.php">TECH TALKS</a>
                     </li>
                     <li>
-                      <a href="highlights.php"> HIGHLIGHTS</a>
-                    </li>
-                                     </ul>
-                </li>
-              
-                <!-- <li>
-                  <a class="dropdown-toggle" href="engineering_services.php#Engineering-IP">INNOVATIONS</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="engineering_services.php#Engineering-IP">Distributed Computing Framework</a>
-                    </li>
-                   
-                    <li>
-                      <a href="QA_services.php#QA-IP">API Testing Automation Tool</a>
+                      <a href="highlights.php">HIGHLIGHTS</a>
                     </li>
                     <li>
-                      <a href="QA_services.php#QA-IP">UI Test Automation Framework</a>
+                      <a href="#">PODCAST</a>
+                    </li>
+                    <li>
+                      <a href="#">WHITE PAPERS</a>
                     </li>
                   </ul>
-                </li>-->
-          
-                      
-               
+                </li>
+                <li><a href="case_studies.php">Clients</a></li>
+                <li>
+                  <a href="aboutus.php">About</a>
+                </li>
                 <li>
                   <a href="index.php#contact">Contact</a>
                 </li>
