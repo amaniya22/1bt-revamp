@@ -6473,7 +6473,7 @@ section#slider {
   margin-bottom: 20px;
   margin-top: -65px;
   min-height: calc(30vh - 65px);
-  width: 85%;
+  width: 70%;
 }
 
 #slider-container .slide .slider-content-btn, 
@@ -7493,6 +7493,7 @@ div.ls-thumbnail-slide-container {
     line-height: normal;
     margin-bottom: 0px;
     min-height: calc(40vh - 90px);
+    width: 100%;
   }
 
   #slider-container .slide .slider-content-btn {
@@ -7531,6 +7532,7 @@ div.ls-thumbnail-slide-container {
   #slider-container .slide-text-overlay {
     flex-wrap: wrap;
     gap: 70px;
+    height: calc(100vh - 10px);
   }
 
   #slider-container .slide .slide-sec-2 {
