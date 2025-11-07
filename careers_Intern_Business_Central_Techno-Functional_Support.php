@@ -143,7 +143,7 @@
         </ol><!-- /breadcrumbs -->
       </div>
     </section>
-    <section id="portfolio" class="nopadding-bottom">
+    <section id="portfolio" class="nopadding-bottom black-section">
       <div class="container">
         <div class="row">
           <!-- LEFT -->
