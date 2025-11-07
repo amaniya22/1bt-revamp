@@ -437,7 +437,9 @@
                     <div class="blog-post-item col-md-4 col-sm-6">
             <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
                     style="border-radius: 15px; overflow: hidden;"> 
-                    <iframe src="https://www.youtube.com/embed/-ijBw5Mz5nE?si=HKfaAV2QV7qE95Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            </figure>
+                    <!-- <iframe src="https://www.youtube.com/embed/-ijBw5Mz5nE?si=HKfaAV2QV7qE95Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>             -->
+                      <img src="assets/images/podcast1.png" alt="podcast-1-img" />
+                    </figure>
           </div>
           <!-- /POST ITEM -->
 
@@ -445,7 +447,8 @@
           <div class="blog-post-item col-md-4 col-sm-6">
             <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
                     style="border-radius: 15px; overflow: hidden;"> 
-                    <iframe src="https://www.youtube.com/embed/vIUIj80at4E?si=_ZA0m84HSrb78C7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <img src="assets/images/podcast2.png" alt="podcast-1-img" />
+                    <!-- <iframe src="https://www.youtube.com/embed/vIUIj80at4E?si=_ZA0m84HSrb78C7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
             </figure>
           </div>
           <!-- /POST ITEM -->
@@ -453,7 +456,8 @@
           <div class="blog-post-item col-md-4 col-sm-6">
             <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
                     style="border-radius: 15px; overflow: hidden;"> 
-                    <iframe src="https://www.youtube.com/embed/Wf7vDVz9Tvo?si=YEVjaxfh2lOu65Ph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          </div>
+                    <img src="assets/images/podcast3.png" alt="podcast-1-img" />
+                    <!-- <iframe src="https://www.youtube.com/embed/Wf7vDVz9Tvo?si=YEVjaxfh2lOu65Ph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          </div> -->
           <!-- /POST ITEM -->
 
 
@@ -534,7 +538,7 @@
       <div class="container">
         
         <div class="row">
-        <div class="col-md-6">
+        <div>
         <header class="text-left margin-bottom-20 section-title">
           <!-- <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p> -->
           <h1><span class="font-red">CASE</span> STUDIES</h1>
@@ -544,7 +548,7 @@
           <p class="case-study-title">At 1BillionTech, we don't just build solutions—we deliver measurable business impact. Our case studies demonstrate how our expertise in AI-driven automation, cloud modernization, and enterprise solutions transforms complex challenges into competitive advantages for our clients. See the strategies, technologies, and results that define our partnerships.</p>
         </div> -->
         <div class="col-lg-12 case-study-content">
-          <div class="col-md-6 case-section-item">
+          <div class="col-md-12 col-lg-6 case-section-item">
 
             <div class="box-image text-left">
 
@@ -563,7 +567,7 @@
             </div>
 
           </div>
-          <div class="col-md-6 case-section-item">
+          <div class="col-md-12 col-lg-6 case-section-item">
 
             <div class="box-image text-left">
 

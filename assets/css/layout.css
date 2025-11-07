@@ -188,7 +188,6 @@ section.blog-section {
 
 .technology-section .tech-carousel-div .owl-wrapper {
   display: flex !important;
-  gap: 60px;
 }
 
 .technology-section .owl-carousel .owl-item div {
@@ -1733,6 +1732,12 @@ section.dark.page-header ul.page-options a {
 #header a.logo.logo-responsive > img {
   height: 100%;
   /* used on center - example: page-coming-soon-1.html */
+}
+
+#header .black-header .flex-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 /* force uppercase links */
