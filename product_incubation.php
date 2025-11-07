@@ -90,7 +90,7 @@
 
                 <span class="text-yellow"> Product Incubation</span>
               </h1>
-              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Leverage our AI based MVP offering to realise your concept to reality.
+              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Leverage our AI-based 90-Day MVP offering to turn your concept into reality.
 
 
             </div>
@@ -106,8 +106,8 @@
       <div class="container">
 
         <div class="text-center">
-          <h3 class="size-40 weight-800">Realize upto 40% time to market acceleration.</h3>
-          <div class="size-30 padding-top-20">If you are looking to test new ideas quickly with minimum time and investment, our AI driven MVP program is made for you! </div>
+          <h3 class="size-40 weight-800">Realize up to a 40% acceleration in time to market.</h3>
+          <div class="size-30 padding-top-20">If you’re looking to test new ideas quickly with minimal time and investment, our AI-driven MVP program is designed for you.</div>
                  </div>
 
       </div>
@@ -125,11 +125,11 @@
           </header>
           <ul class="list-unstyled list-icons">
             <li>
-              <i class="fa fa-angle-double-right"></i>Set business/ IT direction</li>
+              <i class="fa fa-angle-double-right"></i> Set business and IT direction</li>
             <li>
-              <i class="fa fa-angle-double-right"></i>Prioritize requirements, initiatives, budget</li>
+              <i class="fa fa-angle-double-right"></i>Prioritize requirements, initiatives, and budgets</li>
             <li>
-              <i class="fa fa-angle-double-right"></i>Develop high level solution approach</li>
+              <i class="fa fa-angle-double-right"></i>Develop a high-level solution approach</li>
             <li>
               <i class="fa fa-angle-double-right"></i>Short term objectives and long term goals </li>
             <li>
@@ -146,9 +146,9 @@
           </header>
           <ul class="list-unstyled list-icons">
             <li>
-              <i class="fa fa-angle-double-right"></i>Assess customer experience internally or externally</li>
+              <i class="fa fa-angle-double-right"></i>Assess customer experience both internally and externally</li>
             <li>
-              <i class="fa fa-angle-double-right"></i>Identify ways to improve usability</li>
+              <i class="fa fa-angle-double-right"></i>Identify opportunities to improve usability</li>
             <li>
               <i class="fa fa-angle-double-right"></i>Simplify and enhance the customer experience</li>
           </ul>
@@ -195,7 +195,7 @@
             <li>
               <i class="fa fa-angle-double-right"></i>Data warehousing and data migration services</li>
             <li>
-              <i class="fa fa-angle-double-right"></i>System intergration and enterprise security services</li>
+              <i class="fa fa-angle-double-right"></i>System integration and enterprise security services</li>
             <li>
               <i class="fa fa-angle-double-right"></i>Process engineering and project management services</li>
 
@@ -237,14 +237,11 @@
               <div class="back">
                 <div class="box2" style="background-color:#252525; min-height: 610px;">
                   <div class="tex-white">
-                      <div class="tex-white">ClusterRunner is an open source parallel test execution tool that can be deployed into any distributed
-                          computing infrastructure in the fastest and most efficient way possible.
-      
-                        </div><br>
-                    <h4 class="size-20"> Benefits that were provided with the tool:</h4>
-                    <div align="center">Make linear (i.e.: single-threaded) test jobs run in parallel
-                      <hr/> Consistently utilize 100% of your testing infrastructure
-                      <hr/> Get test feedback faster
+                     
+                    <h4 class="size-20">Benefits of the tool include:</h4>
+                    <div align="center">Running linear (single-threaded) test jobs in parallel.
+                      <hr/> Consistently utilizing 100% of your testing infrastructure.
+                      <hr/> Receiving test feedback faster.
                       <hr/>
                     </div>
 
@@ -268,7 +265,7 @@
                   <div class="box-icon-title">
                     <h4>Time Reservation Framework </h4>
                   </div>
-                  <p>The portal helps to connect the end-user with different types of service providers. The centralised system
+                  <p>The portal helps to connect the end-user with different types of service providers. The centralized system
                     will show consumers the service provider's availability.
                   </p>
                 </div>
@@ -276,13 +273,11 @@
 
               <div class="back">
                 <div class="box2" style="background-color:#252525; min-height: 610px;">
-                  <p>The portal helps to connect the end-user with different types of service providers. The centralised system
-                    will show consumers the service provider's availability with their service specialities.
+                  <p>The portal helps to connect the end-user with different types of service providers. The centralised system will show consumers the service provider’s availability and their service specialities.
                     <br><br> While this is
-                    based on a market place between multiple service providers and cosnumers, the Time Reservation Framework
+                    based on a market place between multiple service providers and consumers, the Time Reservation Framework
                     can also be used for a customised solution for one specific service provider. 
-                    <br><br>The unique element of the
-                    feature call "Run time attribute parameter" make sure the better service experience.</p>
+                    <br><br>The unique element of the feature call "Run time attribute parameter" makes sure of a better service experience.</p>
                 </div>
               </div>
             </div>
@@ -391,7 +386,7 @@
               </a>
 
               <a class="box-image-title">
-                <h2 style="color: #ffffff;">Crypto-currency trading product</h2>
+                <h2 style="color: #ffffff;">Cryptocurrency trading product</h2>
               </a>
 
             </div>

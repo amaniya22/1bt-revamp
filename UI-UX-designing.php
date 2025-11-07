@@ -177,7 +177,7 @@
 
               </h1>
 
-              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Transform your organization into the digital era with end-to-end creative design and technology solutions
+              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Transform your organization for the digital era with end-to-end creative design and technology solutions.
 
 
 

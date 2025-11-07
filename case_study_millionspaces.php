@@ -84,51 +84,44 @@
           <div class="col-md-8 col-sm-8">
 
             <div class="careers-left">
-              <h1 class="blog-post-title">Real-time event space booking</h1>
+              <h1 class="blog-post-title">MillionSpaces – Redefining Workspace Booking with AI</h1>
               <!-- article content -->
               <div class="margin-bottom-80">
                 <!-- article content -->
-                <p class="dropcap">MillionSpaces, a marketplace where guests can discover, pay and book unique spaces online. The platform hosts
-                  a range of spaces that accommodate parties, conferences, meetings, interviews, trainings, photoshoots,
-                  weddings, hot desks, sports and concerts. Venue owners can list their space by entering some basic information
-                  and photographs, for no upfront fees, while MillionSpaces will recognize and feature the space on a series
-                  of promotional channels.</p>
-                <h3>The Challenge</h3>
-                <p class="padding-top-15">Finding spaces nearby is a tedious and time consuming process, Hotels and local hosts have unutilized space
-                  capacity. Booking a venue for a wedding, meeting or any sort of event can be time consuming if you physically
-                  have to be present at the location to make a reservation.</p>
-                <h3>Early Adopters</h3>
-                <p align="center">
-                  <img class="responsive-image" src="assets/images/ms-casestudy-thumb.jpg">
+                <p class="dropcap">MillionSpaces, a product of 1 Billion Tech, is transforming how individuals and businesses discover and book workspaces. Often called the “Airbnb or Uber for workspaces,” MillionSpaces connects users to flexible, on-demand work environments from meeting rooms and coworking desks to private offices and creative studios across Sri Lanka.<br><br>
+In a world where hybrid work is here to stay, MillionSpaces bridges the gap between businesses needing space and hosts seeking to maximize utilization all through a seamless, AI-driven platform.
+</p>
+ <p align="center">
+                  <img class="responsive-image" src="assets/images/ms-img.png">
                 </p>
-                <h3>How 1 Billion Tech Helped</h3>
-                <p class="padding-top-15">MillionSpaces, accessible through www.millionspaces.com, disrupts and simplifies the process of finding the
-                  ideal venue to match any occasion from the convenience of your mobile device. It hosts spaces for a wide
-                  variety of corporate and social events that can be booked in just 3 clicks. MillionSpaces leverages mobile
-                  and cloud technologies for a unique experience. MillionSpaces creates a sharing platform enabling space
-                  supply and demand to meet in the middle.
-                  <ul>
-                    <li>
-                      <i class="fa fa-angle-double-right"></i>Easy to use</li>
-                    <li>
-                      <i class="fa fa-angle-double-right"></i>Real-time availability</li>
-                    <li>
-                      <i class="fa fa-angle-double-right"></i>Instant booking</li>
-                    <li>
-                      <i class="fa fa-angle-double-right"></i>Secured transactions</li>
-                    <li>
-                      <i class="fa fa-angle-double-right"></i>Zero upfront investment</li>
-                    <li>
-                      <i class="fa fa-angle-double-right"></i>Free publicity for hosts</li>
-                  </ul>
-                  <h3>Results</h3>
-                  <p class="padding-top-15">MillionSpaces is the only platform to provide real time availability of spaces and an instant booking feature
-                    with the best price guarantee. Every space is curated by the MillionSpaces team with an eye for tasteful
-                    design. What’s great is that it negates the multitude of phone calls you have to make to find the perfect
-                    space that fits your budget and location. MillionSpaces anticipates that this platform will uncover an
-                    array of exciting new spaces and expand the market.</p>
-                  <h3>Future Roadmap</h3>
-                  <p>MillionSpaces was initially launched in Colombo and has a roadmap to expand globally across US and Europe.</p>
+
+                <h3>The Challenge</h3>
+                <p class="padding-top-15">With over 1,000+ spaces across multiple categories, the challenge was helping users quickly find the <em>right</em> space that fits their needs without having to browse endlessly or rely on hotline calls.&nbsp;</p>
+<p>Additionally, the team wanted to improve:</p>
+<ul>
+<li>User experience: Simplify how customers discover and compare spaces.</li>
+<li>Host engagement: Automate responses and increase bookings.</li>
+<li>Operational efficiency: Reduce manual support through smart automation.</li>
+</ul></p>
+                <h3>The Solution: AI at the Core</h3>
+                <p class="padding-top-15">To address these challenges, 1 Billion Tech integrated an AI-powered chatbot , Spacey directly into the MillionSpaces platform.</p>
+<p>Spacey, the platform&rsquo;s intelligent virtual assistant, was designed to:</p>
+<ul>
+<li>Understand user needs through conversational queries (e.g., &ldquo;Find me a meeting room for 5 people in Colombo 05 tomorrow&rdquo;).</li>
+<li>Curate personalized recommendations by analyzing preferences such as location, budget, and purpose.</li>
+<li>Provide 24/7 instant support, eliminating the need for hotline assistance.</li>
+<li>Assist hosts by managing inquiries, confirming availability, and streamlining the booking process.</li>
+</ul>
+<p>Through Agentic AI capabilities, Spacey not only responds to users but also <em>learns</em> from interactions, becoming smarter over time &mdash; improving accuracy, user satisfaction, and overall platform engagement.</p>
+                
+                  <h3>The Impacts</h3>
+                  <p class="padding-top-15">Since introducing AI-driven discovery, MillionSpaces has seen:</p>
+<p>30% faster search-to-booking conversion as users find spaces more efficiently.<br /> 40% reduction in support queries, thanks to Spacey&rsquo;s 24/7 instant assistance.<br /> Higher host engagement, with automated responses improving lead conversions.<br /> Personalized user experiences, resulting in stronger repeat bookings.</p>
+<p>By embedding AI into its core, MillionSpaces is not just a workspace marketplace, it's an intelligent ecosystem where technology meets convenience.</p>
+                  <h3>The Future</h3>
+                 <p>MillionSpaces aims to expand globally, starting with the UK market in 2026, continuing to refine its AI capabilities to enhance predictive booking, pricing intelligence, and space recommendations.</p>
+<p>With 1 Billion Tech&rsquo;s expertise in Agentic AI, offshore development, and UI/UX, MillionSpaces is paving the way for the next generation of workspace solutions that are smart, scalable, and AI-powered.</p>
+<p>MillionSpaces demonstrates how AI can redefine user experience, automate workflows, and create smarter business outcomes - proving that the future of work isn&rsquo;t just flexible; it&rsquo;s intelligent.</p>
 
                   <a href="https://millionspaces.com">www.millionspaces.com</a>
 

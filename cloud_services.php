@@ -89,7 +89,7 @@
               <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">CLOUD
                 <span class="text-yellow"> SERVICES </span>
               </h1>
-              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Accelerate your cloud initiatives utilizing best-in-class technologies
+              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Accelerate your cloud initiatives by utilizing best-in-class technologies
               </h2>
 
             </div>
@@ -123,10 +123,8 @@
           <p>This typically involves modernizing existing applications for the cloud, developing new cloud-native applications,
             and transforming the architecture and infrastructure. The goal is to create an entirely new technology operating
             model and culture that enables you to innovate more quickly, effectively and efficiently. Automated management
-            and migration tools are critical to executing a smooth migration, and help to speed the move, with high quality,
-            consistency and repeatability. We offer a combination of tools, specialized skills and solution accelerators,
-            in a cloud migration factory that can accelerate your journey. The Cloud migration factory is strengthened by
-            a governance model.</p>
+            and migration tools are critical to executing a smooth migration, and helping to speed the move, with high quality,
+            consistency and repeatability. We offer a combination of tools, specialized skills, and solution accelerators in a cloud-migration factory that can accelerate your journey. The cloud-migration factory is supported by a governance model.</p>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6">
           <img class="img-responsive" src="assets/images/serviceicons/cloud-migration.jpg" alt="">
@@ -141,7 +139,7 @@
           <header class="margin-bottom-10 section-title">
             <h1>Cloud Management & Optimization</h1>
           </header>
-          <p>You need to continually work to optimize what’s in the cloud to maximize its cloud investments. A wide range of
+          <p>You need to continually optimize what’s in the cloud to maximize your cloud investments. A wide range of
             managed services are available to help with cloud optimization. </p>
         </div>
       </div>

@@ -176,7 +176,7 @@
 
               </h1>
 
-              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Synergy of mobile technology, engagement methodology and system integration to deliver results
+              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">A synergy of mobile technology, engagement methodology, and system integration to deliver results.
 
               </h2>
 

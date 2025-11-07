@@ -177,7 +177,7 @@
 
               </h1>
 
-              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Fuel world class software delivery through manual and automated testing
+              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Fuel world-class software delivery through manual and automated testing
 
 
 
@@ -301,7 +301,7 @@
   <h1>Test Automation</h1>
 
 </header>
-<p>Today, Test Automation is an essential part of the software development life cycle and the testing process. Other than that, test automation plays a major role in Agile and Scrum practices. Hence 1BT Test Automation approach uses:
+<p>Today, test automation is an essential part of the software development lifecycle and testing process. It also plays a major role in Agile and Scrum practices. Hence 1BT Test Automation approach uses:
 </p>
 
 <ul class="list-unstyled list-icons">
@@ -359,7 +359,7 @@
       <h1>Security Testing</h1>
 
     </header>
-    <p>Security testing is one of the most important components of  quality assarance, especially when it comes to production depoyments. We are pioneering in security vulnerability testing from the ethical hacking point of view by using various techniques like 
+    <p>Security testing is one of the most important components of quality assurance, especially for production deployments. We are pioneering in security vulnerability testing from the ethical hacking point of view by using various techniques like 
 </p>
 
     <ul class="list-unstyled list-icons">

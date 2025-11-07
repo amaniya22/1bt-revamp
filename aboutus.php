@@ -100,7 +100,7 @@
 
     <!-- /SLIDER -->
 
-    <a name="why-auxenta"></a>
+    <a name="why-1billiontech"></a>
     <section id="">
       <div class="container">
         <div class="row">
@@ -111,7 +111,7 @@
               in Silicon Valley, USA.
               <br>
               <br> Our global clients are distributed into multiple industry verticals including telco, financial services, logistics,
-              security, capital markets, apparel and manufacturing. We believe in a core set of values which is an intrinsic
+              security, capital markets, apparel and manufacturing. We believe in a core set of values which are an intrinsic
               part of each of our team members.
             </p>
           </div>
@@ -180,7 +180,7 @@
       </header>
       <div class="row">
 
-        <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="col-md-6 col-sm-6 col-xs-12">
 
           <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
             <div class="box-icon-title">
@@ -194,7 +194,7 @@
           </div>
 
         </div>
-        <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="col-md-6 col-sm-6 col-xs-12">
 
         <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
                 <div class="box-icon-title">
@@ -208,19 +208,7 @@ Seasoned software specialist with the ability to grasp complex business problems
                 </p>
               </div>
 </div>
-        <div class="col-md-4 col-sm-6 col-xs-12">
-              <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
-                <div class="box-icon-title">
-                  <img src="./assets/images/janaka.png">
-                  <h2 class="size-30">Janaka Kumarasinghe
-                  </h2>
-                  <span>Chief Operating Officer</span>
-                </div>
-                <p class="size-15">Held senior executive roles at Suntel Ltd, Singer Group and IUCN Pakistan. Past President of the Chartered Institute of Personal Management Sri Lanka (IPM) and Asia Pacific Federation of Human Resource Management.
-           </p>
-              </div>
-
-        </div>
+       
         
 
           <div class="clearfix">

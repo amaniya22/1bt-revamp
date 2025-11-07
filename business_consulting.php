@@ -175,7 +175,7 @@
 
               </h1>
 
-              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Accomplish your intended business transformations with our proven consulting best practices
+              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Achieve your business transformation goals through our proven consulting best practices.
 
               </h2>
 
@@ -363,7 +363,7 @@
 
                 <tr>
 
-                  <td>Delayed time-to-market due to extended development lifecycles</td>
+                  <td>Delayed time-to-market due to extended development life cycles</td>
 
                   <td>Accelerated speed of implementation</td>
 
@@ -379,7 +379,7 @@
 
                 <tr>
 
-                  <td>Ad hoc stakeholder feedback resulting in disconnect</td>
+                  <td>Ad-hoc stakeholder feedback resulting in misalignment</td>
 
                   <td>Structured feedback incorporation and rationalization
 

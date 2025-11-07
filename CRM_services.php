@@ -177,7 +177,7 @@
 
               </h1>
 
-              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Engage your customers better leveraging the newest trends in Microsoft D365
+              <h2 class="weight-300 text-white wow fadeInUp animated" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">Engage your customers more effectively by leveraging the newest trends in Microsoft D365.
 
               </h2>
 
@@ -209,13 +209,13 @@
 
             <br>
 
-            <br> Typically our our engagements begin with evaluating your business needs through a discovery phase. Our services
+            <br> Typically, our engagements begin with a discovery phase to evaluate your business needs. Our services
 
             include business requirements analysis and consultation, system design, implementation and data migration.
 
             <br>
 
-            <br> Once deployed we will provide training, support, on-going management of your Microsoft Dynamics CRM platform.
+            <br> Once deployed, we will provide training, support, and ongoing management of your Microsoft Dynamics CRM platform.
 
           </p>
 
@@ -247,10 +247,7 @@
 
           <p>Go beyond sales force automation (SFA) with Dynamics 365 for Sales to better understand customer needs, engage
 
-            more effectively, and win more deals. Sales module provides tools to successfully manage the sales process, access
-
-            to potential contacts in real time, and to identify accesspotential customers.
-
+            more effectively, and win more deals. The Sales module provides tools to manage the sales process, access potential contacts in real time, and identify prospective customers.
             <br>
 
             <br> Sales teams need tools that are familiar, intuitive, and easy to use, to help them be more effective and productive

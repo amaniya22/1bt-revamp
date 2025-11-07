@@ -371,9 +371,7 @@
 
           </header>
 
-          <p>Auxenta will provide L2 and L3 support and carry out a broad coverage of Reactive and Proactive support services
-
-            and provide reporting capability based on standard and customized reporting mechanisms.
+          <p>1 Billiontech will provide L2 and L3 support and carry out a broad coverage of Reactive and Proactive Support services for applications, middleware platforms, and technologies.
 
             <br>
 

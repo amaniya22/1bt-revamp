@@ -88,6 +88,59 @@
 
     <div class="row">
 
+    
+    <div class="col-md-4">
+
+<div class="box-image text-center">
+
+  <a href="case_study_ideapoint.php">
+    <img class="img-responsive" src="assets/images/ideapoint_thumb.jpg" alt="">
+  </a>
+
+  <a href="case_study_ideapoint.php" class="box-image-title">
+    <h2>Accelerating Enterprise Software Development with AI</h2>
+  </a>
+
+</div>
+
+</div>
+
+
+               
+<div class="col-md-4">
+
+<div class="box-image text-center">
+
+  <a href="case_study_millionspaces.php">
+    <img class="img-responsive" src="assets/images/ms-casestudy.jpg" alt="">
+  </a>
+
+  <a href="case_study_millionspaces.php" class="box-image-title">
+    <h2>MillionSpaces – Redefining Workspace Booking with AI</h2>
+  </a>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="box-image text-center">
+
+  <a href="case_study_CoWorx_UX.php">
+    <img class="img-responsive" src="assets/images/coworking-space-thumb.jpg" alt="">
+  </a>
+
+  <a href="case_study_CoWorx_UX.php" class="box-image-title">
+    <h2>Coworking Booking Platform</h2>
+  </a>
+
+</div>
+
+</div>
+</div>
+    <div class="row">
+
     <div class="col-md-4">
 
 <div class="box-image text-center">
@@ -138,9 +191,7 @@
 </div>
 
 </div>
-
-
-<div class="row">
+    <div class="row">
 
 <div class="col-md-4">
 
@@ -191,13 +242,8 @@
 </div>
 
 </div>
-
 </div>
-
-
-
-
-<div class="row">
+    <div class="row">
 
      <div class="col-md-4">
 
@@ -249,12 +295,10 @@
             </div>
 
           </div>
+
+
 </div>
-
-
-
-
-<div class="row">
+    <div class="row">
     
           <div class="col-md-4">
 
@@ -305,8 +349,7 @@
 </div>
 </div>
 
-
-<div class="row">
+    <div class="row">
 <div class="col-md-4">
 
 <div class="box-image text-center">
@@ -340,6 +383,8 @@
 
 </div>
 
+  
+
  <div class="col-md-4">
 
 <div class="box-image text-center">
@@ -357,8 +402,7 @@
 </div>
 </div>
 
-
-<div class="row">
+  <div class="row">
  <div class="col-md-4">
 
 <div class="box-image text-center">
@@ -394,6 +438,9 @@
 </div>
 
 </div>
+
+
+
    <div class="col-md-4">
 
 <div class="box-image text-center">
@@ -409,11 +456,9 @@
 </div>
 
 </div>
+
 </div>
-
-
-<div class="row">
-
+  <div class="row">
 <div class="col-md-4">
 
 <div class="box-image text-center">
@@ -424,22 +469,6 @@
 
   <a href="case_study_assetminder_managedServices.php" class="box-image-title">
     <h2>Providing world class product</h2>
-  </a>
-
-</div>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="box-image text-center">
-
-  <a href="case_study_millionspaces.php">
-    <img class="img-responsive" src="assets/images/ms-casestudy.jpg" alt="">
-  </a>
-
-  <a href="case_study_millionspaces.php" class="box-image-title">
-    <h2>Product incubation</h2>
   </a>
 
 </div>
@@ -463,11 +492,7 @@
 
 </div>
 
-</div>
 
-
-
-<div class="row">
 
 <div class="col-md-4">
 
@@ -484,25 +509,8 @@
 </div>
 
 </div>
-<div class="col-md-4">
-
-<div class="box-image text-center">
-
-  <a href="case_study_CoWorx_UX.php">
-    <img class="img-responsive" src="assets/images/coworking-space-thumb.jpg" alt="">
-  </a>
-
-  <a href="case_study_CoWorx_UX.php" class="box-image-title">
-    <h2>Coworking Booking Platform</h2>
-  </a>
-
 </div>
-
-</div>
-               
-                  
-             
-            </div>
+      
           </div>
     <!-- RIGHT -->
   
