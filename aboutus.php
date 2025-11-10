@@ -78,11 +78,11 @@
 
     </div>
     <!-- SLIDER -->
-    <section class="height-400 black-section" id="slider" style="background:url('assets/images/main-blog.jpg')">
-      <div class="overlay dark-6">
+    <!-- <section class="height-400 black-section" id="slider" style="background:url('assets/images/main-blog.jpg')"> -->
+      <!-- <div class="overlay dark-6"> -->
         <!-- dark overlay [0 to 9 opacity] -->
-      </div>
-      <div class="display-table">
+      <!-- </div> -->
+      <!-- <div class="display-table">
         <div class="display-table-cell vertical-align-middle">
           <div class="container">
             <div class="slider-featured-text padding-top-50">
@@ -95,8 +95,8 @@
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </div> -->
+    <!-- </section> -->
 
     <!-- /SLIDER -->
 
