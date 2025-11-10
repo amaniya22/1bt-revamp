@@ -99,7 +99,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">With AI-driven automation and Agentic Development, we transform ideas into intelligent, scalable products, built for agility and precision.</p>
-                <button class="slider-content-btn">Book a consultation call</button>
+                <button class="slider-content-btn" onclick='window.location.href="bookaconsultation.php"'>Book a consultation call</button>
               </div>
             </div>
           </div>

@@ -60,7 +60,7 @@
 
         <div class="row text-left">
           <div>
-            <button class="footer-btn-red">Book a consultation call</button>
+            <button class="footer-btn-red" onclick='window.location.href="bookaconsultation.php"'>Book a consultation call</button>
           </div>
         </div>
 
