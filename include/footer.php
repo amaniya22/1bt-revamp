@@ -111,7 +111,7 @@
       <h3>ABOUT US</h3>
       <ul class="footer-links list-unstyled">
         <div>
-          <li><a href="aboutus.php#why-auxenta">why 1 billion tech</a>
+          <li><a href="aboutus.php#why-1bt">why 1 billion tech</a>
           </li>
           <li>
             <a href="aboutus.php#bod">Board of directors</a>

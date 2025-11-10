@@ -103,9 +103,12 @@
     <a name="why-1billiontech"></a>
     <section id="" class="black-section">
       <div class="container">
+        <header class="text-center margin-bottom-60 section-title">
+          <h1>ABOUT 1 BILLION TECH</h1>
+        </header>
         <div class="row">
-          <div class="col-sm-6 text-right">
-            <img src="assets/images/why-auxenta-left.jpg" class="img-responsive" alt=""> </div>
+          <div class="col-sm-6 text-center">
+            <img src="assets/images/why-auxenta-left.png" alt="" height="60%"> </div>
           <div class="col-sm-6">
             <p>1 Billion Tech is a Silicon Valley–headquartered software engineering and technology 
               consulting company empowering organizations to achieve digital transformation with speed 
@@ -120,7 +123,7 @@
               <br>
             </p>
           </div>
-          <div class="col-lg-12 margin-top-20">
+          <div class="col-lg-12 margin-top-10">
             <p>
               Our AI-first approach empowers companies to move from concept to execution faster, 
               optimize resource utilization, and achieve a measurable <b>return on investment (ROI)</b> in 
