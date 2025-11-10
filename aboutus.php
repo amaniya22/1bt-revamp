@@ -107,12 +107,33 @@
           <div class="col-sm-6 text-right">
             <img src="assets/images/why-auxenta-left.jpg" class="img-responsive" alt=""> </div>
           <div class="col-sm-6">
-            <p>1 Billion Tech is an innovative software engineering services and technology product consulting company headquartered
-              in Silicon Valley, USA.
+            <p>1 Billion Tech is a Silicon Valley–headquartered software engineering and technology 
+              consulting company empowering organizations to achieve digital transformation with speed 
+              and intelligence.
               <br>
-              <br> Our global clients are distributed into multiple industry verticals including telco, financial services, logistics,
-              security, capital markets, apparel and manufacturing. We believe in a core set of values which are an intrinsic
-              part of each of our team members.
+              <br> We combine deep technical expertise with innovation-driven consulting to deliver 
+              scalable, intelligent, and high-performing solutions. Leveraging our proprietary AI 
+              framework, <b>VelocentAI</b>, we help businesses seamlessly integrate artificial 
+              intelligence into their workflow - enhancing operational efficiency, automating complex 
+              processes, and enabling data-driven decision-making.
+              <br>
+              <br>
+            </p>
+          </div>
+          <div class="col-lg-12 margin-top-20">
+            <p>
+              Our AI-first approach empowers companies to move from concept to execution faster, 
+              optimize resource utilization, and achieve a measurable <b>return on investment (ROI)</b> in 
+              record time. Whether it’s accelerating product development, optimizing customer 
+              journeys, or enhancing predictive capabilities, we help organizations unlock the full 
+              potential of AI to stay ahead in a competitive landscape.
+              <br>
+              <br>
+              Our global clientele spans diverse industries including telecommunications, financial 
+              services, logistics, security, capital markets, apparel,manufacturing, power and energy.
+              At the heart of 1 Billion Tech lies a strong value system built on <b>innovation, 
+              integrity, and impact</b>, guiding how we think, build, and collaborate with organizations 
+              worldwide.
             </p>
           </div>
         </div>
@@ -180,45 +201,127 @@
       </header>
       <div class="row">
 
-        <div class="col-md-6 col-sm-6 col-xs-12">
-
+        <div class="col-md-4 col-sm-6 col-xs-12">
           <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
             <div class="box-icon-title">
-              <img src="./assets/images/prasath-thumb.png">
-              <h2 class="size-30">Prasath Nanayakkara</h2>
-              <span>Founder, Chairman & CEO</span>
+              <img src="./assets/images/Randika.png" width="175px">
+              <h2 class="size-30">Randika Swaris</h2>
+              <span>Delivery Architect / Head of Engineering</span>
             </div>
-            <p class="size-15">MIT graduate (BS in EE) and MBA holder from INSEAD, France. Former Senior Tech Lead of Kenan Billing Platform – Acquired
-              by Lucent for $1B. Former Head of Technology Delivery at Virtusa, a global IT services firm.
+            <p class="size-15">
+              With over 14 years of industry experience and a passion for innovation, Randika drives 
+              teams to deliver intelligent, scalable software powered by AI and cloud-native design. 
+              Committed to transforming complex ideas into sustainable, high-impact digital solutions.
             </p>
           </div>
-
         </div>
-        <div class="col-md-6 col-sm-6 col-xs-12">
 
-        <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
-                <div class="box-icon-title">
-                  <img src="./assets/images/randika.png">
-                  <h2 class="size-30">Randika Swaris
-                  </h2>
-                  <span>Head of Engineering</span>
-                </div>
-                <p class="size-15">Head of Engineering
-Seasoned software specialist with the ability to grasp complex business problems</br></br>
-                </p>
-              </div>
-</div>
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+            <div class="box-icon-title">
+              <img src="./assets/images/Rayaz.png" width="175px">
+              <h2 class="size-30">Rayaz Muthalif</h2>
+              <span>Vice President / Principal Solutions Architect</span>
+            </div>
+            <p class="size-15">
+              With over 25 years of experience in architecture, design, and delivery of software 
+              solutions and digital transformation projects for global organizations, Rayaz has more 
+              than 4 years of experience in building and leading technical presales response teams. 
+              Additionally, he brings over 10 years of expertise in driving digital transformation 
+              strategies and providing project support.
+            </p>
+          </div>
+        </div>
        
-        
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+            <div class="box-icon-title">
+              <img src="./assets/images/Hiran.png" width="175px">
+              <h2 class="size-30">Hiran Sirimanna</h2>
+              <span>Director - D365  Business Applications and Support Services</span>
+            </div>
+            <p class="size-15">
+              Specializing in Microsoft Dynamics 365 F&O, BC, CE, and AI-driven business 
+              transformation, Hiran has a proven track record in manufacturing and enterprise IT. 
+              He has successfully led multiple end-to-end ERP migrations, cloud transformations, and 
+              digital modernization initiatives.
+            </p>
+          </div>
+        </div>
 
-          <div class="clearfix">
+        <div class="clearfix">
 
         </div>
-        
       </div>
+
+        <div class="row">
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+              <div class="box-icon-title">
+                <img src="./assets/images/Avanthi.png" width="175px">
+                <h2 class="size-30">Avanthi Amunugama</h2>
+                <span>Director - Project Management and Business Consulting</span>
+              </div>
+              <p class="size-15">
+                Bringing over 17 years of industry experience in project management and business 
+                consulting, Avanthi has successfully managed clients across the globe, including the US, 
+                Ireland, Canada, Dubai, and Australia.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+              <div class="box-icon-title">
+                <img src="./assets/images/Anushka.png" width="175px">
+                <h2 class="size-30">Anushka Wickramaratne</h2>
+                <span>Associate Director/ Head of Quality Assurance</span>
+              </div>
+              <p class="size-15">
+                With over 18 years of proven experience in the IT field and the software testing life 
+                cycle, Anushka has a strong foundation in Quality Assurance and Software Testing 
+                principles.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+              <div class="box-icon-title">
+                <img src="./assets/images/Maneesha.png" width="175px">
+                <h2 class="size-30">Maneesha Samarajeewa</h2>
+                <span>Director - People & Culture</span>
+              </div>
+              <p class="size-15">
+                With over 14 years of expertise in employee life cycle management, Maneesha has a 
+                strong focus on people and culture, skilled in working across diverse cultures, 
+                including those in the USA, UK, Vietnam, India, and Sri Lanka.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 col-sm-6 col-xs-12"></div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+              <div class="box-icon-title">
+                <img src="./assets/images/Thanuja.png" width="175px">
+                <h2 class="size-30">Thanuja Jayaweera</h2>
+                <span>Director - Finance</span>
+              </div>
+              <p class="size-15">
+                Experienced finance professional with over 25 years experience in Sri Lanka and 
+                Australia, Her expertise spans across financial analysis and reporting, budgeting, 
+                forecasting, risk management and regulatory compliance.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12"></div>
+        </div>
   </div></section>
   <a name="advisors"></a>
-  <section id=""  class="black-section">
+  <!-- <section id=""  class="black-section">
     <div class="container">
       <header class="text-center margin-bottom-60 section-title">
         <h1>ADVISORS</h1>
@@ -311,7 +414,7 @@ Seasoned software specialist with the ability to grasp complex business problems
         </div>
      
       </div>
-  </div></section>
+  </div></section> -->
   <a name="offices"></a>
   <section class="black-section">
     <div class="container">

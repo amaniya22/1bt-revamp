@@ -133,7 +133,7 @@
 
 		</div>
 
-		<section class="hidden-xs" id="slider" style="background:url('assets/images/main-home.webp'); background-repeat: no-repeat; background-position-y: 40%; background-position-x: center;">
+		<!-- <section class="hidden-xs" id="slider" style="background:url('assets/images/main-home.webp'); background-repeat: no-repeat; background-position-y: 40%; background-position-x: center;">
 			<section class="container" style="background:url('assets/images/career-main.webp'); background-repeat: no-repeat; background-position-y: 45px; background-position-x: center; height: 100%;">
 
 			</section>
@@ -143,7 +143,7 @@
 			<section style="background:url('assets/images/career-main-mobile.webp'); background-repeat: no-repeat; background-position-y: 45px; background-position-x: center; max-height: 1043px; height: 1043px;">
 
 			</section>
-		</section>
+		</section> -->
 
 
 		<section class="alternate black-section">

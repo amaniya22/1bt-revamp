@@ -120,7 +120,7 @@
             <a href="aboutus.php#leadership">Leadership team</a>
           </li>
           <li>
-            <a href="aboutus.php#advisors">Advisors</a>
+            <a href="careers.php">Careers</a>
           </li>
         </div>
         <div>
