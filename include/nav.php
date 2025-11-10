@@ -49,7 +49,7 @@
                       <a href="highlights.php">HIGHLIGHTS</a>
                     </li>
                     <li>
-                      <a href="#">PODCAST</a>
+                      <a href="podcasts.php">PODCAST</a>
                     </li>
                     <li>
                       <a href="#">WHITE PAPERS</a>
