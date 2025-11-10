@@ -89,7 +89,7 @@
 
               <h4 class="nomargin-bottom">AI Driven Product Incubation <i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
 
-              <p class="nomargin-bottom-p">“Leverage our 90-day MVP offering to realise your concept into reality.
+              <p class="nomargin-bottom-p">Leverage our 90-day MVP offering to realise your concept into reality.
 </p>
             </a>
 
