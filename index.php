@@ -485,9 +485,9 @@
             <!-- <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" 
                     style="border-radius: 15px; overflow: hidden;"> 
                     </figure> -->
-                    <a href="https://www.youtube.com/watch?v=vIUIj80at4E&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=2">
+                    <a href="https://www.youtube.com/watch?v=vIUIj80at4E&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=2" target="_blank">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast1.png" alt="img" target="_blank">
+                <img class="img-responsive" src="assets/images/podcast1.png" alt="img" >
               </figure>
             </a>
           </div>
