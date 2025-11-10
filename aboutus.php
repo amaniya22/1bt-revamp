@@ -140,7 +140,7 @@
       </div>
     </section>
     <a name="bod"></a>
-    <section id=""  class="black-section">
+    <section id=""  class="black-section bod-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
           <h1>BOARD OF DIRECTORS</h1>
@@ -194,7 +194,7 @@
   </div>
   </section>
   <a name="leadership"></a>
-  <section id=""  class="black-section">
+  <section id=""  class="black-section leadership-section">
     <div class="container">
       <header class="text-center margin-bottom-60 section-title">
         <h1>LEADERSHIP TEAM</h1>

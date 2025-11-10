@@ -1078,7 +1078,21 @@ div.sales h1 {
 .box-icon {
     padding: 6px;
     border: solid 1px #d3d9db;
+}
 
+.bod-section .box-icon,
+.leadership-section .box-icon {
+    background-color: #14171E;
+    border: 1px solid #464646;
+    border-radius: 16px;
+}
+
+.bod-section .box-icon {
+    min-height: 450px;
+}
+
+.leadership-section .box-icon {
+    min-height: 505px;
 }
 
 .box-icon.box-icon-center .box-icon-more,
