@@ -130,9 +130,9 @@
           <li>
             <a href="case_studies.php">case studies</a>
           </li>
-          <li>
+          <!-- <li>
             <a href="case_studies.php">People & Culture</a>
-          </li>
+          </li> -->
         </div>
       </ul>
       <!-- /Links -->

@@ -246,8 +246,10 @@ section.blog-section {
   color: #fff !important;
   font-family: "Graphik", sans-serif !important;
   display: inline-block;
-  padding: 0 10px;
+  padding: 10px;
   margin-bottom: 0 !important;
+  border-radius: 4px;
+
 }
 
 #footer .black-footer .sub-heading {
@@ -10155,7 +10157,7 @@ footer.sticky {
 }
 
 .black-section .box-static.box-border-top {
-	border-top: 1px solid #fff !important;
+	border-top: none !important;
 	border-radius: 0 !important;
 }
 
