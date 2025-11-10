@@ -53,31 +53,31 @@
                         <!-- Full Name -->
                         <div class="form-group">
                             <label for="fullName" class="form-label">Full Name *</label>
-                            <input type="text" id="fullName" name="fullName" class="form-input" required>
+                            <input type="text" id="fullName" name="fullName" class="form-input" placeholder="Enter full name" required>
                         </div>
 
                         <!-- Email -->
                         <div class="form-group">
                             <label for="email" class="form-label">Email Address *</label>
-                            <input type="email" id="email" name="email" class="form-input" required>
+                            <input type="email" id="email" name="email" class="form-input" placeholder="Enter email" required>
                         </div>
 
                         <!-- Phone -->
                         <div class="form-group">
                             <label for="phone" class="form-label">Phone Number</label>
-                            <input type="text" id="phone" name="phone" class="form-input">
+                            <input type="text" id="phone" name="phone" class="form-input" placeholder="Enter phone number">
                         </div>
 
                         <!-- Company -->
                         <div class="form-group">
                             <label for="company" class="form-label">Company Name</label>
-                            <input type="text" id="company" name="company" class="form-input">
+                            <input type="text" id="company" name="company" class="form-input" placeholder="Enter company name">
                         </div>
 
                         <!-- Country -->
                         <div class="form-group">
                             <label for="country" class="form-label">Country</label>
-                            <input type="text" id="country" name="country" class="form-input">
+                            <input type="text" id="country" name="country" class="form-input" placeholder="Enter country">
                         </div>
                     </div>
 
@@ -107,7 +107,7 @@
                         <!-- Notes -->
                         <div class="form-group">
                             <label for="notes" class="form-label">Additional Notes / Questions</label>
-                            <textarea id="notes" name="notes" rows="4" class="form-textarea"></textarea>
+                            <textarea id="notes" name="notes" rows="4" class="form-textarea" placeholder="Let us know your requirement"></textarea>
                         </div>
                     </div>
                 </div>

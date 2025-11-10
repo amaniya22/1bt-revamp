@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $consent = isset($_POST['consent']) ? "Agreed" : "Not Agreed";
 
     // Prepare email
-    $to = "yourname@example.com"; // 🔹 Replace with your email
+    // $to = "yourname@example.com"; // 🔹 Replace with your email
     $subject = "New Consultation Booking from $fullName";
 
     $message = "
