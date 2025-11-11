@@ -77,9 +77,9 @@
     </div>
 
     <!-- SLIDER -->
-    <section class="height-400" id="slider" style="background:url('assets/images/ai-main.jpg')">
-      <div class="overlay dark-5">
-        <!-- dark overlay [0 to 9 opacity] -->
+    <!-- <section class="height-400" id="slider">
+      <div class="overlay dark-9">
+        dark overlay [0 to 9 opacity]
       </div>
 
       <div class="display-table">
@@ -98,15 +98,25 @@
         </div>
       </div>
 
-    </section>
+    </section> -->
     <!-- /SLIDER -->
+
+    <section class="black-section">
+      <div class="container">
+        <header class="text-center section-title">
+          <h1 class="text-white wow fadeInUp text-uppercase" data-wow-delay="0.4s">AI Driven
+          <span class="text-yellow text-uppercase"> Product Incubation</span>
+          </h1>
+        </header>
+      </div>
+    </section>
   
 
     <section class="callout-dark heading-title heading-arrow-bottom">
       <div class="container">
 
         <div class="text-center">
-          <h3 class="size-40 weight-800">Achieve up to a 40% acceleration in time to market.</h3>
+          <h3 class="size-40 weight-800 text-black">Achieve up to a 40% acceleration in time to market.</h3>
           <div class="size-30 padding-top-20">If you’re looking to test new ideas quickly with minimal time and investment, our AI-driven MVP program is designed for you.</div>
                  </div>
 

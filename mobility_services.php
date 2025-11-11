@@ -152,11 +152,11 @@
 
     <!-- SLIDER -->
 
-    <section class="height-400" id="slider" style="background:url('assets/images/main-mobility.webp')">
+    <!-- <section class="height-400" id="slider" style="background:url('assets/images/main-mobility.webp')">
 
       <div class="overlay dark-5">
 
-        <!-- dark overlay [0 to 9 opacity] -->
+        dark overlay [0 to 9 opacity]
 
       </div>
 
@@ -192,6 +192,16 @@
 
 
 
+    </section> -->
+
+    <section class="black-section">
+      <div class="container">
+        <header class="text-center section-title">
+          <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">MOBILITY
+            <span class="text-yellow"> SERVICES </span>
+          </h1>
+        </header>
+      </div>
     </section>
 
 

@@ -168,6 +168,35 @@
         gtag('config', 'UA-117187414-1');
     </script>
 
+    <script>
+        document.getElementById("consultationForm").addEventListener("submit", async function(e) {
+            e.preventDefault(); // prevent page reload
+
+            const form = e.target;
+            const formData = new FormData(form);
+            const messageDiv = document.getElementById("formMessage");
+
+            messageDiv.innerHTML = "⏳ Sending...";
+
+            try {
+                const response = await fetch("send-mail.php", {
+                    method: "POST",
+                    body: formData
+                });
+                const result = await response.json();
+
+                if (result.status === "success") {
+                    messageDiv.innerHTML = `<p style="color: green;">${result.message}</p>`;
+                    form.reset(); // ✅ clear the fields
+                } else {
+                    messageDiv.innerHTML = `<p style="color: red;">${result.message}</p>`;
+                }
+            } catch (error) {
+                messageDiv.innerHTML = `<p style="color: red;">⚠️ Error: Could not connect to server.</p>`;
+            }
+        });
+    </script>
+
 </body>
 
 </html>

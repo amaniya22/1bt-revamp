@@ -301,10 +301,10 @@
                 <img class="img-responsive" src="assets/images/clients/c7.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/c8.jpg" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/C8.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/c9.jpg" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/C9.jpg" alt="icon" >
               </div>
               <div>
                 <img class="img-responsive" src="assets/images/clients/c10.jpg" alt="icon" >
@@ -325,7 +325,7 @@
                 <img class="img-responsive" src="assets/images/clients/c15.jpg" alt="icon" >
               </div>
               <div>
-                <img class="img-responsive" src="assets/images/clients/c16.jpg" alt="icon" >
+                <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="icon" >
               </div>
               <div>
                 <img class="img-responsive" src="assets/images/clients/c17.jpg" alt="icon" >

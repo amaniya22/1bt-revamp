@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $consent = isset($_POST['consent']) ? "Agreed" : "Not Agreed";
 
     // Prepare email
-    // $to = "yourname@example.com"; // 🔹 Replace with your email
+    $to = "amaniyafaizal@gmail.com"; // 🔹 Replace with your email
     $subject = "New Consultation Booking from $fullName";
 
     $message = "
@@ -47,11 +47,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Send the email
     if (mail($to, $subject, $message, $headers)) {
-        echo "<h2>✅ Your consultation request has been sent successfully!</h2>";
-        echo "<p>We’ll get back to you soon, {$fullName}.</p>";
+        echo json_encode(["status" => "success", "message" => "✅ Your consultation request has been sent successfully!"]);
     } else {
-        echo "<h2>❌ Sorry, something went wrong while sending your message.</h2>";
-        echo "<p>Please try again later or contact us directly.</p>";
+        echo json_encode(["status" => "error", "message" => "❌ Sorry, something went wrong while sending your message."]);
     }
 
     exit;
