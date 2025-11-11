@@ -167,7 +167,7 @@
 
             <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
               <div class="box-icon-title">
-                <img src="./assets/images/eric.png">
+                <img src="./assets/images/eric.png" width="175px">
                 <h2 class="size-30">Erik Sebesta</h2>
                 <span>President</span>
               </div>

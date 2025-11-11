@@ -10194,13 +10194,14 @@ footer.sticky {
 }
 
 .consultation-form .form-group .form-checkbox {
-  background-color: #464646;
-  border: 1px solid #14171E;
+  background-color: #1d1d1d;
+  border: 1px solid #2a2b2c;
   border-radius: 16px;
 }
 
 .consultation-form .form-group label {
   font-size: 16px;
+  font-weight: 500;
 }
 
 .consultation-form .form-consent-section {

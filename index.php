@@ -99,7 +99,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">With AI-driven automation and Agentic Development, we transform ideas into intelligent, scalable products, built for agility and precision.</p>
-                <button class="slider-content-btn" onclick='window.location.href="bookaconsultation.php"'>Book a consultation call</button>
+                <button class="slider-content-btn" onclick='window.location.href="bookaconsultation.php"'>Book a Consultation</button>
               </div>
             </div>
           </div>
@@ -668,10 +668,12 @@
 
                 <!-- <p>Meet VelocentAI — an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</p> -->
                 <div class="box-image-title">
-                  <h2 class="weight-600 text-underline">The VelocentAI Framework</h2>
+                  <a href="https://1billiontech.com/The_VelocentAI_Framework.php">
+                    <h2 class="weight-600 text-underline">The VelocentAI Framework</h2>
+                  </a>
                   <h5 class="weight-400">Meet VelocentAI, an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</h5>
                 </div>
-                <a href="/The_VelocentAI_Framework.php" class="font-red font-italic weight-600 text-underline">Read Full Article</a>
+                <a href="https://1billiontech.com/The_VelocentAI_Framework.php" class="font-red font-italic weight-600 text-underline">Read Full Article</a>
               </div>
 
               </a>

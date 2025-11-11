@@ -45,7 +45,7 @@
     <section id="consultation-form" class="black-section">
         <div class="container">
             <header class="text-center margin-bottom-60 section-title">
-                <h1>BOOK A CONSULTATION CALL</h1>
+                <h1>BOOK A CONSULTATION</h1>
             </header>
             <form action="php/bookconsultation.php" method="POST" class="consultation-form">
                 <div class="col-lg-12 margin-bottom-40">
@@ -107,7 +107,7 @@
                         <!-- Notes -->
                         <div class="form-group">
                             <label for="notes" class="form-label">Additional Notes / Questions</label>
-                            <textarea id="notes" name="notes" rows="4" class="form-textarea" placeholder="Let us know your requirement"></textarea>
+                            <textarea id="notes" name="notes" rows="11" class="form-textarea" placeholder="Let us know your requirement"></textarea>
                         </div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
 
                     <!-- Submit Button -->
                     <div class="form-group">
-                        <button type="submit" class="form-submit-btn">Book a consultation call</button>
+                        <button type="submit" class="form-submit-btn">Book Consultation</button>
                     </div>
                 </div>
             </form>
