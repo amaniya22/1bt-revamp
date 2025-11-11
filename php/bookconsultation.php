@@ -1,6 +1,7 @@
 <?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Collect and sanitize form data
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
+    header('Content-Type: application/json');
+
     $fullName = htmlspecialchars($_POST['fullName']);
     $email = htmlspecialchars($_POST['email']);
     $phone = htmlspecialchars($_POST['phone']);
@@ -12,8 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $notes = htmlspecialchars($_POST['notes']);
     $consent = isset($_POST['consent']) ? "Agreed" : "Not Agreed";
 
-    // Prepare email
-    $to = "amaniyafaizal@gmail.com"; // 🔹 Replace with your email
+    $to = "amaniyafaizal@gmail.com";
     $subject = "New Consultation Booking from $fullName";
 
     $message = "
@@ -39,19 +39,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </body>
     </html>";
 
-    // Email headers
-    $headers = "MIME-Version: 1.0" . "\r\n";
-    $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-    $headers .= "From: {$fullName} <{$email}>" . "\r\n";
-    $headers .= "Reply-To: {$email}" . "\r\n";
+    $headers = "MIME-Version: 1.0\r\n";
+    $headers .= "Content-type:text/html;charset=UTF-8\r\n";
+    $headers .= "From: Website <no-reply@yourdomain.com>\r\n";
+    $headers .= "Reply-To: {$email}\r\n";
 
-    // Send the email
     if (mail($to, $subject, $message, $headers)) {
         echo json_encode(["status" => "success", "message" => "✅ Your consultation request has been sent successfully!"]);
     } else {
         echo json_encode(["status" => "error", "message" => "❌ Sorry, something went wrong while sending your message."]);
     }
-
     exit;
 }
 ?>

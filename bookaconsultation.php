@@ -47,7 +47,8 @@
             <header class="text-center margin-bottom-60 section-title">
                 <h1>BOOK A CONSULTATION</h1>
             </header>
-            <form action="php/bookconsultation.php" method="POST" class="consultation-form">
+            <form id="consultationForm" action="php/bookconsultation.php" method="POST" class="consultation-form">
+                <div id="formMessage" class="col-lg-12 form-consent-section margin-bottom-20"></div>
                 <div class="col-lg-12 margin-bottom-40">
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <!-- Full Name -->
@@ -169,30 +170,34 @@
     </script>
 
     <script>
-        document.getElementById("consultationForm").addEventListener("submit", async function(e) {
-            e.preventDefault(); // prevent page reload
+        document.querySelector("#consultationForm").addEventListener("submit", async function (e) {
+            e.preventDefault();
 
             const form = e.target;
             const formData = new FormData(form);
             const messageDiv = document.getElementById("formMessage");
 
             messageDiv.innerHTML = "⏳ Sending...";
+            messageDiv.style.color = "#333";
 
             try {
-                const response = await fetch("send-mail.php", {
+                const response = await fetch(form.action, {
                     method: "POST",
                     body: formData
                 });
                 const result = await response.json();
 
                 if (result.status === "success") {
-                    messageDiv.innerHTML = `<p style="color: green;">${result.message}</p>`;
-                    form.reset(); // ✅ clear the fields
+                    messageDiv.innerHTML = result.message;
+                    messageDiv.style.color = "green";
+                    form.reset();
                 } else {
-                    messageDiv.innerHTML = `<p style="color: red;">${result.message}</p>`;
+                    messageDiv.innerHTML = result.message;
+                    messageDiv.style.color = "red";
                 }
-            } catch (error) {
-                messageDiv.innerHTML = `<p style="color: red;">⚠️ Error: Could not connect to server.</p>`;
+            } catch (err) {
+                messageDiv.innerHTML = "Error: Could not reach the server.";
+                messageDiv.style.color = "red";
             }
         });
     </script>
