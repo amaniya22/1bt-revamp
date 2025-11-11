@@ -195,7 +195,7 @@
 
     <section class="black-section">
       <div class="container">
-        <header class="text-center section-title">
+        <header class="text-center section-title section-titles">
           <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">BUSINESS
           <span class="text-yellow">CONSULTING</span>
           </h1>
@@ -205,7 +205,7 @@
 
 
 
-      <section>
+      <section class>
 
         <div class="container">
 

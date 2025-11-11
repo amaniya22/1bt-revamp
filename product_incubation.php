@@ -103,7 +103,7 @@
 
     <section class="black-section">
       <div class="container">
-        <header class="text-center section-title">
+        <header class="text-center section-titles">
           <h1 class="text-white wow fadeInUp text-uppercase" data-wow-delay="0.4s">AI Driven
           <span class="text-yellow text-uppercase"> Product Incubation</span>
           </h1>
@@ -123,7 +123,7 @@
       </div>
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-6">
           <img class="img-responsive" src="assets/images/serviceicons/strategic_roadmap.jpg" alt="">
@@ -148,7 +148,7 @@
         </div>
       </div>
     </section>
-    <section>
+    <section class="black-section">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-6">
           <header class="margin-bottom-10 section-title">
@@ -168,7 +168,7 @@
         </div>
       </div>
     </section>
-    <section id="#">
+    <section id="#" class="black-section">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-6">
           <img class="img-responsive" src="assets/images/serviceicons/solution_tech_solution.jpg" alt=""> </div>
@@ -187,7 +187,7 @@
         </div>
       </div>
     </section>
-    <section>
+    <section class="black-section">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-6">
           <header class="margin-bottom-10 section-title">
@@ -218,7 +218,7 @@
     </section>
 
 
-    <section>
+    <section class="black-section">
       <div class="container">
         <a name="Engineering-IP"></a>
         <header class="text-center margin-bottom-60 section-title">

@@ -197,7 +197,7 @@
 
     <section class="black-section">
       <div class="container">
-        <header class="text-center section-title">
+        <header class="text-center section-titles section-title">
           <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">Microsoft 
           <span class="text-yellow"> D365 </span>
           </h1>
@@ -205,7 +205,7 @@
       </div>
     </section>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -237,7 +237,7 @@
 
     <a name="sales"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -346,7 +346,7 @@
 
     <a name="customer_service"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -470,7 +470,7 @@
 
     <a name="field_service"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -648,7 +648,7 @@
 
     <a name="talent_service"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -746,7 +746,7 @@
 
     <a name="finance_operations"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -1016,7 +1016,7 @@
 
     <a name="retail"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -1114,7 +1114,7 @@
 
     <a name="service_automation"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 
@@ -1262,7 +1262,7 @@
 
     <a name="marketing"></a>
 
-    <section>
+    <section class="black-section"> 
 
       <div class="container">
 
@@ -1434,7 +1434,7 @@
 
     <a name="customer_insights"></a>
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 

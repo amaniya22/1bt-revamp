@@ -151,7 +151,7 @@
 
     <!-- SLIDER -->
 
-    <!-- <section class="height-400" id="slider" style="background:url('assets/images/main-managed-services.webp')">
+    <!-- <section class="height-400 black-section" id="slider" style="background:url('assets/images/main-managed-services.webp')">
 
       <div class="overlay dark-5">
 
@@ -194,7 +194,7 @@
 
     <section class="black-section">
       <div class="container">
-        <header class="text-center section-title">
+        <header class="text-center section-title section-titles">
           <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">MANAGED
             <span class="text-yellow"> SERVICES </span>
           </h1>
@@ -204,7 +204,7 @@
 
 
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -258,7 +258,7 @@
 
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -312,7 +312,7 @@
 
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 

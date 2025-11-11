@@ -99,7 +99,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">With AI-driven automation and Agentic Development, we transform ideas into intelligent, scalable products, built for agility and precision.</p>
-                <button class="slider-content-btn" onclick='window.open("The_VelocentAI_Framework.php")'>Read VelocentAI</button>
+                <button class="slider-content-btn" onclick='window.open("The_VelocentAI_Framework.php")'>Read About VelocentAI</button>
               </div>
             </div>
           </div>

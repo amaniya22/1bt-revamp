@@ -199,7 +199,7 @@
 
     <section class="black-section">
       <div class="container">
-        <header class="text-center section-title">
+        <header class="text-center section-title section-titles">
           <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">UI/UX 
             <span class="text-yellow"> DESIGNING</span>
           </h1>
@@ -208,7 +208,7 @@
     </section>
 
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
       <div class="col-lg-12 col-md-12 col-sm-12">
@@ -220,7 +220,7 @@
 
     </section>
 
-<section>
+<section class="black-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
           <h2> OUR TECH ARSENAL </h2>
@@ -258,7 +258,7 @@
 
  
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
       <div class="col-lg-12 col-md-12 col-sm-12">
@@ -274,7 +274,7 @@
 
     </section>
 
-<section>
+<section class="black-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
           <h2> OUR TECH ARSENAL </h2>

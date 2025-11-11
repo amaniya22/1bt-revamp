@@ -153,7 +153,7 @@
 
     <!-- SLIDER -->
 
-    <!-- <section class="height-400" id="slider" style="background:url('assets/images/main-qa.webp')">
+    <!-- <section class="height-400 black-section" id="slider" style="background:url('assets/images/main-qa.webp')">
 
       <div class="overlay dark-5">
 
@@ -209,7 +209,7 @@
 
 
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
       <div class="col-lg-12 col-md-12 col-sm-12">
@@ -273,7 +273,7 @@
 
     
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -389,7 +389,7 @@
 </section>
 
 
-<section>
+<section class="black-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
           <h2> OUR TECH ARSENAL </h2>
@@ -463,7 +463,7 @@
 
  
 
-    <section>
+    <section class="black-section">
 
       <div class="container">
 

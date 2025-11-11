@@ -99,7 +99,7 @@
 
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-6">
           <img class="img-responsive" src="assets/images/serviceicons/strategic_roadmap.jpg" alt="">
@@ -124,7 +124,7 @@
         </div>
       </div>
     </section>
-    <section>
+    <section class="black-section">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-6">
           <header class="margin-bottom-10 section-title">
@@ -163,7 +163,7 @@
         </div>
       </div>
     </section>
-    <section>
+    <section class="black-section">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-6">
           <header class="margin-bottom-10 section-title">
@@ -194,7 +194,7 @@
     </section>
 
 
-    <section>
+    <section class="black-section">
       <div class="container">
         <a name="Engineering-IP"></a>
         <header class="text-center margin-bottom-60 section-title">
@@ -278,7 +278,7 @@
         </div>
       </div>
     </section>
-    <section class="callout-dark heading-title heading-arrow-top">
+    <section class="callout-dark heading-title heading-arrow-top black-section">
       <div class="container">
 
         <div class="text-center">

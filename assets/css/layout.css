@@ -297,7 +297,7 @@ section.blog-section {
 
 .case-studies-section h1,
 .blog-section h1,
-#footer .black-footer h1 {
+#footer .black-footer h1, .black-section .section-titles h1 {
   color: #fff !important;
   font-family: "Graphik", sans-serif !important;
   font-size: 60px;
@@ -872,7 +872,7 @@ body.boxed #wrapper {
 
   .case-studies-section h1,
   .blog-section h1,
-  #footer .black-footer h1 {
+  #footer .black-footer h1, .black-section .section-title h1 {
     font-size: 40px;
   }
 
@@ -10142,6 +10142,10 @@ footer.sticky {
 	color: #fff !important;
 }
 
+.black-section .alert h4 {
+  color: #000 !important;
+}
+
 /*blogs*/
 
 .black-section .item-box-desc {
@@ -10169,6 +10173,11 @@ footer.sticky {
 	color: #000 !important;
 }
 
+/** ervices **/
+.black-section .list-group-item {
+  background-color: transparent !important;
+}
+
 
 /* Book a consultation form */
 .consultation-form {
@@ -10194,14 +10203,13 @@ footer.sticky {
 }
 
 .consultation-form .form-group .form-checkbox {
-  background-color: #1d1d1d;
-  border: 1px solid #2a2b2c;
+  background-color: #464646;
+  border: 1px solid #14171E;
   border-radius: 16px;
 }
 
 .consultation-form .form-group label {
   font-size: 16px;
-  font-weight: 500;
 }
 
 .consultation-form .form-consent-section {
