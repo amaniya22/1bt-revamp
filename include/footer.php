@@ -8,7 +8,7 @@
     <div class="row">
     <header class="text-center section-title">
           <p class="sub-heading"> LET'S GET IN TOUCH </p>
-          <h1>Connect <span class="font-red"> With Us </span> </h1>
+          <h1>Connect <span class="font-red">With Us</span> </h1>
     </header>
     <div class="col-md-4 col-sm-12  padding-top-40">
         <div class="row text-left">
@@ -195,6 +195,6 @@
         <a href="Privacy_and_Confidentiality.php">Privacy Policy</a>
       </li>
     </ul>
-    &copy; 2025 All Rights Reserved, 1 Billion Technology Inc
+    &copy; 2025 All Rights Reserved – 1 Billion Technology Inc.
   </div>
 </div>

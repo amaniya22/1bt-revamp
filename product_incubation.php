@@ -106,7 +106,7 @@
       <div class="container">
 
         <div class="text-center">
-          <h3 class="size-40 weight-800">Realize up to a 40% acceleration in time to market.</h3>
+          <h3 class="size-40 weight-800">Achieve up to a 40% acceleration in time to market.</h3>
           <div class="size-30 padding-top-20">If you’re looking to test new ideas quickly with minimal time and investment, our AI-driven MVP program is designed for you.</div>
                  </div>
 

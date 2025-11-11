@@ -154,7 +154,7 @@
 
             <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
               <div class="box-icon-title">
-                <img src="./assets/images/prasath-thumb.png">
+                <img src="./assets/images/prasath-thumb.png" width="175px">
                 <h2 class="size-30">Prasath Nanayakkara</h2>
                 <span>Founder, Chairman & CEO</span>
               </div>
@@ -180,7 +180,7 @@
 
             <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
               <div class="box-icon-title">
-                <img src="./assets/images/rizvan.png">
+                <img src="./assets/images/rizvan.png" width="175px">
                 <h2 class="size-30">Rizwan Virk
                 </h2>
                 <span>Co founder of Midverse Studios & Gameview Studios</span>

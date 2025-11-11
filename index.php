@@ -99,7 +99,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">With AI-driven automation and Agentic Development, we transform ideas into intelligent, scalable products, built for agility and precision.</p>
-                <button class="slider-content-btn" onclick='window.location.href="bookaconsultation.php"'>Book a Consultation</button>
+                <button class="slider-content-btn" onclick='window.location.href="The_VelocentAI_Framework.php"'>Read VelocentAI</button>
               </div>
             </div>
           </div>
@@ -120,7 +120,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">Leverage our AI-based 90-day MVP program to turn your concept into reality.<br /> <br /> If you’re looking to test new ideas quickly with minimal time and investment, our AI-driven MVP offering is designed for you.</p>
-                <button class="slider-content-btn">Read More</button>
+                <button class="slider-content-btn" onclick='window.location.href="product_incubation.php"'>Read More</button>
               </div>
             </div>
           </div>
@@ -142,7 +142,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">Our team brings extensive experience in Microsoft Dynamics GYDE365, delivering expert support and tailored solutions to meet your unique business needs.</p>
-                <button class="slider-content-btn">Read More</button>
+                <button class="slider-content-btn" onclick='window.location.href="CRM_services.php"'>Read More</button>
               </div>
             </div>
           </div>
@@ -164,7 +164,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">We offer end-to-end product development services on AWS and Azure, leveraging our expertise to help clients scale and succeed in the cloud.</p>
-                <button class="slider-content-btn">Read More</button>
+                <button class="slider-content-btn" onclick='window.location.href="cloud_services.php"'>Read More</button>
               </div>
             </div>
           </div>
@@ -222,7 +222,7 @@
                 <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
                 </span>
 
-                <p class="nomargin-bottom-p">Leverage our AI based MVP offering to realise your concept into reality.</p>
+                <p class="nomargin-bottom-p">Leverage our AI based 90 MVP offering to bring your concept to life</p>
               </a>
             </div>
           </div>
@@ -431,7 +431,7 @@
                                 </div>
                             </div>
                             <p class="quote">
-                                Since 2019, our collaboration with 1 Billion Tech led to launching our SaaS health platform. Their dedicated team, managed efficiently, demonstrated commitment and critical thinking, fostering a trusted relationship.
+                                Since 2019, our collaboration with 1 Billion Tech led to launching our SaaS health platform. Their dedicated team, demonstrated commitment and critical thinking, fostering a trusted relationship.
                             </p>
                         </div>
                         <div class="image-overlap-area">
