@@ -107,26 +107,25 @@
           <h1>ABOUT 1 BILLION TECH</h1>
         </header>
         <div class="row">
-          <div class="col-sm-6 text-center">
-            <img src="assets/images/why-auxenta-left.png" alt="" height="60%"> </div>
-          <div class="col-sm-6">
+          <img src="assets/images/why-auxenta-left.png" alt="" width="100%" class="margin-bottom-40"> </div>
+          <div class="col-lg-6 col-md-12">
             <p>1 Billion Tech is a Silicon Valley–headquartered software engineering and technology 
-              consulting company empowering organizations to achieve digital transformation with speed 
-              and intelligence.
+              consulting company empowering organizations to achieve digital transformation with 
+              speed and intelligence.
               <br>
               <br> We combine deep technical expertise with innovation-driven consulting to deliver 
               scalable, intelligent, and high-performing solutions. Leveraging our proprietary AI 
-              framework, <b>VelocentAI</b>, we help businesses seamlessly integrate artificial 
-              intelligence into their workflow - enhancing operational efficiency, automating complex 
-              processes, and enabling data-driven decision-making.
+              framework, VelocentAI, we help businesses seamlessly integrate artificial intelligence 
+              into their workflow - enhancing operational efficiency, automating complex processes, 
+              and enabling data-driven decision-making.
               <br>
               <br>
             </p>
           </div>
-          <div class="col-lg-12 margin-top-10">
+          <div class="col-lg-6 col-md-12">
             <p>
               Our AI-first approach empowers companies to move from concept to execution faster, 
-              optimize resource utilization, and achieve a measurable <b>return on investment (ROI)</b> in 
+              optimize resource utilization, and achieve a measurable return on investment (ROI) in 
               record time. Whether it’s accelerating product development, optimizing customer 
               journeys, or enhancing predictive capabilities, we help organizations unlock the full 
               potential of AI to stay ahead in a competitive landscape.
@@ -134,12 +133,11 @@
               <br>
               Our global clientele spans diverse industries including telecommunications, financial 
               services, logistics, security, capital markets, apparel,manufacturing, power and energy.
-              At the heart of 1 Billion Tech lies a strong value system built on <b>innovation, 
-              integrity, and impact</b>, guiding how we think, build, and collaborate with organizations 
-              worldwide.
+              At the heart of 1 Billion Tech lies a strong value system built on innovation, 
+              integrity, and impact, guiding how we think, build, and collaborate with organizations 
+              worldwide
             </p>
           </div>
-        </div>
       </div>
     </section>
     <a name="bod"></a>
