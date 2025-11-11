@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $notes = htmlspecialchars($_POST['notes']);
     $consent = isset($_POST['consent']) ? "Agreed" : "Not Agreed";
 
-    $to = "amaniyafaizal@gmail.com";
+    $to = "contact@1billiontech.com";
     $subject = "New Consultation Booking from $fullName";
 
     $message = "
