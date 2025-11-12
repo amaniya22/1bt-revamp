@@ -153,37 +153,51 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-sm-6">
-            <div class="careers-left" style="margin-bottom:20px";>
+            <div class="careers-left" style="margin-bottom:10px";>
               <div class="blog-post-item">
-                <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/vIUIj80at4E?si=rCwmpMGwUK4-iFQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
+                <!-- <div class="embed-responsive embed-responsive-16by9"> -->
+                <a href="https://www.youtube.com/watch?v=vIUIj80at4E&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=2" target="_blank">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/podcast1.png" alt="img" >
+              </figure>
+                  <!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/vIUIj80at4E?si=rCwmpMGwUK4-iFQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                <!-- </div> -->
                 <div class="item-box-desc">
-                  <h4>Episode 1: Global Trends of OFffshoring</h4>
+                  <!-- <h4>Episode 1: Global Trends of OFffshoring</h4> -->
                 </div>
               </div>
             </div>     
           </div>
           <div class="col-md-6 col-sm-6">
-            <div class="careers-left" style="margin-bottom:20px";>
+            <div class="careers-left" style="margin-bottom:10px";>
               <div class="blog-post-item">
-                <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf7vDVz9Tvo?si=5vWQs6GHhoxslBB-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
+                <!-- <div class="embed-responsive embed-responsive-16by9"> -->
+                  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf7vDVz9Tvo?si=5vWQs6GHhoxslBB-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                    <a href="https://www.youtube.com/watch?v=Wf7vDVz9Tvo&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=1" target="_blank">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/podcast2.png" alt="img">
+              </figure>
+            </a>
+                  <!-- </div> -->
                 <div class="item-box-desc">
-                  <h4>Episode 2: Transforming Businesses with Microsoft Solutions</h4>
+                  <!-- <h4>Episode 2: Transforming Businesses with Microsoft Solutions</h4> -->
                 </div>
               </div>
             </div>     
           </div>
           <div class="col-md-6 col-sm-6">
-            <div class="careers-left" style="margin-bottom:20px";>
+            <div class="careers-left" style="margin-bottom:10px";>
               <div class="blog-post-item">
-                <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/-ijBw5Mz5nE?si=iRlaVOIDJUo4Y07a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
+                <!-- <div class="embed-responsive embed-responsive-16by9"> -->
+                  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/-ijBw5Mz5nE?si=iRlaVOIDJUo4Y07a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                    <a href="https://www.youtube.com/watch?v=-ijBw5Mz5nE&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=3" target="_blank">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/podcast3.png" alt="img">
+              </figure>
+            </a>
+                  <!-- </div> -->
                 <div class="item-box-desc">
-                  <h4>Episode 3: The Vital Role of UX in Software Businesses - Client Empathy and Success</h4>
+                  <!-- <h4>Episode 3: The Vital Role of UX in Software Businesses - Client Empathy and Success</h4> -->
                 </div>
               </div>
             </div>     

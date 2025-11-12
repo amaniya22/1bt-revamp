@@ -10183,9 +10183,14 @@ footer.sticky {
 	color: #000 !important;
 }
 
-/** ervices **/
+/** services **/
 .black-section .list-group-item {
   background-color: transparent !important;
+}
+
+.black-section table p {
+  margin: 0 !important;
+  font-size: 15px;
 }
 
 

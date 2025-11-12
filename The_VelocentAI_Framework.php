@@ -156,15 +156,15 @@
 
     
         <div class="col-lg-12 col-md-12 col-sm-12">
+        <header class="text-center section-titles">
+          <h1 class="text-white wow fadeInUp text-uppercase" data-wow-delay="0.4s">AI Driven
+          <span class="text-yellow text-uppercase"> Product Incubation</span>
+          </h1>
+          <p><strong>"VelocentAI doesn't just build software &mdash; it builds momentum.&rdquo;</strong></p>
 
-          <header class="margin-bottom-10 section-title">
+        </header>
 
-            <h1>The VelocentAI Framework</h1>
-
-          </header>
-
-        <p><strong>"VelocentAI doesn't just build software &mdash; it builds momentum.&rdquo;</strong></p>
-<h2><strong>Engineering, Reinvented by Intelligence.</strong></h2>
+<h2 class="margin-top-40 margin-bottom-10"><strong>Engineering, Reinvented by Intelligence.</strong></h2>
 <p>Meet VelocentAI &mdash; an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</p>
 <p>To check VelocentAI in action talk to our AI engineering team today&nbsp;</p>
    <div align="center">
@@ -229,7 +229,7 @@
 
  <strong>Deliver 60% Faster — Without Cutting Corners </strong>
 <p>With VelocentAI, engineering teams achieve more with less &mdash; reducing repetitive work and accelerating time-to-market. It empowers engineers to focus on creativity while AI handles process orchestration and optimization.</p>
-   <table style="height: 245px; width: 710px;" cellpadding="2">
+   <table class="table table-bordered" style="height: 245px; width: 710px;" cellpadding="2">
 <tbody>
 <tr>
 <td style="width: 332.038px;">
@@ -377,8 +377,8 @@
 <li><i class="fa fa-angle-double-right"></i>Built-in Metrics Dashboard</li>
 <li><i class="fa fa-angle-double-right"></i>LLM-agnostic by design &mdash; compatible with OpenAI, Gemini, Anthropic, and other LLMs.&rdquo;</li>
 </ul>
-<strong>From Concept to Impact</strong><br><br>
-  <table style="width: 484.65px;">
+<h3 class="margin-bottom-10">From Concept to Impact</h3>
+  <table class="table table-bordered" style="width: 484.65px;">
 <tbody>
 <tr>
 <td style="width: 264px;">
@@ -447,7 +447,7 @@
 <p>With VelocentAI, software engineering becomes a living ecosystem &mdash; one that grows smarter with every iteration. Each agent learns from outcomes, refines its approach, and improves the next build. Your workflows don&rsquo;t just run &mdash; they adapt, optimize, and evolve alongside your team.</p>
 <p><strong>This is Agile Agentic Development in motion: human creativity amplified by intelligent automation, guided by continuous learning.</strong></p>
 <p><em>Every project. Every sprint. A smarter version of itself.</em></p>
-<h2><strong>Evolve Your Engineering Process</strong></h2>
+<h2 class="margin-bottom-10"><strong>Evolve Your Engineering Process</strong></h2>
 <p>Adopt VelocentAI and experience a development framework that grows with you &mdash; learning from data, adapting to change, and accelerating innovation.</p>
       
         </div>
