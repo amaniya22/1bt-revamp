@@ -402,8 +402,9 @@
                     style="border-radius: 15px; overflow: hidden;"> 
                     </figure> -->
                     <a href="https://www.youtube.com/watch?v=vIUIj80at4E&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=2" target="_blank">
-              <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast1.webp" alt="img" >
+              <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" style="border-radius: 15px; overflow: hidden;">
+                <!-- <img class="img-responsive" src="assets/images/podcast1.webp" alt="img" > -->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/vIUIj80at4E?si=YcDc0Ol0d9lqEDlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               </figure>
             </a>
           </div>
@@ -412,8 +413,9 @@
           <!-- POST ITEM -->
           <div class="blog-post-item col-md-4 col-sm-6">
           <a href="https://www.youtube.com/watch?v=Wf7vDVz9Tvo&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=1" target="_blank">
-              <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast2.webp" alt="img">
+              <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" style="border-radius: 15px; overflow: hidden;">
+                <!-- <img class="img-responsive" src="assets/images/podcast1.webp" alt="img" > -->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf7vDVz9Tvo?si=_gd2ZkYOlqq_ahqt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               </figure>
             </a>
           </div>
@@ -421,8 +423,9 @@
           <!-- POST ITEM -->
           <div class="blog-post-item col-md-4 col-sm-6">
           <a href="https://www.youtube.com/watch?v=-ijBw5Mz5nE&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=3" target="_blank">
-              <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast3.webp" alt="img">
+              <figure class="margin-bottom-20 embed-responsive embed-responsive-16by9" style="border-radius: 15px; overflow: hidden;">
+                <!-- <img class="img-responsive" src="assets/images/podcast1.webp" alt="img" > -->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/-ijBw5Mz5nE?si=D9Crik9tEw6Dh4E2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               </figure>
             </a>
                     </div>
