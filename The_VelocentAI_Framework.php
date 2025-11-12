@@ -201,7 +201,7 @@
 </div>
  <div class="col-lg-6 col-md-6 col-sm-6">
 
-          <img class="img-responsive" src="assets/images/Intelligence-thumb.jpg" alt="">
+          <img class="img-responsive" src="assets/images/Intelligence-thumb.webp" alt="">
 
         </div>
 
@@ -214,7 +214,7 @@
 
        <div class="col-lg-6 col-md-6 col-sm-6">
 
-          <img class="img-responsive" src="assets/images/Intelligence-thumb2.jpg" alt="">
+          <img class="img-responsive" src="assets/images/Intelligence-thumb2.webp" alt="">
 
         </div>
 
@@ -348,7 +348,7 @@
         </div>
            <div class="col-lg-6 col-md-6 col-sm-6">
 
-          <img class="img-responsive" src="assets/images/Intelligence-thumb3.png" alt="">
+          <img class="img-responsive" src="assets/images/Intelligence-thumb3.webp" alt="">
 
         </div>
 
