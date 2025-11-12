@@ -51,9 +51,9 @@
                     <li>
                       <a href="podcasts.php">PODCAST</a>
                     </li>
-                    <li>
+                    <!-- <li>
                       <a href="#">WHITE PAPERS</a>
-                    </li>
+                    </li> -->
                   </ul>
                 </li>
                 <li><a href="case_studies.php">Clients</a></li>

@@ -30,8 +30,8 @@
           <div style="padding-bottom: 10px">
               <p class="footer-contact-text">
                 <span class="weight-700">United States (Headquarters)</span><br />
-                3600 136th PL SE, Suite 300, Bellevue,<br />
-                WA 98006, USA
+                22 Sunnyhill Rd., Emerald Hills,<br/> CA 94062-3948 (USA)
+                
               </p>
               <p class="footer-contact-text">
                 <span class="weight-700">Sri Lanka Office</span><br />
