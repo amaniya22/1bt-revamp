@@ -168,7 +168,7 @@
 <p>Meet VelocentAI &mdash; an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</p>
 <p>To check VelocentAI in action talk to our AI engineering team today&nbsp;</p>
    <div align="center">
-                  <img src="assets/images/ai-engineering-fig1.jpg">
+                  <img src="assets/images/ai-engineering-fig2.jpg">
 </div>
         </div>
 
@@ -316,7 +316,7 @@
 <p>All orchestrated by the VelocentAI Core, ensuring context, data, and decisions flow seamlessly between every stage.</p>
 
  <p align="center">
-                  <img src="assets/images/ai-engineering-fig2.jpg">
+                  <img src="assets/images/ai-engineering-fig1.jpg">
                 </p>
         </div>
 
