@@ -340,7 +340,7 @@
                        
                         <div class="card-content">
                             <div class="profile-header">
-                                <div class="profile-icon"> <img src="assets/images/client-icon.webp" alt="icon" class="icon"></div> 
+                                <div class="profile-icon"> <img src="assets/images/client-icon.png" alt="icon" class="icon"></div> 
                                 <div class="profile-info">
                                     <p class="name">Shaneel Pathak</p>
                                     <p class="title">CEO and Cofounder, ZoeInsights</p>
