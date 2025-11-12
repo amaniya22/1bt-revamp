@@ -205,7 +205,7 @@
 
 
 
-      <section class>
+      <section class="black-section">
 
         <div class="container">
 
@@ -215,11 +215,11 @@
 
     
 
-            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large business-consulting-box-icon">
 
               <a class="box-icon-title" href="#">
 
-                <img src="assets/images/Solution-Design.png">
+                <img src="assets/images/Solution-Design.png" width="100%">
 
                 <h2 class="size-25">Solution Design</h2>
 
@@ -237,11 +237,11 @@
 
     
 
-            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large business-consulting-box-icon">
 
               <a class="box-icon-title" href="#">
 
-                <img src="assets/images/Optimization.png">
+                <img src="assets/images/Optimization.png" width="100%">
 
                 <h2 class="size-25">Optimization</h2>
 
@@ -259,11 +259,11 @@
 
     
 
-            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large business-consulting-box-icon">
 
               <a class="box-icon-title" href="#">
 
-                <img src="assets/images/Customer-first-approach.png">
+                <img src="assets/images/Customer-first-approach.png" width="100%">
 
                 <h2 class="size-25">Customer-first approach</h2>
 
@@ -281,11 +281,11 @@
 
     
 
-            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
+            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large business-consulting-box-icon">
 
               <a class="box-icon-title" href="#">
 
-                <img src="assets/images/Portfolio-Assessment.png">
+                <img src="assets/images/Portfolio-Assessment.png" width="100%">
 
                 <h2 class="size-25">Portfolio Assessment</h2>
 
@@ -303,7 +303,7 @@
 
     </section>
 
-    <section id="#">
+    <section id="#" class="services-white-section">
 
       <div class="container">
 
@@ -311,7 +311,7 @@
 
           <header class="margin-bottom-10 section-title">
 
-            <h1>Business Analyst Competency Center</h1>
+            <h1 class="section-title-h1">Business Analyst Competency Center</h1>
 
           </header>
 
@@ -327,7 +327,7 @@
 
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -341,7 +341,7 @@
 
           <div class="table-responsive">
 
-            <table class="table table-bordered table-striped">
+            <table class="table table-bordered">
 
               <thead style="background-color: #00A0D1; color: #FFFFFF;">
 
@@ -413,7 +413,7 @@
 
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 

@@ -150,7 +150,7 @@
     </div>
 
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -163,20 +163,20 @@
 
           </header>
 
-        <p><strong>VelocentAI doesnt just build software &mdash; it builds momentum.&rdquo;</strong></p>
+        <p><strong>"VelocentAI doesn't just build software &mdash; it builds momentum.&rdquo;</strong></p>
 <h2><strong>Engineering, Reinvented by Intelligence.</strong></h2>
 <p>Meet VelocentAI &mdash; an agentic AI framework that transforms Agile development into an intelligent, self-optimizing process. Smarter decisions. Faster builds. Limitless evolution.</p>
-<p>CTAs: See VelocentAI in Action | Talk to Our AI Engineering Team&nbsp;</p>
-   <p align="center">
+<p>To check VelocentAI in action talk to our AI engineering team today&nbsp;</p>
+   <div align="center">
                   <img src="assets/images/ai-engineering-fig1.jpg">
-                </p>
+</div>
         </div>
 
       </div>
 
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -189,7 +189,7 @@
           </header>
 
  <strong>Built on Intelligence. Designed for Speed.</strong>
-<p>VelocentAI integrates Agile Agentic Development, a model where intelligent AI agents collaborate with engineers to accelerate every phase of the software lifecycle</p>
+<p>VelocentAI integrates Agile Agentic Development, a model where intelligent AI agents collaborate with engineers to accelerate every phase of the software lifecycle.</p>
 <p><strong>Highlights:</strong></p>
    <ul class="list-unstyled list-icons">
 <li><i class="fa fa-angle-double-right"></i>Agentic Automation: Specialized AI agents think, plan, and execute in parallel.</li>
@@ -208,7 +208,7 @@
       </div>
 
     </section>
-      <section id="#">
+      <section id="#" class="black-section">
 
       <div class="container">
 
@@ -290,7 +290,7 @@
     </section>
 
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -305,7 +305,7 @@
 
    <strong>Agentic Collaboration, Simplified</strong>
 <p>Behind VelocentAI lies an ecosystem of intelligent agents &mdash; each mastering a specific role in your Agile workflow.</p>
-<p><strong>Agent Roless:</strong></p>
+<p><strong>Agent Roles:</strong></p>
  <ul class="list-unstyled list-icons">
 <li><i class="fa fa-angle-double-right"></i>Analyst Agent: Converts requirements into structured user stories.</li>
 <li><i class="fa fa-angle-double-right"></i>Architect Agent: Designs scalable, secure system blueprints.</li>
@@ -323,7 +323,7 @@
       </div>
 
     </section>
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -356,7 +356,7 @@
 
     </section>
    
- <section id="#">
+ <section id="#" class="black-section">
 
       <div class="container">
 
@@ -430,7 +430,7 @@
       </div>
 
     </section>
-       <section id="#">
+       <section id="#" class="black-section">
 
       <div class="container">
 

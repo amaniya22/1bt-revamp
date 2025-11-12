@@ -10146,6 +10146,16 @@ footer.sticky {
   color: #000 !important;
 }
 
+.services-white-section .section-title .section-title-h2, 
+.services-white-section .section-title .section-title-h1 {
+  font-family: "Graphik", sans-serif !important;
+	color: #000000 !important;
+}
+
+.box-icon.business-consulting-box-icon {
+  height: 400px;
+}
+
 /*blogs*/
 
 .black-section .item-box-desc {

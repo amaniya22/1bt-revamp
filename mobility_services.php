@@ -206,7 +206,7 @@
 
 
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 
@@ -312,7 +312,7 @@
 
     </section>
 
-    <section id="#">
+    <section id="#" class="black-section">
 
       <div class="container">
 

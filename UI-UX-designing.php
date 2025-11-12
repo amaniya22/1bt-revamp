@@ -220,11 +220,11 @@
 
     </section>
 
-<section class="black-section">
+<section class="services-white-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
-          <h2> OUR TECH ARSENAL </h2>
-          <h1>TOOL STACK</h1>
+          <h2 class="section-title-h2"> OUR TECH ARSENAL </h2>
+          <h1 class="section-title-h1">TOOL STACK</h1>
         </header>
 
         <ul class="row clients-dotted list-inline">
@@ -274,11 +274,11 @@
 
     </section>
 
-<section class="black-section">
+    <section class="services-white-section">
       <div class="container">
         <header class="text-center margin-bottom-60 section-title">
-          <h2> OUR TECH ARSENAL </h2>
-          <h1>TOOL STACK</h1>
+          <h2 class="section-title-h2"> OUR TECH ARSENAL </h2>
+          <h1 class="section-title-h1">TOOL STACK</h1>
         </header>
 
         <ul class="row clients-dotted list-inline">

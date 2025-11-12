@@ -92,7 +92,7 @@
               <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">AI Meets</span> Engineering Excellence,
+                    <span class="slider-title-red">AI Meets</span> Engineering Excellence
                   <p>
                   <p class="slider-subtitle">Delivering Innovation At Speed<p>
                 </div>

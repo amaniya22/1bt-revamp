@@ -364,18 +364,19 @@
 
     </section>
 
-    <section class="container">
+    <section class="black-section">
+      <div class="container">
+        <div align="center" class="col-lg-12 col-md-12 col-sm-12">
 
-      <div align="center" class="col-lg-12 col-md-12 col-sm-12">
+          <header class="margin-bottom-10 section-title">
 
-        <header class="margin-bottom-10 section-title">
+            <h1>Our Approach</h1>
 
-          <h1>Our Approach</h1>
+          </header>
 
-        </header>
+          <img class="responsive-image" src="./assets/images/OurApproach.png">
 
-        <img class="responsive-image" src="./assets/images/OurApproach.png">
-
+        </div>
       </div>
 
     </section>
