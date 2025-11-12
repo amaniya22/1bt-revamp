@@ -269,132 +269,48 @@
 
     <section class="no-margin clients-section">
       <div class="container-fluid custom-container">
-
-        <!-- <header class="text-center margin-bottom-60 section-title">
-          <p class="sub-heading"> The Company We Keep </p>
-          <h1 class="weight-400"> <span class="font-red">OUR</span> CLIENTS</h1>
-        </header> -->
-        <div class="col-md-12">
-          <div class="text-center">
-            <div class="owl-carousel" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
-          
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c1.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c2.jpg" alt="icon">
-              </div>
-               <div>
-                <img class="img-responsive" src="assets/images/clients/c3.jpg" alt="icon" >
-              </div>
-             
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c4.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c5.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c6.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c7.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C8.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C9.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c10.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c11.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c12.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c13.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c14.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c15.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c17.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c18.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c19.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c20.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c21.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c22.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c23.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c24.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c25.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c26.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c27.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c28.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c29.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c30.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c31.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c32.jpg" alt="icon" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/clients/c33.jpg" alt="icon" >
-              </div>
-            </div>
+        <div class="logo-slider" id="clientsSlider">
+          <div class="logo-track" id="clientsTrack"">
+            <img class="img-responsive" src="assets/images/clients/c1.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c2.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c3.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c4.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c5.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c6.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c7.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/C8.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/C9.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c10.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c11.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c12.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c13.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c14.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c15.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/C16.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c17.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c18.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c19.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c20.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c21.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c22.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c23.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c24.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c25.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c26.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c27.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c28.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c29.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c30.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c31.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c32.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/clients/c33.jpg" alt="icon" >
           </div>
         </div>
-
-        <!--
-          controlls-over    = navigation buttons over the image
-          buttons-autohide  = navigation buttons visible on mouse hover only
-
-          data-plugin-options:
-              "singleItem": true
-              "autoPlay": false (or ms. eg: 4000)
-              "navigation": true
-              "pagination": true
-      -->
-
       </div>
     </section>
+
+
+
     <hr class="separator"/>
     <section class="testimonial-highlights-section testimonial-section">
     <div class="custom-container container-fluid">
@@ -521,63 +437,30 @@
 
     </section>
 
-
-    <section class="technology-section">
+    <section class="no-margin technology-section">
       <div class="container-fluid custom-container">
         <header class="text-center margin-bottom-40 section-title">
           <!-- <p class="sub-heading"> OUR TECH ARSENAL </p> -->
           <h1><span class="font-red">TECHNOLOGY</span> STACK</h1>
         </header>
-
-        <div class="col-md-12">
-          <div class="text-center">
-            <div class="owl-carousel tech-carousel-div" data-plugin-options='{"singleItem": false, "autoPlay": true}'>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech1.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech2.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech3.jpg" alt="tech">
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech4.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech5.jpg" alt="tech">
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech6.jpg" alt="tech">
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech7.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech8.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech9.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech10.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech11.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech12.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech13.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech14.jpg" alt="tech" >
-              </div>
-              <div>
-                <img class="img-responsive" src="assets/images/tech/tech15.jpg" alt="tech" >
-              </div>              
-            </div>
+        
+        <div class="logo-slider" id="techSlider">
+          <div class="logo-track" id="techTrack">
+            <img class="img-responsive" src="assets/images/tech/tech1.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech2.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech3.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech4.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech5.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech6.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech7.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech8.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech9.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech10.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech11.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech12.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech13.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech14.jpg" alt="icon" >
+            <img class="img-responsive" src="assets/images/tech/tech15.jpg" alt="icon" >
           </div>
         </div>
       </div>
@@ -874,6 +757,58 @@
 
       // Initialize slider and button states
       updateSlider();
+    });
+
+    function initSeamlessCarousel(trackId, speed = 2) {
+      const track = document.getElementById(trackId);
+      if (!track) return;
+
+      const wrapper = track.parentNode;
+
+      // Clone track
+      const clone = track.cloneNode(true);
+      clone.classList.add("logo-track-clone");
+      wrapper.appendChild(clone);
+
+      // Style tracks
+      Object.assign(track.style, {
+        display: "inline-flex",
+        whiteSpace: "nowrap",
+        transform: "translateX(0)",
+      });
+
+      Object.assign(clone.style, {
+        display: "inline-flex",
+        whiteSpace: "nowrap",
+        position: "absolute",
+        top: "0",
+        left: `${track.scrollWidth}px`,
+        marginLeft: '60px'
+      });
+
+      let position = 0;
+
+      function animate() {
+        position -= speed;
+
+        if (Math.abs(position) >= track.scrollWidth) {
+          position = 0;
+        }
+
+        const transform = `translateX(${position}px)`;
+        track.style.transform = transform;
+        clone.style.transform = transform;
+
+        requestAnimationFrame(animate);
+      }
+
+      animate();
+    }
+
+    // Initialize carousels
+    document.addEventListener("DOMContentLoaded", () => {
+      initSeamlessCarousel("clientsTrack", 0.8); // clients speed
+      initSeamlessCarousel("techTrack", 0.8);    // tech stack speed
     });
 
   </script>

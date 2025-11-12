@@ -10230,3 +10230,78 @@ footer.sticky {
 .consultation-form .form-consent-section {
   padding: 0 30px;
 }
+
+/* .logo-slider {
+  overflow: hidden;
+  width: 100%;
+}
+
+.logo-track {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 60px;
+  will-change: transform;
+}
+
+#logoTrack img {
+  flex-shrink: 0;
+}
+
+#logoContainer {
+  overflow: hidden;
+  position: relative;
+  white-space: nowrap;
+}
+
+#logoTrack,
+#logoTrackClone {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+
+.logo-track img:hover {
+  transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .logo-track img {
+    height: 40px;
+    gap: 30px;
+  }
+} */
+
+.logo-slider {
+  overflow: hidden;
+  position: relative;
+  white-space: nowrap;
+}
+
+.logo-track, .logo-track-clone {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  gap: 60px;
+  will-change: transform;
+}
+
+.logo-track img {
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .logo-track img {
+    height: 40px;
+    gap: 30px;
+  }
+} */
+
+
+
+
+
+
+
+
