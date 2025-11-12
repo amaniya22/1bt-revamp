@@ -103,8 +103,10 @@
     <a name="why-1billiontech"></a>
     <section id="" class="black-section">
       <div class="container">
-        <header class="text-center margin-bottom-60 section-title">
-          <h1>ABOUT 1 BILLION TECH</h1>
+        <header class="text-center section-titles section-title margin-bottom-40">
+          <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">ABOUT
+            <span class="text-yellow"> 1 BILLION TECH </span>
+          </h1>
         </header>
         <div class="row">
           <img src="assets/images/1bt-team.jpg" alt="" width="100%" class="margin-bottom-40"> </div>
@@ -143,8 +145,10 @@
     <a name="bod"></a>
     <section id=""  class="black-section bod-section">
       <div class="container">
-        <header class="text-center margin-bottom-60 section-title">
-          <h1>BOARD OF DIRECTORS</h1>
+        <header class="text-center section-titles section-title margin-bottom-60">
+          <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">BOARD OF
+            <span class="text-yellow"> DIRECTORS </span>
+          </h1>
         </header>
         <div class="row">
 
@@ -197,9 +201,11 @@
   <a name="leadership"></a>
   <section id=""  class="black-section leadership-section">
     <div class="container">
-      <header class="text-center margin-bottom-60 section-title">
-        <h1>LEADERSHIP TEAM</h1>
-      </header>
+        <header class="text-center section-titles section-title margin-bottom-60">
+          <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">LEADERSHIP 
+            <span class="text-yellow"> TEAM </span>
+          </h1>
+        </header>
       <div class="row">
 
         <div class="col-md-4 col-sm-6 col-xs-12">
@@ -419,9 +425,11 @@
   <a name="offices"></a>
   <section class="black-section">
     <div class="container">
-      <header class="text-center margin-bottom-60 section-title">
-        <h1>OUR OFFICES</h1>
-      </header>
+        <header class="text-center section-titles section-title margin-bottom-60">
+          <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">OUR 
+            <span class="text-yellow"> OFFICES </span>
+          </h1>
+        </header>
 
       <div class="col-md-4">
 
