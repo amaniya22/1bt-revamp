@@ -215,7 +215,7 @@
             <div class="border-bottom">
               <a href="product_incubation.php">
                 <figure class="margin-bottom-30">
-                  <img class="img-responsive" src="assets/images/ai-main.png" alt="service">
+                  <img class="img-responsive" src="assets/images/ai-main.webp" alt="service">
                 </figure>
 
                 <h4 class="margin-bottom-20">AI Driven Product Incubation</h4>
@@ -231,7 +231,7 @@
             <div class="border-bottom">
               <a href="CRM_services.php">
                 <figure class="margin-bottom-30">
-                  <img class="img-responsive" src="assets/images/crm.png" alt="service">
+                  <img class="img-responsive" src="assets/images/crm.webp" alt="service">
                 </figure>
 
                 <h4 class="margin-bottom-20">Microsoft D365</h4> 
@@ -247,7 +247,7 @@
             <div class="border-bottom">
               <a href="cloud_services.php">
                 <figure class="margin-bottom-30">
-                  <img class="img-responsive" src="assets/images/cloud_services.png" alt="service">
+                  <img class="img-responsive" src="assets/images/cloud_services.webp" alt="service">
                 </figure>
 
                 <h4 class="margin-bottom-20">Cloud Services</h4> 
@@ -340,7 +340,7 @@
                        
                         <div class="card-content">
                             <div class="profile-header">
-                                <div class="profile-icon"> <img src="assets/images/client-icon.png" alt="icon" class="icon"></div> 
+                                <div class="profile-icon"> <img src="assets/images/client-icon.webp" alt="icon" class="icon"></div> 
                                 <div class="profile-info">
                                     <p class="name">Shaneel Pathak</p>
                                     <p class="title">CEO and Cofounder, ZoeInsights</p>
@@ -351,7 +351,7 @@
                             </p>
                         </div>
                         <div class="image-overlap-area">
-                            <img src="assets/images/Shaneel.png" alt="Shaneel Pathak" class="profile-image">
+                            <img src="assets/images/Shaneel.webp" alt="Shaneel Pathak" class="profile-image">
                         </div>
 
                     </div>
@@ -372,7 +372,7 @@
                             They came up with design recommendations that were creative, inspiring and really got us thinking! Building a product from scratch and entrusting it to 1 Billion Tech has been the best decision we made.                        </div>
 
                         <div class="image-overlap-area">
-                            <img src="assets/images/Deepa.png" alt="Jane Doe" class="profile-image">
+                            <img src="assets/images/Deepa.webp" alt="Jane Doe" class="profile-image">
                         </div>
 
                     </div>
@@ -403,7 +403,7 @@
                     </figure> -->
                     <a href="https://www.youtube.com/watch?v=vIUIj80at4E&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=2" target="_blank">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast1.png" alt="img" >
+                <img class="img-responsive" src="assets/images/podcast1.webp" alt="img" >
               </figure>
             </a>
           </div>
@@ -413,7 +413,7 @@
           <div class="blog-post-item col-md-4 col-sm-6">
           <a href="https://www.youtube.com/watch?v=Wf7vDVz9Tvo&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=1" target="_blank">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast2.png" alt="img">
+                <img class="img-responsive" src="assets/images/podcast2.webp" alt="img">
               </figure>
             </a>
           </div>
@@ -422,7 +422,7 @@
           <div class="blog-post-item col-md-4 col-sm-6">
           <a href="https://www.youtube.com/watch?v=-ijBw5Mz5nE&list=PLyf5MDnlR2xDSjEv0HWwhs7XtB32L8kOa&index=3" target="_blank">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/podcast3.png" alt="img">
+                <img class="img-responsive" src="assets/images/podcast3.webp" alt="img">
               </figure>
             </a>
                     </div>
@@ -486,7 +486,7 @@
             <div class="box-image text-left">
 
               <a href="case_study_ideapoint.php">
-                <img class="img-responsive" src="assets/images/ideapoint-casestudy.jpg" alt="img">
+                <img class="img-responsive" src="assets/images/ideapoint-casestudy.webp" alt="img">
               </a>
 
               <a href="case_study_ideapoint.php" class="box-image-title">
@@ -505,7 +505,7 @@
             <div class="box-image text-left">
 
               <a href="case_study_millionspaces.php">
-                <img class="img-responsive" src="assets/images/ms-casestudy.png" alt="icon">
+                <img class="img-responsive" src="assets/images/ms-casestudy.webp" alt="icon">
               </a>
 
               <a href="case_study_millionspaces.php" class="box-image-title">
@@ -541,7 +541,7 @@
           <div id="highlightSlidesContainer" class="owl-carousel owl-padding-10 buttons-autohide controlls-over slides-container" data-plugin-options='{"singleItem": true, "items":"1", "autoPlay": true, "navigation": false, "pagination": false}'>
             <div class="img-hover mr-10 slide-item">
               <div class="text-right">
-                <img class="img-responsive" src="assets/images/highlights-img-1.png" alt="icon" width="60%">
+                <img class="img-responsive" src="assets/images/highlights-img-1.webp" alt="icon" width="60%">
               </div>
 
               <div class="text-left margin-top-20 highlights">

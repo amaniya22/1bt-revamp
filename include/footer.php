@@ -76,7 +76,7 @@
         </header> -->
 
         <div class="text-center">
-          <img src="assets/images/Map.jpg" style="max-width: 90%" class="img-responsive">
+          <img src="assets/images/Map.webp" style="max-width: 90%" class="img-responsive">
         </div>
 
       </div>
