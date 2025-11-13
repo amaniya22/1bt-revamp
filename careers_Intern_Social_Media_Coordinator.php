@@ -129,9 +129,8 @@
         </div>
       </div>
     </section><!-- /SLIDER -->
-    <section class="page-header page-header-xs">
+    <!-- <section class="page-header page-header-xs">
       <div class="container">
-        <!-- breadcrumbs -->
         <ol class="breadcrumb breadcrumb-inverse">
           <li>
             <a href="index.php">Home</a>
@@ -140,9 +139,9 @@
             <a href="Careers.php">Careers</a>
           </li>
           <li class="active">Intern - Social Media Coordinator</li>
-        </ol><!-- /breadcrumbs -->
+        </ol>
       </div>
-    </section>
+    </section> -->
     <section id="portfolio" class="nopadding-bottom black-section">
       <div class="container">
         <div class="row">

@@ -179,13 +179,9 @@
 
     <!-- /SLIDER -->
 
-    <section class="page-header page-header-xs">
+    <!-- <section class="page-header page-header-xs">
 
       <div class="container">
-
-
-
-        <!-- breadcrumbs -->
 
         <ol class="breadcrumb breadcrumb-inverse">
 
@@ -199,11 +195,9 @@
 
         </ol>
 
-        <!-- /breadcrumbs -->
-
       </div>
 
-    </section>
+    </section> -->
 
     <section id="about" class="alternate" style="border-bottom: none">
 

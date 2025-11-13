@@ -109,7 +109,7 @@
           </h1>
         </header>
         <div class="row">
-          <img src="assets/images/1bt-team.jpg" alt="" width="100%" class="margin-bottom-40"> </div>
+          <img src="assets/images/1bt-team.png" alt="" width="100%" class="margin-bottom-40"> </div>
           <div class="col-lg-6 col-md-12">
             <p>1 Billion Tech is a Silicon Valley–headquartered software engineering and technology 
               consulting company empowering organizations to achieve digital transformation with 
