@@ -439,7 +439,7 @@
 
           <a class="box-image-title" href="#">
             <h2>1 Billion Tech Inc.
-              <br> 22 Sunnyhill Rd., Emerald Hills, CA 94062-3948
+              <br> 3600 136th PL SE, Suite 300, Bellevue, WA 98006, USA
 </h2>
           </a>
 

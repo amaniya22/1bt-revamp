@@ -30,7 +30,7 @@
           <div style="padding-bottom: 10px">
               <p class="footer-contact-text">
                 <span class="weight-700">United States (Headquarters)</span><br />
-                22 Sunnyhill Rd., Emerald Hills,<br/> CA 94062-3948 (USA)
+                3600 136th PL SE, Suite 300, Bellevue, WA 98006, USA
                 
               </p>
               <p class="footer-contact-text">
