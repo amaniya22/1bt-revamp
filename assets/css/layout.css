@@ -10152,6 +10152,24 @@ footer.sticky {
 	color: #000000 !important;
 }
 
+.services-white-section.ai-consult-footer-section .section-title-h1 {
+  font-size: 65px;
+  line-height: normal;
+}
+
+.services-white-section.ai-consult-footer-section p {
+  font-family: "Graphik", sans-serif !important;
+  font-size: 19px;
+	color: #000000 !important;
+  text-align: center;
+  width: 75%;
+  margin: auto;
+}
+
+.services-white-section.ai-consult-footer-section .footer-btn-red {
+  
+}
+
 .box-icon.business-consulting-box-icon {
   height: 400px;
 }

@@ -213,6 +213,22 @@
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-4 ">
             <div class="border-bottom">
+              <a href="ai_consulting.php">
+                <figure class="margin-bottom-30">
+                  <img class="img-responsive" src="assets/images/ai-consulting.png" alt="service">
+                </figure>
+
+                <h4 class="margin-bottom-20">AI Consulting</h4>
+                <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
+                </span>
+
+                <p class="nomargin-bottom-p">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-sm-4 ">
+            <div class="border-bottom">
               <a href="product_incubation.php">
                 <figure class="margin-bottom-30">
                   <img class="img-responsive" src="assets/images/ai-main.webp" alt="service">
@@ -239,23 +255,6 @@
               </span>
 
                 <p class="nomargin-bottom-p">Drive deeper customer engagement with cutting-edge Microsoft D365 solutions spanning CE, BC, and F&O.</p>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-sm-4">
-            <div class="border-bottom">
-              <a href="cloud_services.php">
-                <figure class="margin-bottom-30">
-                  <img class="img-responsive" src="assets/images/cloud_services.webp" alt="service">
-                </figure>
-
-                <h4 class="margin-bottom-20">Cloud Services</h4> 
-                <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
-              </span>
-
-                <p class="nomargin-bottom-p">Accelerate your cloud initiatives utilizing best-in-class technologies.</p>
-
               </a>
             </div>
           </div>
