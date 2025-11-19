@@ -157,8 +157,8 @@
     
         <div class="col-lg-12 col-md-12 col-sm-12">
         <header class="text-center section-titles">
-          <h1 class="text-white wow fadeInUp text-uppercase" data-wow-delay="0.4s">AI Driven
-          <span class="text-yellow text-uppercase"> Product Incubation</span>
+          <h1 class="text-white wow fadeInUp text-uppercase" data-wow-delay="0.4s">The 
+          <span class="text-yellow text-uppercase"> VelocentAI</span> Framework
           </h1>
           <p><strong>"VelocentAI doesn't just build software &mdash; it builds momentum.&rdquo;</strong></p>
 
