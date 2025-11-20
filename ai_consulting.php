@@ -195,7 +195,7 @@
 
     </section> -->
 
-    <section class="black-section">
+    <section class="black-section ai-consult-services ai-consult-services-title-sec margin-bottom-0">
       <div class="container">
         <header class="text-center section-titles section-title">
           <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">AI 
@@ -205,7 +205,7 @@
       </div>
     </section>
 
-    <section class="black-section">
+    <section class="black-section ai-consult-services ai-consult-services-sec2">
 
       <div class="container">
 
@@ -234,11 +234,11 @@
 
     <a name="ai strategy"></a>
 
-    <section class="black-section">
+    <section class="black-section ai-consult-services">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
           <div>
-            <header class="margin-bottom-10 section-title">
+            <header class="margin-bottom-20 section-title">
               <h1>AI Strategy & Program Development Consulting</h1>
             </header>
             <p>Navigating the AI landscape requires a clear, forward-looking roadmap. 
@@ -249,14 +249,14 @@
 
           <div>
             <ul class="list-unstyled list-icons">
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Strategic Roadmap Creation:</span> Identifying high-value AI applications and potential technological evolutions to create an adaptable integration plan.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Strategic Roadmap Creation:</span> Identifying high-value AI applications and potential technological evolutions to create an adaptable integration plan.
               </li>
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Feasibility and Impact Assessment:</span> Evaluating AI opportunities across your organization to ensure genuine business transformation, not just technological adoption.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Feasibility and Impact Assessment:</span> Evaluating AI opportunities across your organization to ensure genuine business transformation, not just technological adoption.
               </li>
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Ethical AI Governance:</span> Establishing frameworks for responsible, compliant, and unbiased AI usage across your enterprise.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Ethical AI Governance:</span> Establishing frameworks for responsible, compliant, and unbiased AI usage across your enterprise.
               </li>
             </ul>
           </div>
@@ -269,14 +269,14 @@
 
     <a name="ai audits"></a>
 
-    <section class="black-section">
+    <section class="black-section ai-consult-services">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
           <img class="img-responsive" src="assets/images/serviceicons/ai-consulting-sec-img.png" alt="">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
           <div>
-            <header class="margin-bottom-10 section-title">
+            <header class="margin-bottom-20 section-title">
               <h1>AI Audits & Operational Optimization</h1>
             </header>
             <p>Understand your current digital ecosystem and identify precise opportunities for 
@@ -287,14 +287,14 @@
 
           <div>
             <ul class="list-unstyled list-icons">
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Process Automation Identification:</span> Meticulously examining business workflows to pinpoint prime areas where AI integration can streamline operations and increase efficiency.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Process Automation Identification:</span> Meticulously examining business workflows to pinpoint prime areas where AI integration can streamline operations and increase efficiency.
               </li>
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Technology Stack Assessment:</span> Reviewing your existing infrastructure to ensure readiness and compatibility with cutting-edge AI technologies.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Technology Stack Assessment:</span> Reviewing your existing infrastructure to ensure readiness and compatibility with cutting-edge AI technologies.
               </li>
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Continuous Improvement Planning:</span> Providing post-audit refinement and updates to ensure your solutions remain optimized as AI technology rapidly evolves.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Continuous Improvement Planning:</span> Providing post-audit refinement and updates to ensure your solutions remain optimized as AI technology rapidly evolves.
               </li>
             </ul>
           </div>
@@ -302,13 +302,46 @@
       </div>
     </section>
 
-    <a name="ai audits"></a>
+    <a name="ai readiness"></a>
 
-    <section class="black-section">
+    <section class="black-section ai-consult-services">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
           <div>
-            <header class="margin-bottom-10 section-title">
+            <header class="margin-bottom-40 section-title">
+              <h1>AI Readiness Assessment</h1>
+            </header>
+            <p>Understanding your organization’s readiness for AI adoption is crucial before 
+              embarking on any AI transformation journey. At 1BT, we conduct a comprehensive AI 
+              Readiness Assessment to evaluate your business processes, data landscape, technical 
+              capabilities, and team preparedness.
+              <br>
+              <br>
+              Our team analyzes how your operations currently run and identifies where AI can add 
+              the most value—whether it's automating repetitive tasks, solving existing business 
+              challenges, or unlocking new opportunities to drive measurable ROI. We highlight quick 
+              wins, potential risks, and long-term strategic priorities tailored to your unique 
+              context.
+              <br>
+              <br>
+              This assessment is offered as part of our AI Consulting service, ensuring you receive 
+              a clear, actionable roadmap to confidently move forward in your AI journey.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
+          <img class="img-responsive" src="assets/images/serviceicons/ai-consulting-sec-img.png" alt="">
+        </div>
+      </div>
+    </section>
+
+    <a name="ai audits"></a>
+
+    <section class="black-section ai-consult-services">
+      <div class="container">
+        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
+          <div>
+            <header class="margin-bottom-20 section-title">
               <h1>Custom AI Product Development</h1>
             </header>
             <p>We specialize in crafting bespoke AI solutions meticulously tailored to solve your 
@@ -321,14 +354,14 @@
 
           <div>
             <ul class="list-unstyled list-icons">
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">AI App Development:</span> Expert guidance in building functional, user-centric applications powered by large language models and generative AI.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">AI App Development:</span> Expert guidance in building functional, user-centric applications powered by large language models and generative AI.
               </li>
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Workflow Automation & AI Agents:</span> Implementing intelligent agents and automation to handle routine tasks, freeing up human capital for strategic work.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Workflow Automation & AI Agents:</span> Implementing intelligent agents and automation to handle routine tasks, freeing up human capital for strategic work.
               </li>
-              <li>
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-500">Operational Efficiency Tools:</span> Custom-built machine learning solutions for forecasting, resource management, predictive maintenance, and data analysis.
+              <li class="margin-bottom-15">
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Operational Efficiency Tools:</span> Custom-built machine learning solutions for forecasting, resource management, predictive maintenance, and data analysis.
               </li>
             </ul>
           </div>
@@ -356,148 +389,6 @@
         </div>
       </div>
     </section>
-
-
-
-    <section style="background-image: url(&quot;assets/images/casestudy-bg.jpg&quot;); background-position: 50% 93px;">
-
-
-
-      <div class="container-fluid">
-
-        <header class="text-center section-title">
-
-          <h2 class="tex-white">LET OUR WORK SPEAK FOR ITSELF </h2>
-
-          <h1 class="tex-white">CASE STUDIES</h1>
-
-        </header>
-
-
-
-        <div class="row">
-
-
-
-          <div class="col-md-3">
-
-
-
-            <div class="box-image text-center">
-
-              <a href="case_study_Ops_integration.php">
-
-                <img class="img-responsive" src="assets/images/ebecs-casestudy.jpg" alt="">
-
-              </a>
-
-
-
-              <a class="box-image-title" href="case_study_Ops_integration.php">
-
-                <h2 class="tex-white">Ops integration</h2>
-
-              </a>
-
-            </div>
-
-
-
-          </div>
-
-          <div class="col-md-3">
-
-
-
-            <div class="box-image text-center">
-
-              <a href="case_study_eBECS_Field_service_feature.php">
-
-                <img class="img-responsive" src="assets/images/eBecs_FieldService.jpg" alt="">
-
-              </a>
-
-
-
-              <a class="box-image-title" href="case_study_eBECS_Field_service_feature.php">
-
-                <h2 class="tex-white">Field services enhancement</h2>
-
-              </a>
-
-            </div>
-
-
-
-          </div>
-
-          <div class="col-md-3">
-
-
-
-            <div class="box-image text-center">
-
-              <a href="case_study_eBECS_project_service_accelerator.php">
-
-                <img class="img-responsive" src="assets/images/eBecs_projectServiceAccelerator.jpg" alt="">
-
-              </a>
-
-
-
-              <a class="box-image-title" href="case_study_eBECS_project_service_accelerator.php">
-
-                <h2 class="tex-white">Project services accelerator</h2>
-
-              </a>
-
-
-
-            </div>
-
-
-
-          </div>
-
-          <div class="col-md-3">
-
-
-
-            <div class="box-image text-center">
-
-              <a href="case_study_Interrelate.php">
-
-                <img class="img-responsive" src="assets/images/interelate-casestudy.jpg" alt="">
-
-              </a>
-
-
-
-              <a class="box-image-title" href="case_study_Interrelate.php">
-
-                <h2 class="tex-white">Microsoft D365 platform migration</h2>
-
-              </a>
-
-
-
-            </div>
-
-
-
-          </div>
-
-
-
-        </div>
-
-
-
-      </div>
-
-    </section>
-
-
 
     
 

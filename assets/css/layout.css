@@ -10154,7 +10154,8 @@ footer.sticky {
 
 .services-white-section.ai-consult-footer-section .section-title-h1 {
   font-size: 65px;
-  line-height: normal;
+  line-height: 71px;
+  letter-spacing: -1px;
 }
 
 .services-white-section.ai-consult-footer-section p {
@@ -10166,8 +10167,21 @@ footer.sticky {
   margin: auto;
 }
 
-.services-white-section.ai-consult-footer-section .footer-btn-red {
-  
+.ai-consult-services .section-title h1 {
+  line-height: 40px;
+}
+
+.ai-consult-services p, 
+.ai-consult-services ul > li {
+  line-height: 25px;
+}
+
+.ai-consult-services-title-sec {
+  padding-bottom: 20px;
+}
+
+.ai-consult-services-sec2 {
+  padding-top: 0;
 }
 
 .box-icon.business-consulting-box-icon {
