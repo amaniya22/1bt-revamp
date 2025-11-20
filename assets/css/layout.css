@@ -10263,48 +10263,6 @@ footer.sticky {
   padding: 0 30px;
 }
 
-/* .logo-slider {
-  overflow: hidden;
-  width: 100%;
-}
-
-.logo-track {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: center;
-  gap: 60px;
-  will-change: transform;
-}
-
-#logoTrack img {
-  flex-shrink: 0;
-}
-
-#logoContainer {
-  overflow: hidden;
-  position: relative;
-  white-space: nowrap;
-}
-
-#logoTrack,
-#logoTrackClone {
-  display: inline-flex;
-  align-items: center;
-  white-space: nowrap;
-}
-
-
-.logo-track img:hover {
-  transform: scale(1.1);
-}
-
-@media (max-width: 768px) {
-  .logo-track img {
-    height: 40px;
-    gap: 30px;
-  }
-} */
-
 .logo-slider {
   overflow: hidden;
   position: relative;
@@ -10331,7 +10289,16 @@ footer.sticky {
 } */
 
 
-
+/* People and culture section */
+.black-section .pnc-tabs {
+  align-items: center;
+  background-color: #181F25;
+  border-radius: 10px;
+  display: flex;
+  margin: auto;
+  padding: 14px 80px;
+  width: max-content;
+}
 
 
 

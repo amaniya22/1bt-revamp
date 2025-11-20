@@ -120,7 +120,7 @@
             <a href="aboutus.php#leadership">Leadership team</a>
           </li>
           <li>
-            <a href="careers.php">Careers</a>
+            <a href="people_and_culture.php?page=careers">Careers</a>
           </li>
         </div>
         <div>
@@ -130,9 +130,9 @@
           <li>
             <a href="case_studies.php">case studies</a>
           </li>
-          <!-- <li>
-            <a href="case_studies.php">People & Culture</a>
-          </li> -->
+          <li>
+            <a href="people_and_culture.php?page=life_at_1bt">People & Culture</a>
+          </li>
         </div>
       </ul>
       <!-- /Links -->
