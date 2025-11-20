@@ -262,7 +262,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <img class="img-responsive" src="assets/images/serviceicons/ai-consulting-sec-img.png" alt="">
+          <img class="img-responsive" src="assets/images/ai-consulting1.webp" alt="">
         </div>
       </div>
     </section>
@@ -272,7 +272,7 @@
     <section class="black-section ai-consult-services">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <img class="img-responsive" src="assets/images/serviceicons/ai-consulting-sec-img.png" alt="">
+          <img class="img-responsive" src="assets/images/ai-consulting2.webp" alt="">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
           <div>
@@ -308,7 +308,7 @@
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
           <div>
-            <header class="margin-bottom-40 section-title">
+            <header class="margin-bottom-20 section-title">
               <h1>AI Readiness Assessment</h1>
             </header>
             <p>Understanding your organization’s readiness for AI adoption is crucial before 
@@ -330,7 +330,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <img class="img-responsive" src="assets/images/serviceicons/ai-consulting-sec-img.png" alt="">
+          <img class="img-responsive" src="assets/images/ai-consulting3.webp" alt="">
         </div>
       </div>
     </section>
@@ -367,7 +367,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <img class="img-responsive" src="assets/images/serviceicons/ai-consulting-sec-img.png" alt="">
+          <img class="img-responsive" src="assets/images/ai-consulting4.webp" alt="">
         </div>
       </div>
     </section>
