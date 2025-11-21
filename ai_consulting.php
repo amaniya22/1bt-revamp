@@ -198,7 +198,7 @@
     <section class="black-section ai-consult-services ai-consult-services-title-sec margin-bottom-0">
       <div class="container">
         <header class="text-center section-titles section-title">
-          <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">AI 
+          <h1 class="text-white wow fadeInUp" data-wow-delay="0.4s">AI STRATEGY   
           <span class="text-yellow"> CONSULTING </span>
           </h1>
         </header>
@@ -209,12 +209,12 @@
 
       <div class="container">
 
-        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-15 text-center">
-
-          <p>The future of business is powered by Artificial Intelligence. At 1 Billion Tech, 
-            our AI Consulting services are designed to move you beyond simple adoption to strategic 
-            integration, ensuring AI drives measurable business impact, operational excellence, 
-            and a sustained competitive edge. 
+        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-20 text-center">
+          <p class="weight-700">From Strategic Vision to Tangible Value</p>
+          <p>The future of business is powered by Artificial Intelligence. 
+            At 1 Billion Tech, our AI Consulting services are designed to move you beyond simple 
+            adoption to strategic integration, ensuring AI drives measurable business impact, 
+            operational excellence, and a sustained competitive edge. 
           </p>
 
         </div>
@@ -223,7 +223,7 @@
           <p class="weight-700">Our Core AI Consulting Services</p>
 
           <p>We offer a comprehensive suite of services to guide your AI journey, 
-            from initial strategy to custom product development and optimization. 
+            from initial strategy to custom product development and optimization.
           </p>
 
         </div>
@@ -277,11 +277,28 @@
         <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
           <div>
             <header class="margin-bottom-20 section-title">
-              <h1>AI Audits & Operational Optimization</h1>
+              <h1>AI Readiness Audits & Operational Optimization</h1>
             </header>
-            <p>Understand your current digital ecosystem and identify precise opportunities for 
-              automation and enhancement. Our AI Audits provide the insights needed to make 
-              intelligent, data-driven decisions.
+            <p>Understanding your organization’s readiness for AI adoption is crucial before 
+              embarking on any AI transformation journey. At 1BT, we conduct a comprehensive 
+              AI Readiness Audit to evaluate your business processes, data landscape, 
+              technical capabilities, and team preparedness.
+            </p>
+            <br>
+            <br>
+            <p>
+              Our team analyzes how your operations currently run and identifies where AI can 
+              add the most value whether it's automating repetitive tasks, solving existing 
+              business challenges, or unlocking new opportunities to drive measurable ROI. 
+              We highlight quick wins, potential risks, and long-term strategic priorities 
+              tailored to your unique context.
+            </p>
+            <br>
+            <br>
+            <p>
+              This assessment is offered as part of our AI Consulting service, 
+              ensuring you receive a clear, actionable roadmap to confidently move forward in 
+              your AI journey.
             </p>
           </div>
 
@@ -302,39 +319,6 @@
       </div>
     </section>
 
-    <a name="ai readiness"></a>
-
-    <section class="black-section ai-consult-services">
-      <div class="container">
-        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <div>
-            <header class="margin-bottom-20 section-title">
-              <h1>AI Readiness Assessment</h1>
-            </header>
-            <p>Understanding your organization’s readiness for AI adoption is crucial before 
-              embarking on any AI transformation journey. At 1BT, we conduct a comprehensive AI 
-              Readiness Assessment to evaluate your business processes, data landscape, technical 
-              capabilities, and team preparedness.
-              <br>
-              <br>
-              Our team analyzes how your operations currently run and identifies where AI can add 
-              the most value—whether it's automating repetitive tasks, solving existing business 
-              challenges, or unlocking new opportunities to drive measurable ROI. We highlight quick 
-              wins, potential risks, and long-term strategic priorities tailored to your unique 
-              context.
-              <br>
-              <br>
-              This assessment is offered as part of our AI Consulting service, ensuring you receive 
-              a clear, actionable roadmap to confidently move forward in your AI journey.
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <img class="img-responsive" src="assets/images/ai-consulting3.webp" alt="">
-        </div>
-      </div>
-    </section>
-
     <a name="ai audits"></a>
 
     <section class="black-section ai-consult-services">
@@ -344,21 +328,23 @@
             <header class="margin-bottom-20 section-title">
               <h1>Custom AI Product Development</h1>
             </header>
-            <p>We specialize in crafting bespoke AI solutions meticulously tailored to solve your 
-              unique business challenges, from process optimization to next-generation customer 
-              engagement tools. We determine the right technology whether 
-              it's advanced Generative AI, traditional machine learning, or operational refinements 
-              to deliver superior results.
+            <p>
+              We specialize in crafting bespoke AI solutions meticulously tailored to solve 
+              your unique business challenges, from process optimization to next-generation 
+              customer engagement tools. We determine the right technology whether it's advanced 
+              Generative AI, traditional machine learning, or operational refinements to deliver 
+              superior results.
             </p>
           </div>
 
           <div>
             <ul class="list-unstyled list-icons">
+              <p class="weight-600">Key Development Areas:</p>
               <li class="margin-bottom-15">
                 <i class="fa fa-angle-double-right"></i>  <span class="weight-600">AI App Development:</span> Expert guidance in building functional, user-centric applications powered by large language models and generative AI.
               </li>
               <li class="margin-bottom-15">
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Workflow Automation & AI Agents:</span> Implementing intelligent agents and automation to handle routine tasks, freeing up human capital for strategic work.
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Workflow Automation & AI Agents:</span>  Implementing intelligent agents and automation to handle routine tasks, freeing up human capital for strategic work.
               </li>
               <li class="margin-bottom-15">
                 <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Operational Efficiency Tools:</span> Custom-built machine learning solutions for forecasting, resource management, predictive maintenance, and data analysis.
@@ -381,7 +367,7 @@
         <p>
           Our expert team is prepared to guide you through the vast landscape of artificial 
           intelligence. Contact 1BT today to book a consultation and take the first step toward 
-          becoming an AI-driven leader in your industry. 
+          becoming an AI-driven leader in your industry.
         </p>
 
         <div class="text-center">
