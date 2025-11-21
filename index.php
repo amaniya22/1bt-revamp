@@ -208,7 +208,7 @@
               </div>
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <!-- <p class="slider-content" style="visibilit: hidden">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p> -->
-                <button class="slider-content-btn" onclick='window.open("ai_consulting.php")'>Read More</button>
+                <button class="slider-content-btn" onclick='window.open("data_analytics_and_ai.php")'>Read More</button>
               </div>
             </div>
           </div>
