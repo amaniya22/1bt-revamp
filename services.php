@@ -135,7 +135,7 @@
           <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
             <a href="CRM_services.php">
               <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/crm.webp" alt="service">
+                <img class="img-responsive" src="assets/images/crm.png" alt="service">
               </figure>
 
               <h4 class="nomargin-bottom">Microsoft D365<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
