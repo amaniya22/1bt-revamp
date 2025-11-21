@@ -42,11 +42,18 @@
       <!-- /Top Nav -->
     </div>
 
+    <section class="black-section ai-consult-services ai-consult-services-title-sec margin-bottom-0">
+      <div class="container">
+        <header class="text-center section-titles section-title">
+          <h1 class="text-white" data-wow-delay="0.4s">BOOK A   
+          <span class="text-yellow"> CONSULTATION </span>
+          </h1>
+        </header>
+      </div>
+    </section>
+
     <section id="consultation-form" class="black-section">
         <div class="container">
-            <header class="text-center margin-bottom-60 section-title">
-                <h1>BOOK A CONSULTATION</h1>
-            </header>
             <form id="consultationForm" action="php/bookconsultation.php" method="POST" class="consultation-form">
                 <div id="formMessage" class="col-lg-12 form-consent-section margin-bottom-20"></div>
                 <div class="col-lg-12 margin-bottom-40">

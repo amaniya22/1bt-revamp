@@ -87,7 +87,7 @@
                 <img class="img-responsive" src="assets/images/ai-main.jpg" alt="service">
               </figure>
 
-              <h4 class="nomargin-bottom">AI Driven Product Incubation <i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
+              <h4 class="nomargin-bottom">Accelerated Software Engineering <i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
 
               <p class="nomargin-bottom-p">Leverage our AI based 90 MVP offering to bring your concept to life</p>
             </a>

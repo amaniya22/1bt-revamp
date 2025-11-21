@@ -113,7 +113,7 @@
               <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">AI-Driven</span> <span class="slider-2-title-l-red">Product</span> Incubation
+                    <span class="slider-title-red">Accelerated</span> <span class="slider-2-title-l-red">Software </span> Engineering
                   <p>
                   <p class="slider-subtitle text-wrap">Achieve up to a 40% acceleration in time to market.<p>
                 </div>
@@ -169,10 +169,56 @@
             </div>
           </div>
         </div>
+
+        <div class="slide-main">
+          <div class="slide slide-row">
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">AI Strategy </span>Consulting
+                  <p>
+                  <p class="slider-subtitle">From Strategic Vision<br> to Tangible Value<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
+                <p class="slider-content">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p>
+                <button class="slider-content-btn" onclick='window.open("ai_consulting.php")'>Start Your AI Journey today</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide-main">
+          <div class="slide slide-row">
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">Data Analytics </span>and AI
+                  <p>
+                  <p class="slider-subtitle">Turning Data into<br> Intelligent Action<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
+                <!-- <p class="slider-content" style="visibilit: hidden">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p> -->
+                <button class="slider-content-btn" onclick='window.open("ai_consulting.php")'>Read More</button>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <!-- Navigation dots -->
       <div class="dots-container">
+        <span class="dot"></span>
+        <span class="dot"></span>
         <span class="dot"></span>
         <span class="dot"></span>
         <span class="dot"></span>
@@ -218,7 +264,7 @@
                   <img class="img-responsive" src="assets/images/ai-consulting.png" alt="service">
                 </figure>
 
-                <h4 class="margin-bottom-20">AI Consulting</h4>
+                <h4 class="margin-bottom-20">AI Strategy Consulting</h4>
                 <!-- <i class="fa fa-chevron-right text-red margin-left-10"></i> -->
                 </span>
 

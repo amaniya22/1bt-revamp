@@ -104,8 +104,8 @@
     <section class="black-section">
       <div class="container">
         <header class="text-center section-titles">
-          <h1 class="text-white wow fadeInUp text-uppercase" data-wow-delay="0.4s">AI Driven
-          <span class="text-yellow text-uppercase"> Product Incubation</span>
+          <h1 class="text-white wow fadeInUp text-uppercase" data-wow-delay="0.4s">Accelerated 
+          <span class="text-yellow text-uppercase"> Software Engineering</span>
           </h1>
         </header>
       </div>
