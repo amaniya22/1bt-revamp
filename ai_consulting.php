@@ -271,11 +271,7 @@
 
     <section class="black-section ai-consult-services">
       <div class="container">
-        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <img class="img-responsive" src="assets/images/ai-consulting2.webp" alt="">
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <div>
+        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-15">
             <header class="margin-bottom-20 section-title">
               <h1>AI Readiness Audits & Operational Optimization</h1>
             </header>
@@ -284,8 +280,9 @@
               AI Readiness Audit to evaluate your business processes, data landscape, 
               technical capabilities, and team preparedness.
             </p>
-            <br>
-            <br>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
+          <div>
             <p>
               Our team analyzes how your operations currently run and identifies where AI can 
               add the most value whether it's automating repetitive tasks, solving existing 
@@ -293,8 +290,6 @@
               We highlight quick wins, potential risks, and long-term strategic priorities 
               tailored to your unique context.
             </p>
-            <br>
-            <br>
             <p>
               This assessment is offered as part of our AI Consulting service, 
               ensuring you receive a clear, actionable roadmap to confidently move forward in 
@@ -315,6 +310,9 @@
               </li>
             </ul>
           </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
+          <img class="img-responsive" src="assets/images/ai-consulting2.webp" alt="">
         </div>
       </div>
     </section>
@@ -338,8 +336,8 @@
           </div>
 
           <div>
+            <p class="weight-600">Key Development Areas:</p>
             <ul class="list-unstyled list-icons">
-              <p class="weight-600">Key Development Areas:</p>
               <li class="margin-bottom-15">
                 <i class="fa fa-angle-double-right"></i>  <span class="weight-600">AI App Development:</span> Expert guidance in building functional, user-centric applications powered by large language models and generative AI.
               </li>

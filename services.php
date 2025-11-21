@@ -75,11 +75,34 @@
       <!-- /Top Nav -->
     </div>
 
+    <section class="black-section padding-bottom-0">
+      <div class="container">
+        <header class="text-center section-titles section-title">
+          <h1 class="text-white" data-wow-delay="0.4s">  
+          <span class="text-yellow"> 1BT  </span>Services
+          </h1>
+        </header>
+      </div>
+    </section>
+
 
     <section class="services-section black-section">
       <div class="container">
 
         <div class="row margin-bottom-70">
+
+          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
+            <a href="ai_consulting.php">
+              <figure class="margin-bottom-30">
+                <img class="img-responsive" src="assets/images/ai-consulting.png" alt="service">
+              </figure>
+
+              <h4 class="nomargin-bottom">AI Strategy Consulting <i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
+
+              <p class="nomargin-bottom-p">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p>
+            </a>
+
+          </div>
 
           <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
             <a href="product_incubation.php">
@@ -95,6 +118,21 @@
           </div>
 
           <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
+            <a href="data_analytics_and_ai.php">
+              <figure class="margin-bottom-30">
+                <img class="img-responsive" src="assets/images/data-analytics-thumb.png" alt="service">
+              </figure>
+
+              <h4 class="nomargin-bottom">Data Analytics and AI<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
+
+              <p class="nomargin-bottom-p">Transforming raw data into real intelligence. Empowering smarter, faster decisions.</p>
+            </a>
+
+          </div>
+        </div>
+
+        <div class="row margin-bottom-70">
+          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
             <a href="CRM_services.php">
               <figure class="margin-bottom-30">
                 <img class="img-responsive" src="assets/images/crm.webp" alt="service">
@@ -108,76 +146,9 @@
           </div>
 
           <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
-            <a href="cloud_services.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/cloud_services.webp" alt="service">
-              </figure>
-
-              <h4 class="nomargin-bottom">Cloud Services<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
-
-              <p class="nomargin-bottom-p">Accelerate your cloud initiatives utilizing best-in-class technologies.</p>
-
-            </a>
-          </div>
-        </div>
-
-        <div class="row margin-bottom-70">
-          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
-            <a href="UI-UX-designing.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/digital.webp" alt="service">
-              </figure>
-
-              <h4 class="nomargin-bottom">UI/UX Designing<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
-
-              <p class="nomargin-bottom-p">Transform your organization into the digital era with end-to-end creative design and technology solutions.</p>
-
-            </a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
-            <a href="business_consulting.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/business-consulting.webp" alt="service">
-              </figure>
-
-              <h4 class="nomargin-bottom">Business Consulting<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
-
-              <p class="nomargin-bottom-p">Accomplish your intended business transformations with our proven consulting best practices.</p>
-
-            </a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
-            <a href="mobility_services.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/mobility.webp" alt="service">
-              </figure>
-
-              <h4 class="nomargin-bottom">Mobility <i class="fa fa-chevron-right text-red margin-left-10"></i></h4>
-
-              <p class="nomargin-bottom-p">Synergy of mobile technology, engagement methodology and system integration to deliver results.</p>
-
-            </a>
-          </div>
-
-        </div>
-
-        <div class="row margin-bottom-70">
-          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
-            <a href="integration_services.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/integration.webp" alt="service">
-              </figure>
-
-              <h4 class="nomargin-bottom">Integration Services<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
-
-              <p class="nomargin-bottom-p">Aggregate data assets from disparate systems into a unified platform.</p>
-
-            </a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
             <a href="managed_services.php">
               <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/managed-services.webp" alt="service">
+                <img class="img-responsive" src="assets/images/managed-services.png" alt="service">
               </figure>
 
               <h4 class="nomargin-bottom">Managed Services<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
@@ -186,15 +157,55 @@
 
             </a>
           </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50">
+
+        </div>
+
+        <section class="black-section">
+          <div class="container">
+            <header class="text-center section-titles section-title">
+              <h1 class="text-white" data-wow-delay="0.4s">  
+              <span class="text-yellow"> Other  </span>Services
+              </h1>
+            </header>
+          </div>
+        </section>
+
+        <div class="row margin-bottom-70 other-services-container">
+          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50 other-services-div text-center">
             <a href="QA_services.php">
-              <figure class="margin-bottom-30">
-                <img class="img-responsive" src="assets/images/qa.webp" alt="service">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/qa-icon.svg" alt="service" width="70px">
               </figure>
 
-              <h4 class="nomargin-bottom">QA<i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
+              <h4 class="nomargin-bottom">QA</h4> 
 
               <p class="nomargin-bottom-p">Fuel world class software delivery through manual and automated testing.</p>
+
+            </a>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50 other-services-div text-center">
+            <a href="UI-UX-designing.php">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/ui-ux-icon.svg" alt="service">
+              </figure>
+
+              <h4 class="nomargin-bottom">UI/UX Designing</h4> 
+
+              <p class="nomargin-bottom-p">Support services for applications, middleware platforms and technologies.</p>
+
+            </a>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50 other-services-div text-center">
+            <a href="cloud_services.php">
+              <figure class="margin-bottom-20">
+                <img class="img-responsive" src="assets/images/cloud-services-icon.svg" alt="service">
+              </figure>
+
+              <h4 class="nomargin-bottom">Cloud Services</h4> 
+
+              <p class="nomargin-bottom-p">Accelerate your cloud initiatives utilizing best-in-class technologies.</p>
 
             </a>
           </div>

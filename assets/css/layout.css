@@ -10300,7 +10300,26 @@ footer.sticky {
   width: max-content;
 }
 
+.other-services-container {
+  display: flex;
+  gap: 30px;
+}
 
+.other-services-div {
+  background-color: #14171E;
+  border-radius: 25px;
+  border: 1.3px solid #1E2433;
+  padding: 33px 44px;
+}
+
+.other-services-div h4 {
+  font-size: 20px;
+}
+
+.other-services-div img.img-responsive {
+
+  width: 70px !important;
+}
 
 
 
