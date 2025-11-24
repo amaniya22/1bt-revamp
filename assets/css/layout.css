@@ -6425,7 +6425,7 @@ section#slider {
 #slider-container .slide .slider-title {
   color: #ffffff !important;
   font-family: "Graphik", sans-serif;
-  font-size: 75px;
+  font-size: 68px;
   font-weight: 600;
   line-height: 100%;
   text-transform: uppercase;
@@ -10309,16 +10309,11 @@ footer.sticky {
   background-color: #14171E;
   border-radius: 25px;
   border: 1.3px solid #1E2433;
-  padding: 33px 44px;
+  padding: 33px 20px;
 }
 
 .other-services-div h4 {
   font-size: 20px;
-}
-
-.other-services-div img.img-responsive {
-
-  width: 70px !important;
 }
 
 

@@ -209,21 +209,18 @@
 
       <div class="container">
 
-        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-20 text-center">
+        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-20 text-justify">
           <p class="weight-700">Turning Data into Intelligent Action</p>
           <p>
-            At <span class="weight-500">1 Billion Tech (1BT)</span>, we architect the fusion of advanced data analytics and 
-            strategic AI to drive <span class="weight-500">predictive insights, operational automation, and business 
-            innovation</span>. Our services modernize your data landscape, establish trust, 
-            and build an intelligence layer that informs every critical decision, 
-            guaranteeing measurable ROI. 
+            At <span class="weight-500">1 Billion Tech (1BT)</span>, we architect the fusion of advanced data analytics 
+            and strategic AI to drive <span class="weight-500">predictive insights, operational automation, 
+            and business innovation</span>. Our services modernize your data landscape, establish trust, 
+            and build an intelligence layer that informs every critical decision, guaranteeing measurable ROI.
           </p>
 
         </div>
 
-        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-15 text-center">
-          <p class="weight-700">Our Core Pillars: Data and AI Services</p>
-
+        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-15 text-justify">
           <p>
             We offer an end-to-end framework to guide your organization through the data lifecycle, 
             from cloud infrastructure to real-time insights.

@@ -209,17 +209,17 @@
 
       <div class="container">
 
-        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-20 text-center">
+        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-20 text-justify">
           <p class="weight-700">From Strategic Vision to Tangible Value</p>
           <p>The future of business is powered by Artificial Intelligence. 
-            At 1 Billion Tech, our AI Consulting services are designed to move you beyond simple 
-            adoption to strategic integration, ensuring AI drives measurable business impact, 
+            At 1 Billion Tech, our AI Consulting services are designed to move you 
+            beyond simple adoption to strategic integration, ensuring AI drives measurable business impact, 
             operational excellence, and a sustained competitive edge. 
           </p>
 
         </div>
 
-        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-15 text-center">
+        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-15 text-justify">
           <p class="weight-700">Our Core AI Consulting Services</p>
 
           <p>We offer a comprehensive suite of services to guide your AI journey, 
@@ -250,10 +250,10 @@
           <div>
             <ul class="list-unstyled list-icons">
               <li class="margin-bottom-15">
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Strategic Roadmap Creation:</span> Identifying high-value AI applications and potential technological evolutions to create an adaptable integration plan.
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Opportunity and Impact Assessment:</span> Evaluating AI opportunities across your organization to ensure genuine business transformation, not just technological adoption.
               </li>
               <li class="margin-bottom-15">
-                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Feasibility and Impact Assessment:</span> Evaluating AI opportunities across your organization to ensure genuine business transformation, not just technological adoption.
+                <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Strategic Roadmap Creation:</span>  Identifying high-value AI applications and potential technological evolutions to create an adaptable integration plan.
               </li>
               <li class="margin-bottom-15">
                 <i class="fa fa-angle-double-right"></i>  <span class="weight-600">Ethical AI Governance:</span> Establishing frameworks for responsible, compliant, and unbiased AI usage across your enterprise.
@@ -271,31 +271,19 @@
 
     <section class="black-section ai-consult-services">
       <div class="container">
-        <div class="col-lg-12 col-md-12 col-sm-12 padding-top-15">
+        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
             <header class="margin-bottom-20 section-title">
               <h1>AI Readiness Audits & Operational Optimization</h1>
             </header>
-            <p>Understanding your organization’s readiness for AI adoption is crucial before 
-              embarking on any AI transformation journey. At 1BT, we conduct a comprehensive 
-              AI Readiness Audit to evaluate your business processes, data landscape, 
-              technical capabilities, and team preparedness.
-            </p>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 padding-top-15">
-          <div>
-            <p>
-              Our team analyzes how your operations currently run and identifies where AI can 
-              add the most value whether it's automating repetitive tasks, solving existing 
-              business challenges, or unlocking new opportunities to drive measurable ROI. 
-              We highlight quick wins, potential risks, and long-term strategic priorities 
-              tailored to your unique context.
+            <p>Understanding your organization’s readiness for AI adoption is crucial before embarking on any AI transformation 
+              journey. At 1BT, we conduct a comprehensive AI Readiness Audit to evaluate your business processes, 
+              data landscape, technical capabilities, and team preparedness.
             </p>
             <p>
               This assessment is offered as part of our AI Consulting service, 
               ensuring you receive a clear, actionable roadmap to confidently move forward in 
               your AI journey.
             </p>
-          </div>
 
           <div>
             <ul class="list-unstyled list-icons">

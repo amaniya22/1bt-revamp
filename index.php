@@ -113,7 +113,7 @@
               <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">Accelerated</span> <span class="slider-2-title-l-red">Software </span> Engineering
+                    <span class="slider-title-red">AI - Accelerated</span> <span class="slider-2-title-l-red">Software </span> Engineering
                   <p>
                   <p class="slider-subtitle text-wrap">Achieve up to a 40% acceleration in time to market.<p>
                 </div>
@@ -121,6 +121,50 @@
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">Leverage our AI-based 90-day MVP program to turn your concept into reality.<br /> <br /> If you’re looking to test new ideas quickly with minimal time and investment, our AI-driven MVP offering is designed for you.</p>
                 <button class="slider-content-btn" onclick='window.open("product_incubation.php")'>Read More</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide-main">
+          <div class="slide slide-row">
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">AI Strategy </span>Consulting
+                  <p>
+                  <p class="slider-subtitle">From Strategic Vision<br> to Tangible Value<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
+                <p class="slider-content">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p>
+                <button class="slider-content-btn" onclick='window.open("ai_consulting.php")'>Start Your AI Journey today</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide-main">
+          <div class="slide slide-row">
+            <div class="video-background">
+              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
+            </div>
+            <div class="slide-text-overlay">
+              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
+                <div class="slider-title-div">
+                  <p class="slider-title">
+                    <span class="slider-title-red">Data Analytics </span>and AI
+                  <p>
+                  <p class="slider-subtitle">Turning Data into<br> Intelligent Action<p>
+                </div>
+              </div>
+              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
+                <p class="slider-content" style="visibilit: hidden">We offer an end-to-end framework to guide your organization through the data lifecycle, from cloud infrastructure to real-time insights.</p>
+                <button class="slider-content-btn" onclick='window.open("data_analytics_and_ai.php")'>Read More</button>
               </div>
             </div>
           </div>
@@ -165,50 +209,6 @@
               <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
                 <p class="slider-content">We offer end-to-end product development services on AWS and Azure, leveraging our expertise to help clients scale and succeed in the cloud.</p>
                 <button class="slider-content-btn" onclick='window.open("cloud_services.php")'>Read More</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="slide-main">
-          <div class="slide slide-row">
-            <div class="video-background">
-              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
-            </div>
-            <div class="slide-text-overlay">
-              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
-                <div class="slider-title-div">
-                  <p class="slider-title">
-                    <span class="slider-title-red">AI Strategy </span>Consulting
-                  <p>
-                  <p class="slider-subtitle">From Strategic Vision<br> to Tangible Value<p>
-                </div>
-              </div>
-              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
-                <p class="slider-content">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p>
-                <button class="slider-content-btn" onclick='window.open("ai_consulting.php")'>Start Your AI Journey today</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="slide-main">
-          <div class="slide slide-row">
-            <div class="video-background">
-              <video allowfullscreen="allowfullscreen" src="./assets/videos/banner-video.mp4" autoplay loop muted playsinline style="max-width: 100%"> </video>
-            </div>
-            <div class="slide-text-overlay">
-              <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
-                <div class="slider-title-div">
-                  <p class="slider-title">
-                    <span class="slider-title-red">Data Analytics </span>and AI
-                  <p>
-                  <p class="slider-subtitle">Turning Data into<br> Intelligent Action<p>
-                </div>
-              </div>
-              <div class="slide-text-div slide-sec-2 col-md-6 col-lg-6 col-sm-12">
-                <!-- <p class="slider-content" style="visibilit: hidden">We guide your AI journey from initial strategy to custom product development, ensuring your enterprise captures real, sustainable value.</p> -->
-                <button class="slider-content-btn" onclick='window.open("data_analytics_and_ai.php")'>Read More</button>
               </div>
             </div>
           </div>

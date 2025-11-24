@@ -110,7 +110,7 @@
                 <img class="img-responsive" src="assets/images/ai-main.jpg" alt="service">
               </figure>
 
-              <h4 class="nomargin-bottom">Accelerated Software Engineering <i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
+              <h4 class="nomargin-bottom">AI - Accelerated Software Engineering <i class="fa fa-chevron-right text-red margin-left-10"></i></h4> 
 
               <p class="nomargin-bottom-p">Leverage our AI based 90 MVP offering to bring your concept to life</p>
             </a>
@@ -172,14 +172,14 @@
 
         <div class="row margin-bottom-70 other-services-container">
           <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50 other-services-div text-center">
-            <a href="QA_services.php">
+            <a href="cloud_services.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/qa-icon.svg" alt="service" width="70px">
+                <img class="img-responsive" src="assets/images/cloud_services.webp" alt="service">
               </figure>
 
-              <h4 class="nomargin-bottom">QA</h4> 
+              <h4 class="nomargin-bottom">Cloud Services</h4> 
 
-              <p class="nomargin-bottom-p">Fuel world class software delivery through manual and automated testing.</p>
+              <p class="nomargin-bottom-p">Accelerate your cloud initiatives utilizing best-in-class technologies.</p>
 
             </a>
           </div>
@@ -187,7 +187,7 @@
           <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50 other-services-div text-center">
             <a href="UI-UX-designing.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/ui-ux-icon.svg" alt="service">
+                <img class="img-responsive" src="assets/images/digital.webp" alt="service">
               </figure>
 
               <h4 class="nomargin-bottom">UI/UX Designing</h4> 
@@ -198,14 +198,14 @@
           </div>
 
           <div class="col-lg-4 col-md-4 col-sm-4 margin-bottom-50 other-services-div text-center">
-            <a href="cloud_services.php">
+            <a href="QA_services.php">
               <figure class="margin-bottom-20">
-                <img class="img-responsive" src="assets/images/cloud-services-icon.svg" alt="service">
+                <img class="img-responsive" src="assets/images/qa.webp" alt="service" width="70px">
               </figure>
 
-              <h4 class="nomargin-bottom">Cloud Services</h4> 
+              <h4 class="nomargin-bottom">QA</h4> 
 
-              <p class="nomargin-bottom-p">Accelerate your cloud initiatives utilizing best-in-class technologies.</p>
+              <p class="nomargin-bottom-p">Fuel world class software delivery through manual and automated testing.</p>
 
             </a>
           </div>
