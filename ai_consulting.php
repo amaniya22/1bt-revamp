@@ -275,11 +275,7 @@
             <header class="margin-bottom-20 section-title">
               <h1>AI Readiness Audits & Operational Optimization</h1>
             </header>
-            <p>Understanding your organization’s readiness for AI adoption is crucial before embarking on any AI transformation 
-              journey. At 1BT, we conduct a comprehensive AI Readiness Audit to evaluate your business processes, 
-              data landscape, technical capabilities, and team preparedness.
-            </p>
-            <p>
+                   <p>
               This assessment is offered as part of our AI Consulting service, 
               ensuring you receive a clear, actionable roadmap to confidently move forward in 
               your AI journey.

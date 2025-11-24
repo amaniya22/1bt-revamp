@@ -113,7 +113,7 @@
               <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">AI - Accelerated</span> <span class="slider-2-title-l-red">Software </span> Engineering
+                    <span class="slider-title-red text-nowrap">AI - Accelerated</span> <span class="slider-2-title-l-red">Software </span> Engineering
                   <p>
                   <p class="slider-subtitle text-wrap">Achieve up to a 40% acceleration in time to market.<p>
                 </div>
