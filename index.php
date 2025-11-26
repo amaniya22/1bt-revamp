@@ -558,7 +558,7 @@
 
               <a href="case_study_millionspaces.php" class="box-image-title">
                 <div>
-                  <h2 class="weight-600">MillionSpMillionSpaces – Redefining Workspace Booking with AI
+                  <h2 class="weight-600">AI-Powered Space Booking Platform
                   </h2>
                   <h5 class="weight-400">Find and book the perfect workspace with MillionSpaces</h5>
                 </div>

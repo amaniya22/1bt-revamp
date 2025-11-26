@@ -84,7 +84,7 @@
           <div class="col-md-8 col-sm-8">
 
             <div class="careers-left">
-              <h1 class="blog-post-title">MillionSpaces – Redefining Workspace Booking with AI</h1>
+              <h1 class="blog-post-title">AI-Powered Space Booking Platform</h1>
               <!-- article content -->
               <div class="margin-bottom-80">
                 <!-- article content -->

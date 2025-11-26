@@ -116,7 +116,7 @@
   </a>
 
   <a href="case_study_millionspaces.php" class="box-image-title">
-    <h2>MillionSpaces – Redefining Workspace Booking with AI</h2>
+    <h2>AI-Powered Space Booking Platform</h2>
   </a>
 
 </div>
