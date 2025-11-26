@@ -227,7 +227,7 @@
 
           </header>
 
-          <p>Quick and comprehensive assesment of the suitability of the WSO2 integrated products suite into any integration
+          <p>Quick and comprehensive assessment of the suitability of the WSO2 integrated products suite into any integration
 
             scenario.
 
@@ -239,7 +239,7 @@
 
             <br> Well equipped resources, who can deploy in the client sites in a short notice to solve industry enterprise integration
 
-            issues especialliy with exposure to wide range of AWS and WSO2 product offerings.</p>
+            issues especially with exposure to wide range of AWS and WSO2 product offerings.</p>
 
         </div>
 
@@ -313,7 +313,7 @@
 
             <br> Gain our expertise in deploying lightweight Micro Services based components in cloud native container architectures
 
-            via Docker, Docker Swam, Kubernettes. </p>
+            via Docker, Docker Swarm, Kubernetes. </p>
 
         </div>
 

@@ -157,7 +157,7 @@
               <div class="slide-text-div slide-sec-1 col-md-6 col-lg-6 col-sm-12">
                 <div class="slider-title-div">
                   <p class="slider-title">
-                    <span class="slider-title-red">Data Analytics </span>and AI
+                    <span class="slider-title-red">Data Analytics </span>& AI
                   <p>
                   <p class="slider-subtitle">Turning Data into<br> Intelligent Action<p>
                 </div>
