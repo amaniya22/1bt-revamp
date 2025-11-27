@@ -137,8 +137,8 @@
 		<section class="alternate black-section">
 
 			<header class="text-center margin-bottom-60 section-title">
-				<h1> OPEN POSITIONS</h1>
-			</header>
+				<h1 class="text-white"> <span class="text-yellow"> OPEN  </span>POSITIONS</h1>
+			<header>
 			<div class="container">
 
 				<div id="portfolio" class="portfolio-gutter">
@@ -152,12 +152,11 @@
 					</ul>
 
 					<div class="row mix-grid" style="">
-					    
-								<div class="col-md-6 col-sm-6 mix SD" style=""><!-- item -->
-							<a href="careers_Dynamics_365_Business_Central_Developer_Technical_Consultant.php" button type="button" class="btn btn-careers btn-lg btn-block">Dynamics 365 Business Central Developer<br> / Technical Consultant
-							<i class="glyphicon glyphicon-chevron-right"></i></a></button>
 
-						</div><!-- /item -->
+						<div class="col-md-6 col-sm-6 mix SM" style=""><!-- item -->
+							<a href="careers_Dynamics_365_Business_Central_Technical_Consultant.php" button type="button" class="btn btn-careers btn-lg btn-block">Dynamics 365 Business Central Technical Consultant
+							<i class="glyphicon glyphicon-chevron-right"></i></a></button>
+						</div>
 												
 												
 							<div class="col-md-6 col-sm-6 mix SM" style=""><!-- item -->
