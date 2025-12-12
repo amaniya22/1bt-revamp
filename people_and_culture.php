@@ -154,17 +154,17 @@ $page = $_GET['page'] ?? 'careers';
 
     <section class="black-section pnc-section">
       <div class="container">
-        <header class="text-center section-titles section-title">
+        <header class="text-center section-titles section-title margin-bottom-30">
           <h1 class="text-white" data-wow-delay="0.4s"> 
           <span class="text-yellow"> PEOPLE </span> & CULTURE
           </h1>
         </header>
 
         <div class="pnc-tabs">
-          <div id="careers_btn">
+          <div id="careers_btn" class="careers_btn text-center <?= $page == 'careers' ? 'active' : '' ?>">
             <a href="?page=careers" class="tab <?= $page == 'careers' ? 'active' : '' ?>">Careers</a>
           </div>
-          <div id="lifeat1bt_btn">
+          <div id="lifeat1bt_btn" class="lifeat1bt_btn text-center <?= $page == 'life_at_1bt' ? 'active' : '' ?>">
             <a href="?page=life_at_1bt" class="tab <?= $page == 'life_at_1bt' ? 'active' : '' ?>">Life @ 1BT</a>
           </div>
         </div>
@@ -172,18 +172,15 @@ $page = $_GET['page'] ?? 'careers';
       </div>
     </section>
 
-    <section class="nopadding-bottom black-section">
-      <div class="container">
-        <div class="content">
-          <?php
-            if ($page == 'careers') {
-              include "careers.php";
-            } else {
-              include "life_at_1bt.php";
-            }
-          
-          ?>
-        </div>
+    <section class="nopadding-bottom black-section padding-top-10">
+      <div class="content">
+        <?php
+          if ($page == 'careers') {
+            include "careers.php";
+          } else {
+            include "life_at_1bt.php";
+          }
+        ?>
       </div>
     </section>
 

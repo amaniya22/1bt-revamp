@@ -121,27 +121,34 @@
 
 			-->
 
-		<!-- <section class="hidden-xs" id="slider" style="background:url('assets/images/main-home.webp'); background-repeat: no-repeat; background-position-y: 40%; background-position-x: center;">
-			<section class="container" style="background:url('assets/images/career-main.webp'); background-repeat: no-repeat; background-position-y: 45px; background-position-x: center; height: 100%;">
+		<section class="hidden-xs black-section careers-sections" id="slider">
+			<header class="text-center section-titles section-title margin-bottom-0">
+				<h2 class="text-white"> 
+				<span class="text-yellow"> OUR HIRING PROCESS </span>
+				</h2>
+			</header>
+			<section class="container" style="background:url('assets/images/career-main.png'); background-repeat: no-repeat; background-position-y: 45px; background-position-x: center; height: 100%;">
 
 			</section>
 		</section>
 
-		<section class="hidden-md hidden-lg hidden-sm" style="background:url('assets/images/main-home.webp'); background-repeat: no-repeat;background-position-x: center; max-height: 1043px; height: 1043px;">
-			<section style="background:url('assets/images/career-main-mobile.webp'); background-repeat: no-repeat; background-position-y: 45px; background-position-x: center; max-height: 1043px; height: 1043px;">
+		<section class="hidden-md hidden-lg hidden-sm black-section careers-sections">
+			<section style="background:url('assets/images/career-main.png'); background-repeat: no-repeat; background-position-y: 45px; background-position-x: center; max-height: 1043px; height: 1043px;">
 
 			</section>
-		</section> -->
+		</section>
 
 
-		<section class="alternate black-section">
+		<section class="alternate black-section careers-sections">
+			<header class="text-center section-title margin-bottom-30">
+				<h2 class="text-white">
+					<span class="text-yellow"> OPEN </span>POSITIONS
+				</h2>
+			</header>
 
-			<header class="text-center margin-bottom-60 section-title">
-				<h1 class="text-white"> <span class="text-yellow"> OPEN  </span>POSITIONS</h1>
-			<header>
 			<div class="container">
 
-				<div id="portfolio" class="portfolio-gutter">
+				<div id="portfolio" class="portfolio-gutter text-center">
 
 					<ul class="nav nav-pills mix-filter margin-bottom-60">
 						<li data-filter="all" class="filter active"><a href="#">All</a></li>
@@ -151,19 +158,19 @@
 
 					</ul>
 
-					<div class="row mix-grid" style="">
+					<div class="mix-grid" style="">
 
-						<div class="col-md-6 col-sm-6 mix SM" style=""><!-- item -->
+						<div class="col-md-6 col-sm-6 mix SM" style="">
 							<a href="careers_Dynamics_365_Business_Central_Technical_Consultant.php" button type="button" class="btn btn-careers btn-lg btn-block">Dynamics 365 Business Central Technical Consultant
 							<i class="glyphicon glyphicon-chevron-right"></i></a></button>
 						</div>
 												
 												
-							<div class="col-md-6 col-sm-6 mix SM" style=""><!-- item -->
+							<div class="col-md-6 col-sm-6 mix SM" style="">
 							<a href="careers_Intern_Social_Media_Coordinator.php" button type="button" class="btn btn-careers btn-lg btn-block">Intern - Social Media Coordinator
 							<i class="glyphicon glyphicon-chevron-right"></i></a></button>
 
-						</div><!-- /item -->
+						</div>
 					
 					</div>
 
@@ -177,61 +184,123 @@
 
 
 
-		<section class="black-section">
+		<section class="services-white-section">
 			<div class="container">
-
 				<header class="text-center margin-bottom-60 section-title">
-					<p class="sub-heading"> WHAT OUR EMPLOYEES SAY </p>
-					<h1 class="weight-400"> TESTIMONIALS</h1>
+					<h1 class="section-title-h1"><span class="text-yellow"> EMPLOYEE </span> TESTIMONIALS </h1>
 				</header>
-				<!-- 
-						controlls-over		= navigation buttons over the image 
-						buttons-autohide 	= navigation buttons visible on mouse hover only
-						
-						data-plugin-options:
-							"singleItem": true
-							"autoPlay": true (or ms. eg: 4000)
-							"navigation": true
-							"pagination": true
-							"items": "4"
-
-						owl-carousel item paddings
-							.owl-padding-0
-							.owl-padding-3
-							.owl-padding-6
-							.owl-padding-10
-							.owl-padding-15
-							.owl-padding-20
-					-->
-				<div class="owl-carousel owl-padding-10 buttons-autohide controlls-over" data-plugin-options='{"singleItem": false, "items":"3", "autoPlay": 10000, "navigation": true, "pagination": false}'>
-
-					<div>
-						<img class="img-responsive" src="assets/images/Randika.jpg" height="638" width="360" />
+				<div class="testimonial-gallery">
+					<div class="testimonial-card">
+						<div class="testimonial-image-div img-div-1">
+							<img src="assets\images\testimonials\mahendran.png" alt="employee-image" class="emp-img" width="100%" />
+						</div>
+						<div class="testimonial-info text-center">
+							<div class="emp-info margin-bottom-8 text-center">
+								<p class="emp-name weight-600">Mahendra Thammita</p>
+								<p class="emp-title">Associate - Technical Lead</p>
+							</div>
+							<p class="emp-testimonial">
+								The greatest asset at 1 Billion Tech is undoubtedly the people. 
+								Their support and the company's vibrant learning culture have fueled my growth into an 
+								Associate Tech Lead in the Dynamics 365 area. It is an inspiring environment where professional 
+								excellence, career progression, and a genuinely fun atmosphere come together perfectly. 
+							</p>
+						</div>
 					</div>
 
-					<div>
-						<img class="img-responsive" src="assets/images/Sayuri.jpg" height="638" width="360" />
+					<div class="testimonial-card">
+						<div class="testimonial-image-div img-div-2">
+							<img src="assets\images\testimonials\pasindu.png" alt="employee-image" class="emp-img" width="100%" />
+						</div>
+						<div class="testimonial-info text-center">
+							<div class="emp-info margin-bottom-8 text-center">
+								<p class="emp-name weight-600">Pasindu Weerakoon</p>
+								<p class="emp-title">Technical Lead</p>
+							</div>
+							<p class="emp-testimonial">
+								1 Billion Tech is more than a workplace, it's a place where you evolve. 
+								Every project challenges me to think bigger, innovate smarter, and push my boundaries. 
+								The culture encourages learning, collaboration, and ownership. 
+								I’m grateful to be part of a team that values people as much as the technology we build.
+							</p>
+						</div>
 					</div>
 
-					<div>
-						<img class="img-responsive" src="assets/images/Faizeena.jpg" height="638" width="360" />
+					<div class="testimonial-card">
+						<div class="testimonial-info">
+							<div class="emp-info margin-bottom-8 text-center">
+								<p class="emp-name weight-600">Dinithi Mudugamuwaarachchi</p>
+								<p class="emp-title">Quality Assurance Lead</p>
+							</div>
+							<p class="emp-testimonial text-center">
+								1 Billion Tech is an exceptional workplace. 
+								Over eight years, I've experienced outstanding opportunities for personal and professional growth, 
+								fostered by a positive company culture. As a mother, 
+								I especially value the tremendous company support, 
+								enabling me to effectively balance work and personal life.
+							</p>
+						</div>
+						<div class="testimonial-image-div img-div-3">
+							<img src="assets\images\testimonials\dinithi.png" alt="employee-image" class="emp-img" width="100%" />
+						</div>
 					</div>
 
-					<div>
-						<img class="img-responsive" src="assets/images/Vinoth.jpg" height="638" width="360" />
+					<div class="testimonial-card">
+						<div class="testimonial-info">
+							<div class="emp-info margin-bottom-8 text-center">
+								<p class="emp-name weight-600">Visvanatharajah Pravin</p>
+								<p class="emp-title">Senior Technical Lead</p>
+							</div>
+							<p class="emp-testimonial text-center">
+								Working at 1 Billion Tech is a rewarding part of my career. \
+								I've grown technically and professionally in a supportive environment, leading impactful projects. 
+								I appreciate the culture of learning, innovation, and recognition. 
+								1BT truly values its people and their growth.
+							</p>
+						</div>
+						<div class="testimonial-image-div img-div-4">
+							<img src="assets\images\testimonials\pravin.png" alt="employee-image" class="emp-img" width="100%" />
+						</div>
 					</div>
 
-					<div>
-						<img class="img-responsive" src="assets/images/Burhan.jpg" height="638" width="360" />
+					<div class="testimonial-card">
+						<div class="testimonial-image-div img-div-5">
+							<img src="assets\images\testimonials\amaniya.png" alt="employee-image" class="emp-img" width="100%" />
+						</div>
+						<div class="testimonial-info text-center">
+							<div class="emp-info margin-bottom-8 text-center">
+								<p class="emp-name weight-600">Amaniya Faizal</p>
+								<p class="emp-title">Software Engineer - UI</p>
+							</div>
+							<p class="emp-testimonial">
+								Working at 1 Billion Tech has been a rewarding experience. I feel challenged in a positive way, 
+								and the supportive team culture makes it easy to collaborate, innovate, 
+								and take ownership of meaningful work. It’s great to work in a place where people are friendly and 
+								motivated, which makes every project engaging and enjoyable. 
+							</p>
+						</div>
 					</div>
 
-
+					<div class="testimonial-card">
+						<div class="testimonial-image-div img-div-1">
+							<img src="assets\images\testimonials\thillini.png" alt="employee-image" class="emp-img" width="100%" />
+						</div>
+						<div class="testimonial-info text-center">
+							<div class="emp-info margin-bottom-8 text-center">
+								<p class="emp-name weight-600">Thilini Perera</p>
+								<p class="emp-title">Associate Project Manager</p>
+							</div>
+							<p class="emp-testimonial">
+								 I joined 1 Billion Tech as an intern, and today I’m proud to be working as an 
+								 Associate Project Manager. In just a short time, this company has given me real industry exposure, 
+								 hands-on experience, and the opportunity to grow in my career. The learning culture, 
+								 supportive people, and positive atmosphere truly helped me to grow and enhance my skills. 
+								 It’s honestly a great place to work and build your future. 
+							</p>
+						</div>
+					</div>
 				</div>
-
-			</div>
 		</section>
-		<!-- /RECENT NEWS -->
-		<!-- / -->
 		<section class="callout-dark heading-title heading-arrow-top">
 
 			<div class="container">
@@ -308,18 +377,18 @@
 		var plugin_path = 'assets/plugins/';
 	</script>
 
-	<script type="text/javascript" src="assets/plugins/jquery/jquery-2.2.3.min.js"></script>
+	<script type="text/javascript" src="/assets/plugins/jquery/jquery-2.2.3.min.js"></script>
 
 
 	<!-- REVOLUTION SLIDER -->
-	<script type="text/javascript" src="assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js"></script>
-	<script type="text/javascript" src="assets/plugins/slider.revolution/js/jquery.themepunch.revolution.min.js"></script>
-	<script type="text/javascript" src="assets/js/view/demo.revolution_slider.js"></script>
+	<script type="text/javascript" src="/assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js"></script>
+	<script type="text/javascript" src="/assets/plugins/slider.revolution/js/jquery.themepunch.revolution.min.js"></script>
+	<script type="text/javascript" src="/assets/js/view/demo.revolution_slider.js"></script>
 
 
 	<!-- SCRIPTS -->
 
-	<script type="text/javascript" src="assets/js/scripts.js"></script>
+	<script type="text/javascript" src="/assets/js/scripts.js"></script>
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 

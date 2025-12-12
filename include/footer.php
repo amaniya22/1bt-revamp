@@ -120,7 +120,7 @@
             <a href="aboutus.php#leadership">Leadership team</a>
           </li>
           <li>
-            <a href="careers.php">Careers</a>
+            <a href="people_and_culture.php?page=careers">Careers</a>
           </li>
         </div>
         <div>

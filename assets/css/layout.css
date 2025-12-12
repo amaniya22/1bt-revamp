@@ -682,7 +682,7 @@ label {
   overflow: hidden;
   margin-bottom: 20px;
   text-align: left !important;
-  background: white;
+  background: #303030;
   border-right: 5px solid #ff1e22;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
@@ -7687,6 +7687,11 @@ div.ls-thumbnail-slide-container {
   overflow: hidden;
 }
 
+#portfolio .mix-grid {
+  display: flex;
+  gap: 40px
+}
+
 #portfolio h2,
 #portfolio h3 {
   font-family: "Poppins", sans-serif;
@@ -10211,10 +10216,6 @@ footer.sticky {
 
 /*careers button*/
 
-.black-section .mix_all .btn-careers {
-	color: #000 !important;
-}
-
 /** services **/
 .black-section .list-group-item {
   background-color: transparent !important;
@@ -10290,14 +10291,49 @@ footer.sticky {
 
 
 /* People and culture section */
-.black-section .pnc-tabs {
+.pnc-section {
+  width: 100%;
+}
+
+.pnc-section .pnc-tabs {
   align-items: center;
   background-color: #181F25;
   border-radius: 10px;
   display: flex;
   margin: auto;
-  padding: 14px 80px;
+  padding: 5px;
   width: max-content;
+  height: 70px;
+}
+
+.pnc-tabs .careers_btn,
+.pnc-tabs .lifeat1bt_btn {
+  font-family: "Graphik", sans-serif;
+  font-size: 20px;
+  width: 235px;
+}
+
+.pnc-tabs .active {
+  align-content: center;
+  background-color: #E50914;
+  border-radius: 6px;
+  font-weight: 500;
+  height: 100%;
+}
+
+.pnc-tabs .careers_btn a.active,
+.pnc-tabs .lifeat1bt_btn a.active {
+  color: #FFFFFF !important;
+}
+
+.pnc-tabs .careers_btn a,
+.pnc-tabs .lifeat1bt_btn a {
+  color: #A4A4A4 !important;
+  text-decoration: none;
+}
+
+.careers-sections .section-title h2 {
+  font-size: 45px;
 }
 
 .other-services-container {
@@ -10314,6 +10350,73 @@ footer.sticky {
 
 .other-services-div h4 {
   font-size: 20px;
+}
+
+
+/* Careers Employee CSS */
+.testimonial-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.testimonial-gallery .img-div-1 {
+  background-color: #FFE8EC;
+}
+
+.testimonial-gallery .img-div-2 {
+  background-color: #D9E2D3;
+}
+
+.testimonial-gallery .img-div-3 {
+  background-color: #DEDEDE;
+}
+
+.testimonial-gallery .img-div-4 {
+  background-color: #E1E4CE;
+}
+
+.testimonial-gallery .img-div-5 {
+  background-color: #E8CFC1;
+}
+
+.testimonial-gallery .testimonial-info {
+  padding: 18px 15px;
+}
+
+.testimonial-info .emp-info .emp-name {
+  font-size: 24px;
+}
+
+.testimonial-info .emp-info .emp-title {
+  font-style: italic;
+}
+
+.testimonial-info .emp-testimonial {
+  line-height: normal;
+}
+
+.testimonial-info .emp-info .emp-title, 
+.testimonial-info .emp-testimonial {
+  font-size: 14px;
+}
+
+.testimonial-gallery .testimonial-info,
+.testimonial-gallery .testimonial-image-div {
+  width: 50%;
+}
+
+.testimonial-gallery .testimonial-info, 
+.services-white-section p {
+  font-family: 'Graphik', sans-serif;
+  color: #000000 !important;
+}
+
+.services-white-section p {
+  margin: 0;
+}
+
+.testimonial-gallery .testimonial-card {
+  display: flex;
 }
 
 

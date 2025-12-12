@@ -2754,6 +2754,7 @@ section .nav-pills>li>a:focus,
 section .nav-pills>li.active>a,
 section .nav-pills>li.active>a:hover,
 section .nav-pills>li.active>a:focus {
+	color: #FF0000 !important;
 	background-color: rgba(0, 0, 0, 0.1) !important;
 }
 
