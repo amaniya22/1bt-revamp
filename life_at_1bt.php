@@ -135,13 +135,89 @@
 
 			-->
 
-    <section class="black-section">
+    <section class="hidden-xs black-section careers-sections" id="slider">
+		<header class="text-center section-titles section-title margin-bottom-20">
+			<h2 class="text-white"> 
+				<span class="text-yellow"> LIFE </span> @ <span class="text-yellow"> 1BT </span>
+			</h2>
+		</header>
+		<div class="container">
+			<p class="text-center">
+				Life at 1 BT is more than just work - it’s about growth, collaboration, and innovation. 
+				We believe that when people are empowered, inspired, and supported, great ideas naturally follow. 
+				At the heart of our culture lies a simple promise to create an environment where technology meets purpose, 
+				and people thrive together.
+			</p>
+		</div>
+	</section>
+
+	<section class="black-section margin-bottom-60">
       <div class="container">
-        Life @ 1bt 
+        <div class="col-lg-6 col-md-6 col-sm-6">
+          <header class="margin-bottom-10 section-title">
+            <img class="img-responsive margin-bottom-20" src="assets/images/1academy-title.svg" alt="">
+			<p>
+              1 Academy is the learning and development arm of 1 Billion Tech. 
+			  This initiative reflects our commitment to continuous learning and the upskilling of our team members. 
+			  We view 1BT not just as a workplace, but as a home and a university where our employees can thrive. 
+            </p>
+          </header>
+          <ul class="list-unstyled list-icons">
+            <li>
+              <i class="fa fa-angle-double-right"></i>Trainings & Workshops (Technical & Non-Technical)
+			</li>
+            <li>
+              <i class="fa fa-angle-double-right"></i>Periodic Tech Exams
+			</li>
+            <li>
+              <i class="fa fa-angle-double-right"></i>Tech Talks
+			</li>
+			<li>
+              <i class="fa fa-angle-double-right"></i>Podcasts
+			</li>
+			<li>
+              <i class="fa fa-angle-double-right"></i>Round Table Discussions
+			</li>
+          </ul>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 margin-top-40">
+          <img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+        </div>
       </div>
     </section>
 
+	<section class="services-white-section life-at-1bt-sections">
+		<div class="container">
+			<header class="text-center margin-bottom-40 section-title">
+				<h1 class="section-title-h1"><span class="text-yellow"> INTERN </span> DIARIES </h1>
+			</header>
 
+			<div class="embed-responsive embed-responsive-16by9 video-fixed">
+				<iframe src="https://www.youtube.com/embed/36FaRmEPGME?si=jkwG7Val-ePLVvDI"
+				title="YouTube video player" frameborder="0"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+				allowfullscreen></iframe>
+			</div>
+		</div>
+	</section>
+
+	<section class="callout-dark heading-title heading-arrow-top careers-pg-footer">
+		<div class="container">
+			<div class="text-center">
+				<h3 class="size-30 weight-800 gray-title margin-bottom-30">Interested in joining our team?</h3>
+
+				<div class="size-25 padding-top-20 gray-title">
+					<p>
+						We're looking for motivated individuals who are passionate.<br />
+						Join our team and make a difference. Apply now and let's grow together!
+					</p>
+
+					<a style="color:#E50914;" href="mailto:careers@1billiontech.com"><span class="text-yellow">Please send your resume to</span> careers@1billiontech.com</a>
+
+				</div>
+			</div>
+		</div>
+	</section>
 
    
 
