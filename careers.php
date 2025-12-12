@@ -184,17 +184,17 @@
 
 
 
-		<section class="services-white-section">
+		<section class="services-white-section testimonials-section">
 			<div class="container">
 				<header class="text-center margin-bottom-60 section-title">
 					<h1 class="section-title-h1"><span class="text-yellow"> EMPLOYEE </span> TESTIMONIALS </h1>
 				</header>
 				<div class="testimonial-gallery">
 					<div class="testimonial-card">
-						<div class="testimonial-image-div img-div-1">
+						<div class="testimonial-image-div img-div-1 col-lg-6 col-md-6 col-sm-12">
 							<img src="assets\images\testimonials\mahendran.png" alt="employee-image" class="emp-img" width="100%" />
 						</div>
-						<div class="testimonial-info text-center">
+						<div class="testimonial-info text-center col-lg-6 col-md-6 col-sm-12">
 							<div class="emp-info margin-bottom-8 text-center">
 								<p class="emp-name weight-600">Mahendra Thammita</p>
 								<p class="emp-title">Associate - Technical Lead</p>
@@ -212,7 +212,7 @@
 						<div class="testimonial-image-div img-div-2">
 							<img src="assets\images\testimonials\pasindu.png" alt="employee-image" class="emp-img" width="100%" />
 						</div>
-						<div class="testimonial-info text-center">
+						<div class="testimonial-info text-center col-lg-6 col-md-6 col-sm-12">
 							<div class="emp-info margin-bottom-8 text-center">
 								<p class="emp-name weight-600">Pasindu Weerakoon</p>
 								<p class="emp-title">Technical Lead</p>
@@ -267,7 +267,7 @@
 						<div class="testimonial-image-div img-div-5">
 							<img src="assets\images\testimonials\amaniya.png" alt="employee-image" class="emp-img" width="100%" />
 						</div>
-						<div class="testimonial-info text-center">
+						<div class="testimonial-info text-center col-lg-6 col-md-6 col-sm-12">
 							<div class="emp-info margin-bottom-8 text-center">
 								<p class="emp-name weight-600">Amaniya Faizal</p>
 								<p class="emp-title">Software Engineer - UI</p>
@@ -282,10 +282,10 @@
 					</div>
 
 					<div class="testimonial-card">
-						<div class="testimonial-image-div img-div-1">
+						<div class="testimonial-image-div img-div-6 col-lg-6 col-md-6 col-sm-12">
 							<img src="assets\images\testimonials\thillini.png" alt="employee-image" class="emp-img" width="100%" />
 						</div>
-						<div class="testimonial-info text-center">
+						<div class="testimonial-info text-center col-lg-6 col-md-6 col-sm-12">
 							<div class="emp-info margin-bottom-8 text-center">
 								<p class="emp-name weight-600">Thilini Perera</p>
 								<p class="emp-title">Associate Project Manager</p>
@@ -301,7 +301,7 @@
 					</div>
 				</div>
 		</section>
-		<section class="callout-dark heading-title heading-arrow-top">
+		<section class="callout-dark heading-title heading-arrow-top careers-pg-footer">
 
 			<div class="container">
 
@@ -309,11 +309,15 @@
 
 				<div class="text-center">
 
-					<h3 class="size-30 weight-800 gray-title">Interested in joining our team? </h3>
+					<h3 class="size-30 weight-800 gray-title margin-bottom-30">Interested in joining our team? </h3>
 
-					<div class="size-25 padding-top-20 gray-title">Please send your resume to
+					<div class="size-25 padding-top-20 gray-title">
+						<p>
+							We're looking for motivated individuals who are passionate.<br />
+							Join our team and make a difference. Apply now and let's grow together!
+						</p>
 
-						<a style="color:#E50914;" href="mailto:careers@1billiontech.com">careers@1billiontech.com</a>
+						<a style="color:#E50914;" href="mailto:careers@1billiontech.com"><span class="text-yellow">Please send your resume to</span> careers@1billiontech.com</a>
 
 					</div>
 

@@ -154,7 +154,7 @@ $page = $_GET['page'] ?? 'careers';
 
     <section class="black-section pnc-section">
       <div class="container">
-        <header class="text-center section-titles section-title margin-bottom-30">
+        <header class="text-center section-titles section-title margin-bottom-20">
           <h1 class="text-white" data-wow-delay="0.4s"> 
           <span class="text-yellow"> PEOPLE </span> & CULTURE
           </h1>

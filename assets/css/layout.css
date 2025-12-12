@@ -10354,6 +10354,10 @@ footer.sticky {
 
 
 /* Careers Employee CSS */
+.testimonials-section {
+  padding-bottom: 90px;
+}
+
 .testimonial-gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -10379,12 +10383,16 @@ footer.sticky {
   background-color: #E8CFC1;
 }
 
+.testimonial-gallery .img-div-6 {
+  background-color: #ECDBCA;
+}
+
 .testimonial-gallery .testimonial-info {
   padding: 18px 15px;
 }
 
 .testimonial-info .emp-info .emp-name {
-  font-size: 24px;
+  font-size: 23px;
 }
 
 .testimonial-info .emp-info .emp-title {
@@ -10397,7 +10405,7 @@ footer.sticky {
 
 .testimonial-info .emp-info .emp-title, 
 .testimonial-info .emp-testimonial {
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .testimonial-gallery .testimonial-info,
@@ -10405,9 +10413,16 @@ footer.sticky {
   width: 50%;
 }
 
+.careers-pg-footer h3.gray-title,
+.careers-pg-footer .gray-title p,
+.careers-pg-footer .gray-title a,
 .testimonial-gallery .testimonial-info, 
 .services-white-section p {
-  font-family: 'Graphik', sans-serif;
+  font-family: 'Graphik', sans-serif !important;
+}
+
+.testimonial-gallery .testimonial-info, 
+.services-white-section p {
   color: #000000 !important;
 }
 
@@ -10419,5 +10434,34 @@ footer.sticky {
   display: flex;
 }
 
+.careers-pg-footer {
+  background-color: #303030 !important;
+  padding-bottom: 50px !important;
+  padding-top: 65px !important;
+}
+
+.careers-pg-footer h3.gray-title {
+  font-size: 55px !important;
+  font-weight: 600 !important;
+}
+
+.careers-pg-footer .gray-title p {
+  line-height: 30px;
+  margin-bottom: 30px !important;
+}
+
+.careers-pg-footer .gray-title p,
+.careers-pg-footer .gray-title a {
+  font-size: 20px !important;
+  font-weight: 400;
+}
+
+.careers-pg-footer .gray-title a {
+  margin-bottom: 50px !important;
+}
+
+.careers-pg-footer.heading-title.heading-arrow-top:after {
+  display: none;
+}
 
 
