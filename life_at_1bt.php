@@ -306,17 +306,6 @@
 		</div>
 	</section>
 
-   
-
-    <!-- FOOTER -->
-
-    <footer id="footer">
-
-     <?php include 'include/footer.php'; ?>
-
-    </footer>
-
-    <!-- /FOOTER --
 
   </div>
 
