@@ -521,13 +521,9 @@
         <div class="row">
         <div>
         <header class="text-left margin-bottom-20 section-title">
-          <!-- <p class="sub-heading"> LET OUR WORK SPEAK FOR ITSELF </p> -->
           <h1><span class="font-red">CASE</span> STUDIES</h1>
         </header>
         </div>
-        <!-- <div class="col-md-6 ">
-          <p class="case-study-title">At 1BillionTech, we don't just build solutions—we deliver measurable business impact. Our case studies demonstrate how our expertise in AI-driven automation, cloud modernization, and enterprise solutions transforms complex challenges into competitive advantages for our clients. See the strategies, technologies, and results that define our partnerships.</p>
-        </div> -->
         <div class="col-lg-12 case-study-content">
           <div class="col-md-12 col-lg-6 case-section-item">
 

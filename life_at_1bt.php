@@ -135,8 +135,8 @@
 
 			-->
 
-    <section class="hidden-xs black-section careers-sections" id="slider">
-		<header class="text-center section-titles section-title margin-bottom-20">
+    <section class="black-section life-at-1bt-sections padding-top-0">
+		<header class="text-center section-title margin-bottom-20">
 			<h2 class="text-white"> 
 				<span class="text-yellow"> LIFE </span> @ <span class="text-yellow"> 1BT </span>
 			</h2>
@@ -197,6 +197,93 @@
 				title="YouTube video player" frameborder="0"
 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 				allowfullscreen></iframe>
+			</div>
+		</div>
+	</section>
+
+	<section class="black-section life-at-1bt-sections padding-bottom-0">
+		<div class="container">
+			<header class="text-center margin-bottom-10 section-title">
+				<h2 class="section-title-h1"><span class="text-yellow"> CSR : </span> COMMUNITY CONNECT </h2>
+			</header>
+			<p class="text-center margin-bottom-30 padding-50 padding-top-0 padding-bottom-0">
+				Life at 1 BT is more than just work - it’s about growth, collaboration, and innovation. 
+				We believe that when people are empowered, inspired, and supported, great ideas naturally follow. 
+				At the heart of our culture lies a simple promise to create an environment where technology meets purpose, 
+				and people thrive together.
+			</p>
+
+			<div class="csr-section-content">
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0">
+					<img src="assets/images/csr-img-1.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<p>IT lab donations for Nishshanka Central College, Badalkumbura, Monaragala</p>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0">
+					<img src="assets/images/csr-img-2.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<p>Career guidance session students at Nishshanka Central College, Badalkumbura, Monaragala</p>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0">
+					<img src="assets/images/csr-img-3.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<p>Virtual training sessions and workshops for students at Nishshanka Central College, Badalkumbura, Monaragala</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="black-section life-at-1bt-sections padding-bottom-10">
+		<div class="container">
+			<header class="text-center margin-bottom-10 section-title">
+				<h2 class="section-title-h1"><span class="text-yellow"> 1BT FUN </span> HOUSE EVENTS </h2>
+			</header>
+			<p class="text-center margin-bottom-40 padding-50 padding-top-0 padding-bottom-0">
+				At 1BT, we are committed to ensuring that our team remains motivated and engaged, 
+				effectively eliminating the Monday blues. Our internal Event Organizing Committee, 
+				the “1BT Fun House Committee”, organizes a variety of events throughout the year. 
+				Over the past years, the Fun House Committee has successfully facilitated the 
+				following initiatives to foster a lively and enjoyable 
+			</p>
+
+			<div class="csr-section-content padding-50 padding-top-0 padding-bottom-20">
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/emp-gathering.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Fun-Filled Employee Gatherings</h4>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/cultural-celeb.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Cultural Celebrations</h4>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/campus-program.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Campus Outreach Programs</h4>
+				</div>
+			</div>
+			<div class="csr-section-content padding-50 padding-top-0 padding-bottom-20">
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/family-event.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Family-Friendly Events</h4>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/open-mic.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Open Mic Days</h4>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/fitness-challenge.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Fitness Challenges</h4>
+				</div>
+			</div>
+			<div class="csr-section-content padding-50 padding-top-0 padding-bottom-0">
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/csr-init.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>CSR Initiatives</h4>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/leaders-leag-forum.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Leaders League Forum</h4>
+				</div>
+				<div class="csr-info-div col-lg-4 col-md-4 col-sm-12 padding-0 text-center">
+					<img src="assets/images/funhouse/fresh-faces-forum.png" alt="community-image" width="100%" class="margin-bottom-20" />
+					<h4>Fresh Faces Forum</h4>
+				</div>
 			</div>
 		</div>
 	</section>

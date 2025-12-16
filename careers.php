@@ -122,7 +122,7 @@
 			-->
 
 		<section class="hidden-xs black-section careers-sections" id="slider">
-			<header class="text-center section-titles section-title margin-bottom-0">
+			<header class="text-center section-title margin-bottom-0">
 				<h2 class="text-white"> 
 				<span class="text-yellow"> OUR HIRING PROCESS </span>
 				</h2>
