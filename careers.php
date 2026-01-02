@@ -291,11 +291,11 @@
 								<p class="emp-title">Associate Project Manager</p>
 							</div>
 							<p class="emp-testimonial">
-								 I joined 1 Billion Tech as an intern, and today I’m proud to be working as an 
-								 Associate Project Manager. In just a short time, this company has given me real industry exposure, 
-								 hands-on experience, and the opportunity to grow in my career. The learning culture, 
-								 supportive people, and positive atmosphere truly helped me to grow and enhance my skills. 
-								 It’s honestly a great place to work and build your future. 
+								I joined 1 Billion Tech as an intern, and today I’m proud to be working as an 
+								Associate Project Manager. In just a short time, this company has given me real industry exposure, 
+								hands-on experience, and the opportunity to grow in my career. The learning culture, 
+								supportive people, and positive atmosphere truly helped me to grow and enhance my skills. 
+								It’s honestly a great place to work and build your future. 
 							</p>
 						</div>
 					</div>

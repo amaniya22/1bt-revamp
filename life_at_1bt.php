@@ -181,7 +181,62 @@
           </ul>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 margin-top-40">
-          <img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+          <!-- <img class="img-responsive" src="assets/images/1academy-img.png" alt=""> -->
+
+			<section id="slider-container" class="slide-mobile academy-section-slider">
+				<div class="custom-container">
+					<div class="slide-container">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+					<div class="slide-main">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+					<div class="slide-main">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+					<div class="slide-main">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+					<div class="slide-main">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+					<div class="slide-main">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+					<div class="slide-main">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+					<div class="slide-main">
+						<div class="slide slide-row">
+							<img class="img-responsive" src="assets/images/1academy-img.png" alt="">
+						</div>
+					</div>
+				</div>
+
+				<!-- Navigation dots -->
+				<div class="text-center margin-top-20">
+					<span class="dot"></span>
+					<span class="dot"></span>
+					<span class="dot"></span>
+					<span class="dot"></span>
+					<span class="dot"></span>
+					<span class="dot"></span>
+				</div>
+			</section>
         </div>
       </div>
     </section>
