@@ -154,6 +154,7 @@
 						<li data-filter="all" class="filter active"><a href="#">All</a></li>
 						<li data-filter="SD" class="filter"><a href="#">Software Development</a></li>
 						<li data-filter="SM" class="filter"><a href="#">Sales & Marketing</a></li>
+						<li data-filter="PM" class="filter"><a href="#">Project Management</a></li>
 				
 
 					</ul>
@@ -174,7 +175,17 @@
 					
 					</div>
 
+					<div class="mix-grid" style="">
+						<div class="col-md-6 col-sm-6 mix PM" style="">
+							<a href="careers_Project_Manager.php" button type="button" class="btn btn-careers btn-lg btn-block">Project Manager
+							<i class="glyphicon glyphicon-chevron-right"></i></a></button>
+						</div>
 
+						<div class="col-md-6 col-sm-6 mix SM" style="">
+							<!-- <a href="careers_Project_Manager.php" button type="button" class="btn btn-careers btn-lg btn-block">Project Manager
+							<i class="glyphicon glyphicon-chevron-right"></i></a></button> -->
+						</div>
+					</div>
 
 				</div>
 
