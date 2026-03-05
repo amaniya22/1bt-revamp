@@ -280,21 +280,6 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
               <div class="box-icon-title">
-                <img src="./assets/images/Anushka.png" width="175px">
-                <h2 class="size-30">Anushka Wickramaratne</h2>
-                <span>Associate Director/ Head of Quality Assurance</span>
-              </div>
-              <p class="size-15">
-                With over 18 years of proven experience in the IT field and the software testing life 
-                cycle, Anushka has a strong foundation in Quality Assurance and Software Testing 
-                principles.
-              </p>
-            </div>
-          </div>
-
-          <div class="col-md-4 col-sm-6 col-xs-12">
-            <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
-              <div class="box-icon-title">
                 <img src="./assets/images/Maneesha.png" width="175px">
                 <h2 class="size-30">Maneesha Samarajeewa</h2>
                 <span>Director - People & Culture</span>
@@ -306,10 +291,7 @@
               </p>
             </div>
           </div>
-        </div>
 
-        <div class="row">
-          <div class="col-md-4 col-sm-6 col-xs-12"></div>
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="box-icon box-icon-center box-icon-round box-icon-transparent box-icon-large">
               <div class="box-icon-title">
@@ -324,7 +306,6 @@
               </p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 col-xs-12"></div>
         </div>
   </div></section>
   <a name="advisors"></a>
